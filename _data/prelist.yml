@@ -1,0 +1,19 @@
+- title: "Geometric constraints in protein folding"
+  image: xx.png
+  description: A simple nextowrk model reveals protein like packing.
+  authors:  N. Molkenthin, S. Mühle, A.S.J.S. Mey, M. Timme
+  link:
+    url: https://arxiv.org/abs/1812.09692
+    display: arXiv
+  highlight: 0
+  news2:
+
+- title: "Atomic Level Characterisation of Millisecond Time Scale Protein Motions through a Combined Molecular Simulations and NMR Approach"
+  image: xx.png
+  description: 
+  authors: J. Juárez-Jiménez, A. Gupta, G. Karunanithy, A.S.J.S. Mey, et al.
+  link:
+    url: doi:10.1101/490987
+    display: bioArXiv
+  highlight: 0
+  news2:

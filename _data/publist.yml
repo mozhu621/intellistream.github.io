@@ -1,0 +1,168 @@
+- title: "BioSimSpace: An interoperable Python framework for biomolecular simulation"
+  image:
+  description: An interoperale molecular software framework for running complex alchemical free energy simulations as well as metadynamics simulations. 
+  authors: L.O. Hedges, A.S.J.S. Mey, C.A. Laughton, et al.
+  link:
+    url: https://joss.theoj.org/papers/10.21105/joss.01831
+    display: JOSS, 4, 1831 (2019)
+  highlight: 0
+  news1:
+
+- title: "Allosteric effects in a catalytically impaired variant of the enzyme Cyclophilin A may be explained by changes in nano-microsecond time scale motions"
+  image: cyclophilin.png
+  description:  Molecular simulations can give an alternative explanation for the reduced catalytic rate of mutant CypA that is experimentally testable. 
+  authors: P. Wapeesittipan, A.S.J.S. Mey, M. Walkinshaw, J. Michel
+  link:
+    url: https://doi.org/10.1038/s42004-019-0136-1
+    display:  Comms. Chem. 2 41 (2019)
+  highlight: 1
+  news2:
+
+- title: "Effect of automation on the accuracy of alchemical free energy calculation protocols over a set of ACK1 inhibitors"
+  image: PbSpub.png
+  description: 
+  authors: J.M. Granadino-Roldan*, A.S.J.S. Mey*,  J.J. Perez, S. Bosisio, J. Rubio-Martinez, J. Michel
+  link:
+    url: https://doi.org/10.1371/journal.pone.0213217
+    display: PloS One 14, e0213217 (2019)
+  highlight: 0
+  news2:
+
+- title: "Impact of domain knowledge on blinded predictions of binding energies by alchemical free energy calculations"
+  image: fxr.png
+  description: Accounting for differently charged ligands can be difficult in simulations, a framework for charging corrections was tested as part of a blinded challenge.
+  authors:  A.S.J.S. Mey, J. Juárez-Jiménez, J. Michel
+  link:
+    url: https://link.springer.com/article/10.1007%2Fs10822-017-0083-9
+    display:  J. Comput. Aided. Mol. Des. 32, 199 (2018)
+  highlight: 1
+  news2:
+
+- title: "Blinded predictions of host-guest standard free energies of binding in the SAMPL5 challenge"
+  description: 
+  authors: S. Bosisio, A.S.J.S. Mey, J. Michel,
+  link:
+    url: dx.doi.org/10.1007/s10822-016-9933-0
+    display: J. Comput. Aided. Mol. Des. 31, 61 (2017)
+  highlight: 0
+  news2:
+
+- title: "Analytical methods for structural ensembles and dynamics of intrinsically disordered proteins"
+  image: Pub_BCl.png
+  description: 
+  authors: M. Schor, A.S.J.S. Mey, C.E. MacPhee
+  link:
+    url: dx.doi.org/10.1007/s12551-016-0234-6
+    display: Biophys. Rev. 8, 429 (2016)
+  highlight: 0
+  news1: 
+
+- title: "Blinded predictions of distribution coefficients in the SAMPL5 challenge"
+  image: Fano.png
+  description:
+  authors: S. Bosisio, A.S.J.S. Mey, J. Michel
+  link:
+    url: dx.doi.org/10.1007/s10822-016-9969-1
+    display: J. Comput. Aided. Mol. Des. 30, 1101 (2016)
+  highlight: 0
+  news2:
+
+- title: "Blinded predictions of binding modes and energies of HSP90-α ligands for the 2015 D3R Grand Challenge"
+  image: hsp90.png
+  description: Alchemical free energy calculation for HSP90-α using SOMD give competitive results in a blinded prediction challenge.
+  authors: A.S.J.S. Mey*, J. Juárez-Jiménez*, A. Hennessy, J. Michel
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S096808961630551X?via%3Dihub
+    display: Bioorg. Med. Chem. 24, 4890 (2016) 
+  highlight: 1
+  news2:
+
+- title: "Elucidation of Non-Additive Effects in Protein-Ligand Binding Energies: Thrombin as a Case Study,"
+  image: 
+  description:
+  authors: G. Calabrò, C.J. Woods, F. Powlesland, A.S.J.S Mey, A.J. Mulholland, J. Michel
+  link:
+    url: dx.doi.org/10.1021/acs.jpcb.6b03296
+    display: J. Phys. Chem. B 120, 5340 (2016)
+  highlight: 0
+  news2:
+
+- title: "Shedding light on the dock-lock mechanism in amyloid fibril growth using Markov State Models"
+  image: fibrils.png
+  description: Amyloid fibril formation from a docked to a locked state occurs along a set of pathways containing highly metastable trapping states. pH will influence the population of the different metastable trapping states.
+  authors: M. Schor, A.S.J.S. Mey, F. Noé, C.E. MacPhee
+  link:
+    url: https://pubs.acs.org/doi/10.1021/acs.jpclett.5b00330
+    display:  J. Phys. Chem. Lett. 6, 1076 (2015) 
+  highlight: 1
+  news2:
+
+- title: "Dynamic Properties of Forcefields"
+  image: speed.png
+  description: Protein dynamics is highly dependent on the choice of molecular forcefield. The speed of different forcefields is assessed.
+  authors: F. Vitalini*, A.S.J.S. Mey*,  F. Noé and B.G. Keller
+  link:
+    url: https://aip.scitation.org/doi/abs/10.1063/1.4909549?journalCode=jcp
+    display: J. Chem. Phys. 142, 084101 (2015)
+  highlight: 1
+  news2: "Most read article of in JCP in 2015"
+
+- title: "Statistically optimal analysis of state-discretized trajectory data from multiple thermodynamic states"
+  image: 
+  description:
+  authors:  H. Wu, A.S.J.S. Mey, E. Rosta, F. Noé
+  link:
+    url: dx.doi.org/10.1063/1.4902240
+    display: J. Chem. Phys. 141, 214106 (2014)
+  highlight: 0
+  news2:
+
+- title: "xTRAM: Estimating equilibrium expectations from time-correlated simulation data at multiple thermodynamic states"
+  image: xTRAM.png
+  description: A Bayesian estimator for enhanced molecular simulation to estimate both thermodynamic properties and dynamic properties.
+  authors:  A.S.J.S. Mey, H. Wu, and F. Noé
+  link:
+    url: https://journals.aps.org/prx/abstract/10.1103/PhysRevX.4.041018
+    display: Phys. Rev. X 4, 041018 (2014)
+  highlight: 1
+  news2:
+
+- title: "Rare-event trajectory ensemble analysis reveals metastable dynamical phases in lattice proteins"
+  image: 
+  description:
+  authors:  A.S.J.S. Mey, P.L. Geissler and J.P. Garrahan
+  link:
+    url: dx.doi.org/10.1103/PhysRevE.89.032109
+    display: Phys. Rev. E  89, 032109 (2014)
+  highlight: 0
+  news2:
+
+- title: "Variational approach to molecular kinetics"
+  image: 
+  description:
+  authors:  F. Nüske, B.G. Keller, G. Pérez-Hernández, A.S.J.S. Mey, F. Noé
+  link:
+    url: dx.doi.org/10.1021/ct4009156
+    display: J. Chem. Theory Comput. 10, 1739 (2014)
+  highlight: 0
+  news2:
+
+- title: "EMMA - A software package for Markov model building and analysis"
+  image: 
+  description:
+  authors: M. Senne, B. Trendelkamp-Schroer, A.S.J.S. Mey, C. Schütte, F. Noé
+  link:
+    url: dx.doi.org/10.1021/ct300274u
+    display: J. Chem. Theory Comput. 8, 2223 (2012)
+  highlight: 0
+  news2:
+
+- title: "Thermodynamics of trajectories of the one-dimensional Ising model"
+  image: 
+  description:
+  authors: E.S. Loscar, A.S.J.S. Mey, J.P. Garrahan
+  link:
+    url: dx.doi.org/10.1088/1742-5468/2011/12/P12011
+    display: J. Stat. Mech. 2011, P12011 (2011)
+  highlight: 0
+  news2:
