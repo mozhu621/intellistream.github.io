@@ -8,12 +8,12 @@
   highlight: 0
   news2:
 
-- title: "Atomic Level Characterisation of Millisecond Time Scale Protein Motions through a Combined Molecular Simulations and NMR Approach"
+- title: "Dynamic design: manipulation of millisecond timescale motions on the energy landscape of Cyclophilin A"
   image: xx.png
   description: 
   authors: J. Juárez-Jiménez, A. Gupta, G. Karunanithy, A.S.J.S. Mey, et al.
   link:
-    url: doi:10.1101/490987
+    url: https://www.biorxiv.org/content/10.1101/490987v2
     display: bioArXiv
   highlight: 0
   news2:
