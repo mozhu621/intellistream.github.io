@@ -10,7 +10,7 @@
 
 - title: "Allosteric effects in a catalytically impaired variant of the enzyme Cyclophilin A may be explained by changes in nano-microsecond time scale motions"
   image: cyclophilin.png
-  description:  Molecular simulations can give an alternative explanation for the reduced catalytic rate of mutant CypA that is experimentally testable. 
+  description:  Molecular simulations can give an alternative explanation for the reduced catalytic rate of different Cyclophilin A mutants that is experimentally testable. 
   authors: P. Wapeesittipan, A.S.J.S. Mey, M. Walkinshaw, J. Michel
   link:
     url: https://doi.org/10.1038/s42004-019-0136-1
@@ -118,7 +118,7 @@
   news2:
 
 - title: "xTRAM: Estimating equilibrium expectations from time-correlated simulation data at multiple thermodynamic states"
-  image: xTRAM.png
+  image: xtram.png
   description: A Bayesian estimator for enhanced molecular simulation to estimate both thermodynamic properties and dynamic properties.
   authors:  A.S.J.S. Mey, H. Wu, and F. Noé
   link:
