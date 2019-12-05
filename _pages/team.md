@@ -100,7 +100,7 @@ Please get in touch by [email](mailto:antonia.mey@ed.ac.uk) to discuss different
 
 
 ### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). 
+If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:antonia.mey@ed.ac.uk). 
 If there is no specific opening advertise take a look at some of the following opportunities for PhD students:   
 * [University of Edinburgh Scholarship and Student Funding Services](https://www.ed.ac.uk/student-funding)   
 * [Commonwealth Scholarships](http://cscuk.dfid.gov.uk)    

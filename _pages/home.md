@@ -49,7 +49,7 @@ We are young and dynamic research group based at the [University of Edinburgh in
 **We are looking for more people to join the group for** [(more info)]({{ site.url }}{{ site.baseurl }}/team) information on how to join take a look**!**
 
 
-We are grateful for funding from [Royal Society of Chemistry](rsc.org) for the Outreach project Chemistry in Focus.
+We are grateful for funding from [Royal Society of Chemistry](https://www.rsc.org) for the Outreach project Chemistry in Focus.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/edinburgh_logo.jpg" style="width: 110px">
