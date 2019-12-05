@@ -63,7 +63,7 @@ Also keep an eye on twitter, and the news section for exciting outreach updates!
 ### IMAGINARY Videos
 [IMAGINARY](imaginary.org) is an open source platform for mathematics communication resources. It is a non-profit organisation that started as the mathematics outreach project of the Mathematische Forschungsinstitut Oberwolfach (MFO). We have contributed to their work on a freelance basis. Please get in contact by [email](mailto:antonia.mey@imaginary.org) if you are interested in any kind of mathematics related outreach activities, such as organising an exhibition or school visit etc. 
  
-My interest in outreach was sparked with a competition for exhibition modules, for which a team consisting of myself, Guillaume Juvet and Chantalle Landry submitted a film on the mathematics behind glacial movement. Take a look here :
+My interest in outreach was sparked with a competition for exhibition modules, for which a team consisting of myself, [Guillaume Jouvet](http://people.ee.ethz.ch/~jouvetg/) and Chantalle Landry submitted a film on the mathematics behind glacial movement. Take a look here :
 <p></p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eJNIr_0zOyk" frameborder="0" allowfullscreen></iframe>
 <p></p>
