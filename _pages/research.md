@@ -8,25 +8,22 @@ permalink: /research/
 
 # Research
 
-### Metallo enzymes and antimicrobial resistance
-We are interested in understanding how the catalysis, dynamics and inhibition of metallo enzymes work. To study this we 
+Please bear with us while we update the information on this page. 
 
-
-
-### 
 
 # Software
 
 
 
+All our code can be found on github following a completely open source software development strategy.    
 
-<center>
- <a href="https://twitter.com/ppxasjsm"><img src="{{ site.url }}{{ site.baseurl }}/images/research/twitter.png" style="width: 40px" ></a>
-
-<a href="https://github.com/meyresearch"> <img src="{{ site.url }}{{ site.baseurl }}/images/research/githubg.png" style="width: 40px" ></a>
-
-<a href="https://scholar.google.com/citations?user=_NNNlvMAAAAJ&hl=en"> <img src="{{ site.url }}{{ site.baseurl }}/images/research/scholar.png" style="width: 40px" ></a>
-<center>
+<a href="https://github.com/meyresearch"> <img src="{{ site.url }}{{ site.baseurl }}/images/research/githubg.png" style="width: 60px; border: 20px" ></a>
 
 
-  
+
+
+
+
+
+
+
