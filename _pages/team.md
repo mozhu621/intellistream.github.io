@@ -13,7 +13,7 @@ permalink: /team/
 ## Team Lead
 
 <div>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/me.jpg" class="img-responsive" width="10%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/me2.jpg" class="img-responsive" width="20%" style="float: left" />
   <h4>Antonia Mey</h4>
   <i>Christina Miller Fellow, started Jan 2020 <br>email: [antonia.mey@ed.ac.uk](mailto:antonia.mey@ed.ac.uk)<br>
     A full CV is available [here]({{ site.url }}{{ site.baseurl }}/downloads/cv.pdf). </i>
