@@ -29,7 +29,8 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-
+# Google services
+google_analytics: UA-155086764-1
 
 # Markdown Processing
 kramdown:
