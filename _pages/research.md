@@ -6,16 +6,12 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research
+### Research
+**Molecular Modelling** • **Metalloenzymes** • **Protein Dynamics** • **Machine learning** 
 
-### Understanding Antimicrobial resistance with molecular simulations
+Molecular modelling in combination with mathematical modelling and machine learning allows atomistic insight into the behaviour of molecular biological systems. We use and develop tools to improve protein models that allow us to study small molecule protein interactions, protein protein interactions, as well as protein mutations. One particular research focus are metalloenzymes that give rise to antibiotic resistances in bacteria. 
 
-
-### Development and improvement of molecular simulation tools
-
-Molecular simulations have been an invaluable tool for predicting and understanding biological processes at an atomistic level. With greater computational power, larger more complex systems can be modelled and better understood. We develop tools that allow the computation of dynamic and equilibrium properties of molecular systems, such as free energies of binding, or binding and unbinding rates. 
-
-# Software
+### Software
 
 ![]({{ site.url }}{{ site.baseurl }}/images/research/BSS-logo.png){: style="width: 80px; float: left; border: 10px"}
 [BioSimSpace](http://biosimspace.org) is the largest of the software projects we were involved in. It is an interoperable simulation frame work that allows easy setup, simulation and analysis of simple molecular dynamics simulations, alchemical free energy simulations or metadynamics simulations.     
