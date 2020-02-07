@@ -1,19 +1,9 @@
-- title: "Geometric constraints in protein folding"
+- title: "Automated Assessment of Binding Affinity via Alchemical Free Energy Calculations"
   image: xx.png
-  description: A simple nextowrk model reveals protein like packing.
-  authors:  N. Molkenthin, S. Mühle, A.S.J.S. Mey, M. Timme
+  description: Alchemical free energy simulation are now availabe with Flare GUI
+  authors:  M. Kuhn, S. Firth-Clark, P. Tosco, A. S. J. S. Mey, M. Mackey, J. Michel
   link:
-    url: https://arxiv.org/abs/1812.09692
-    display: arXiv
+    url: https://chemrxiv.org/articles/Automated_Assessment_of_Binding_Affinity_via_Alchemical_Free_Energy_Calculations/11812053
+    display: chemrxiv
   highlight: 0
-  news2:
-
-- title: "Dynamic design: manipulation of millisecond timescale motions on the energy landscape of Cyclophilin A"
-  image: xx.png
-  description: 
-  authors: J. Juárez-Jiménez, A. Gupta, G. Karunanithy, A.S.J.S. Mey, et al.
-  link:
-    url: https://www.biorxiv.org/content/10.1101/490987v2
-    display: bioArXiv
-  highlight: 0
-  news2:
+  news2: 

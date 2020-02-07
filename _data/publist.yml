@@ -1,3 +1,23 @@
+- title: "Geometric constraints in protein folding"
+  image: xx.png
+  description: A simple nextowrk model reveals protein like packing.
+  authors:  N. Molkenthin, S. Mühle, A.S.J.S. Mey, M. Timme
+  link:
+    url: https://arxiv.org/abs/1812.09692
+    display: Plos One (accepted)
+  highlight: 0
+  news2:
+
+- title: "Dynamic design: manipulation of millisecond timescale motions on the energy landscape of Cyclophilin A"
+  image: xx.png
+  description: 
+  authors: J. Juárez-Jiménez, A. Gupta, G. Karunanithy, A.S.J.S. Mey, et al.
+  link:
+    url: https://pubs.rsc.org/en/content/articlelanding/2020/sc/c9sc04696h#!divAbstract
+    display: Chemical Science (accepted)
+  highlight: 0
+  news2:
+
 - title: "BioSimSpace: An interoperable Python framework for biomolecular simulation"
   image:
   description: An interoperale molecular software framework for running complex alchemical free energy simulations as well as metadynamics simulations. 
