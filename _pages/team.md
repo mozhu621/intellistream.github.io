@@ -122,4 +122,10 @@ The group is happy to accommodate students from various disciplines, not just Ch
 ### Summer student projects
 Please send me an [email](mailto:antonia.mey@ed.ac.uk) if you are interested in doing a summer research project to discuss possible available options. 
 
+Deadlines for summer projects are usually quite early in the year (end of January). Here is a none exhaustive list of funding sources:
+
+* [Royal Society of Chemistry](https://www.rsc.org/ScienceAndTechnology/Funding/undergraduate-bursary.asp)
+* [Carnegie Trust](https://www.carnegie-trust.org/award-schemes/vacation-scholarships/)
+* [Edinburgh University Vacation](https://uoe.sharepoint.com/sites/CSCE/AcademicAffairs/SitePages/College-Vacation-Scholarships.aspx)
+
 ### There are no current open positions! 
