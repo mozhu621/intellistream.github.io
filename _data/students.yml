@@ -1,16 +1,9 @@
-- name: Cameron Marshall
-  photo: Cameron.jpg
-  info: Biotechnology Honours student
+- name: Marta Chronowska
+  photo: marta.jpg
+  info: Medicinal and Biological Chemistry (MChem)
   email: 
   number_educ: 1
-  education1: BSc Biotechnology (Hons) University of Edinburgh, expected completion July 2020
-
-- name: Jonathan Alvis
-  photo: jonathan.jpg
-  info: Biochemistry Honours student
-  email: 
-  number_educ: 1
-  education1: BSc Biochemistry (Hons) University of Edinburgh, expected completion July 2020
+  education1: MChem BMedicinal and Biological Chemistry, University of Edinburgh, expected completion July 2023
 
 - name: "This could be you !"
   photo: user.png

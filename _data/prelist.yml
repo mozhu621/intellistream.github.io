@@ -1,9 +1,9 @@
-- title: "Automated Assessment of Binding Affinity via Alchemical Free Energy Calculations"
+- title: "A Hybrid Alchemical Free Energy and Machine Learning Methodology for the Calculation of Absolute Hydration Free Energies of Small Molecules"
   image: xx.png
   description: Alchemical free energy simulation are now availabe with Flare GUI
-  authors:  M. Kuhn, S. Firth-Clark, P. Tosco, A.S.J.S. Mey, M. Mackey, J. Michel
+  authors:   J. Scheen, W. Wu, A.S.J.S. Mey, P. Tosco, M. Mackey, J. Michel
   link:
-    url: https://chemrxiv.org/articles/Automated_Assessment_of_Binding_Affinity_via_Alchemical_Free_Energy_Calculations/11812053
+    url: https://chemrxiv.org/articles/A_Hybrid_Alchemical_Free_Energy_and_Machine_Learning_Methodology_for_the_Calculation_of_Absolute_Hydration_Free_Energies_of_Small_Molecules/12380612
     display: chemrxiv
   highlight: 0
   news2: 

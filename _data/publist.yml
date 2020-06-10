@@ -1,3 +1,13 @@
+- title: "Assessment of Binding Affinity via Alchemical Free-Energy Calculations"
+  image: xx.png
+  description: Alchemical free energy simulation are now availabe with Flare GUI
+  authors:  M. Kuhn, S. Firth-Clark, P. Tosco, A.S.J.S. Mey, M. Mackey, J. Michel
+  link:
+    url: https://pubs.acs.org/doi/10.1021/acs.jcim.0c00165
+    display: accepted
+  highlight: 0
+  news2: 
+
 - title: "Geometric constraints in protein folding"
   image: xx.png
   description: A simple nextowrk model reveals protein like packing.

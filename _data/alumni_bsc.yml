@@ -1,1 +1,13 @@
+- name: Cameron Marshall
+  photo: Cameron.jpg
+  info: Biotechnology Honours student
+  email: 
+  number_educ: 1
+  education1: BSc Biotechnology (Hons) University of Edinburgh, expected completion July 2020
 
+- name: Jonathan Alvis
+  photo: jonathan.jpg
+  info: Biochemistry Honours student
+  email: 
+  number_educ: 1
+  education1: BSc Biochemistry (Hons) University of Edinburgh, expected completion July 2020

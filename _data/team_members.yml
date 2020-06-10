@@ -1,10 +1,5 @@
-- name: Antonia Mey
-  photo: me.jpg
-  info: Christina Miller Fellow, started Jan 2019
-  email: antonia.mey@ed.ac.uk
-  number_educ: 4
-  education1: BSc Physics with Chemistry, Keele University
-  education2: PhD University of Nottingham with <a href="https://www.nottingham.ac.uk/~ppzjpg/About.html">Juan Garrahan</a>
-  education3: Postdoc Freie Universität Berlin with <a href="https://www.mi.fu-berlin.de/en/math/groups/comp-mol-bio/index.html">Frank Noe</a>
-  education4: Postdoc University of Edinburgh with <a href="http://www.julienmichel.net/lab/">Julien Michel</a>
-
+- name: Jenke Scheen
+  photo: jenke.jpg
+  info: PhD student, started Sep 2018, main supervisor Julien Michel
+  number_educ: 1
+  education1: Msc Bio-Pharmaceutical Sciences & Medicinal Chemistry, University of Leiden
