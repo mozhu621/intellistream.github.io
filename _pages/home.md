@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are young and dynamic research group based at the [University of Edinburgh in the School of Chemistry](http://www.chem.ed.ac.uk) that forms part of [East Chem](http://www.chem.ed.ac.uk/research). The research looks at combining data intensive simulation approaches with machine learning to understand protein function and inhibition better, with a particular focus on antimicrobial resistance. 
+We are young and dynamic research group based at the [University of Edinburgh in the School of Chemistry](http://www.chem.ed.ac.uk) that forms part of [EaSt Chem](http://www.chem.ed.ac.uk/research). The research looks at combining data intensive simulation approaches with machine learning to understand protein function and inhibition better, with a particular focus on antimicrobial resistance. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="2000" data-pause="hover" >
     <!-- Menu -->
@@ -45,6 +45,9 @@ We are young and dynamic research group based at the [University of Edinburgh in
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+**We are currently looking for candidates for an EASTBio PhD project jointly with Rafal Szabla on how RNA/DNA was formed on Earth.**
+For more information take a look at the advert [here](https://www.findaphd.com/phds/project/eastbio-understanding-prebiotic-rna-self-replication-using-quantum-chemistry-and-machine-learning/?p125095) and more information [here]({{ site.url }}{{ site.baseurl }}/team). Please email your expression of interest no later than 10th December 2020 to [antonia.mey@ed.ac.uk](mailto:antonia.mey@ed.ac.uk). 
 
 **We are looking for more people to join the group for** [(more info)]({{ site.url }}{{ site.baseurl }}/team) information on how to join take a look**!**
 

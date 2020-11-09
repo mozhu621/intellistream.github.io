@@ -1,9 +1,19 @@
-- title: "A Hybrid Alchemical Free Energy and Machine Learning Methodology for the Calculation of Absolute Hydration Free Energies of Small Molecules"
+- title: "Implementation of the QUBE Force Field for High-Throughput Alchemical Free Energy Calculations"
   image: xx.png
-  description: Alchemical free energy simulation are now availabe with Flare GUI
-  authors:   J. Scheen, W. Wu, A.S.J.S. Mey, P. Tosco, M. Mackey, J. Michel
+  description: Implementation of QUBE in BioSimSpace for alchemical free energy calculations. 
+  authors:   L. Nelson, S. Bariami, C. Ringrose, J. Horton, V. Kurdekar, A. Mey, J. Michel, D. Cole
   link:
-    url: https://chemrxiv.org/articles/A_Hybrid_Alchemical_Free_Energy_and_Machine_Learning_Methodology_for_the_Calculation_of_Absolute_Hydration_Free_Energies_of_Small_Molecules/12380612
+    url: https://chemrxiv.org/articles/preprint/Implementation_of_the_QUBE_Force_Field_for_High-Throughput_Alchemical_Free_Energy_Calculations/13116878
     display: chemrxiv
+  highlight: 0
+  news2: 
+
+- title: "Best Practices for Alchemical Free Energy Calculations"
+  image: xx.png
+  description: A guide to get you started on how to run alchemical free energy calculations effectively. 
+  authors:   A.S.J.S. Mey, B. Allen, H.E. Bruce Macdonald, J.D. Chodera, D. Hahn, M. Kuhn, J. Michel, D.L. Mobley, L.N. Naden, S. Prasad, A. Rizzi, J. Scheen, M.R. Shirts, G. Tresadern, H. Xu
+  link:
+    url: https://arxiv.org/abs/2008.03067
+    display: arxiv
   highlight: 0
   news2: 

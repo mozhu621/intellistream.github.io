@@ -154,12 +154,23 @@ permalink: /team/
 
 # Joining the group
 
+### Open Positions
+
+We are currently looking for candidates for the [EASTBio DPT funded PhD studentship](https://www.findaphd.com/phds/project/eastbio-understanding-prebiotic-rna-self-replication-using-quantum-chemistry-and-machine-learning/?p125095) to work on how DNA and RNA formed in the Archean Eon on Earth using computational modelling as well as machine learning. This will be work done jointly with [Rafal Szabla](http://www.chem.ed.ac.uk/staff/academic-staff/dr-rafal-szabla) in collaboration with [Jack Szotak](https://molbio.mgh.harvard.edu/szostakweb/). 
+
+**Eligibility criteria:**    
+[Here](https://www.ukri.org/wp-content/uploads/2020/10/UKRI-121020-Guidance-International-Eligibility-Implementation-training-grant-holders.pdf) is some information on who can apply for the EASTBio DPT.
+
+**Expression of interest:** 
+- Please send an email to [Antonia Mey](mailto:antonia.mey@ed.ac.uk) to express your interest no later than 10th December 2020. 
+- For a full appliction to the EASTBio DPT please see [this guide](http://www.eastscotbiodtp.ac.uk/how-apply-0). 
+
+
+### Applications for PhD and Postdoc positions
 Are you interested in working on exiting challenges around anticmicrobial resistance looking at ways to combine machine learning and molecular simulations? 
 
 Please get in touch by [email](mailto:antonia.mey@ed.ac.uk) to discuss different opportunities to join the group, or take a look at some of these PhD and Postdoc funding opportunities: 
 
-
-### Applications for PhD and Postdoc positions
 If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:antonia.mey@ed.ac.uk). 
 If there is no specific opening advertise take a look at some of the following opportunities for PhD students:   
 * [University of Edinburgh Scholarship and Student Funding Services](https://www.ed.ac.uk/student-funding)   

@@ -1,10 +1,20 @@
+- title: "A Hybrid Alchemical Free Energy and Machine Learning Methodology for the Calculation of Absolute Hydration Free Energies of Small Molecules"
+  image: xx.png
+  description: Alchemical free energy simulation are now availabe with Flare GUI
+  authors:   J. Scheen, W. Wu, A.S.J.S. Mey, P. Tosco, M. Mackey, J. Michel
+  link:
+    url: https://pubs.acs.org/doi/10.1021/acs.jcim.0c00600
+    display: accepted
+  highlight: 0
+  news2: 
+
 - title: "Assessment of Binding Affinity via Alchemical Free-Energy Calculations"
   image: xx.png
   description: Alchemical free energy simulation are now availabe with Flare GUI
   authors:  M. Kuhn, S. Firth-Clark, P. Tosco, A.S.J.S. Mey, M. Mackey, J. Michel
   link:
     url: https://pubs.acs.org/doi/10.1021/acs.jcim.0c00165
-    display: accepted
+    display: J. Chem. Inf. Model. 60, 6, 3120–3130 (2020)
   highlight: 0
   news2: 
 
@@ -14,7 +24,7 @@
   authors:  N. Molkenthin, S. Mühle, A.S.J.S. Mey, M. Timme
   link:
     url: https://arxiv.org/abs/1812.09692
-    display: Plos One (accepted)
+    display: PLoS ONE 15(2), e0229230 (2020)
   highlight: 0
   news2:
 
@@ -24,7 +34,7 @@
   authors: J. Juárez-Jiménez, A. Gupta, G. Karunanithy, A.S.J.S. Mey, et al.
   link:
     url: https://pubs.rsc.org/en/content/articlelanding/2020/sc/c9sc04696h#!divAbstract
-    display: Chemical Science (accepted)
+    display: Chem. Sci., 11, 2670-2680 (2020)
   highlight: 0
   news2:
 
