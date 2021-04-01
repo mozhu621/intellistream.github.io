@@ -15,7 +15,8 @@ permalink: /team/
 <div>
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/me2.jpg" class="img-responsive" width="20%" style="float: left" />
   <h4>Antonia Mey</h4>
-  <i>Christina Miller Fellow, started Jan 2020 <br>email: [antonia.mey@ed.ac.uk](mailto:antonia.mey@ed.ac.uk)<br>
+  <i>Chencellor's Fellow, April 2021 -<br>
+  <i>Christina Miller Fellow, Jan 2020 - March 2021<br>email: [antonia.mey@ed.ac.uk](mailto:antonia.mey@ed.ac.uk)<br>
     A full CV is available [here]({{ site.url }}{{ site.baseurl }}/downloads/cv.pdf). </i>
   <ul style="overflow: hidden">
   <li> BSc Physics with Chemistry, Keele University </li>

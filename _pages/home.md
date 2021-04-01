@@ -8,7 +8,7 @@ permalink: /
 
 We are young and dynamic research group based at the [University of Edinburgh in the School of Chemistry](http://www.chem.ed.ac.uk) that forms part of [EaSt Chem](http://www.chem.ed.ac.uk/research). The research looks at combining data intensive simulation approaches with machine learning to understand protein function and inhibition better, with a particular focus on antimicrobial resistance. 
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="2000" data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -46,10 +46,6 @@ We are young and dynamic research group based at the [University of Edinburgh in
   </a>
 </div>
 
-**We currently have two open PhD positions**:
-
-- **New Frontiers for Metalloenzymes: Exploring the synergy between machine learning and biomolecular simulations** is a 3.5 year fully funded PhD studentship. The position is open to UK students and will remain open until filled. Find out more [here]({{ site.url }}{{ site.baseurl }}/downloads/MEY_web21-01.pdf). 
-- **Getting in Shape: AI driven sampling of the shapes of biomolecules** is a Biomedical AI CDT Industrial Track studentship funded by IBM for 4 years open to all applicants. Application Deadline: 31/01/2021. Find out more [here](https://web.inf.ed.ac.uk/cdt/biomedical-ai/apply/industrial-track-cdt).
 
 **We are looking for more people to join the group for** [more information]({{ site.url }}{{ site.baseurl }}/team)  on how to join take a look**!**
 
