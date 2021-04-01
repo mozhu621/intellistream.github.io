@@ -157,9 +157,6 @@ permalink: /team/
 
 ### Open Positions
 
-- **New Frontiers for Metalloenzymes: Exploring the synergy between machine learning and biomolecular simulations** is a 3.5 year fully funded PhD studentship. The position is open to UK students and will remain open until filled. Find out more [here]({{ site.url }}{{ site.baseurl }}/downloads/MEY_web21-01.pdf). 
-- **Getting in Shape: AI driven sampling of the shapes of biomolecules** is a Biomedical AI CDT Industrial Track studentship funded by IBM for 4 years open to all applicants. Application Deadline: 31/01/2021. Find out more [here](https://web.inf.ed.ac.uk/cdt/biomedical-ai/apply/industrial-track-cdt).
-
 **Expression of interest:** Please send an email to [Antonia Mey](mailto:antonia.mey@ed.ac.uk). 
 
 ### Applications for PhD and Postdoc positions
