@@ -7,13 +7,3 @@
     display: chemrxiv
   highlight: 0
   news2: 
-
-- title: "Best Practices for Alchemical Free Energy Calculations"
-  image: xx.png
-  description: A guide to get you started on how to run alchemical free energy calculations effectively. 
-  authors:   A.S.J.S. Mey, B. Allen, H.E. Bruce Macdonald, J.D. Chodera, D. Hahn, M. Kuhn, J. Michel, D.L. Mobley, L.N. Naden, S. Prasad, A. Rizzi, J. Scheen, M.R. Shirts, G. Tresadern, H. Xu
-  link:
-    url: https://arxiv.org/abs/2008.03067
-    display: arxiv
-  highlight: 0
-  news2: 

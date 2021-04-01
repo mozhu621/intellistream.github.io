@@ -1,10 +1,20 @@
+- title: "Best Practices for Alchemical Free Energy Calculations"
+  image: xx.png
+  description: A guide to get you started on how to run alchemical free energy calculations effectively. 
+  authors:   A.S.J.S. Mey, B. Allen, H.E. Bruce Macdonald, J.D. Chodera, D. Hahn, M. Kuhn, J. Michel, D.L. Mobley, L.N. Naden, S. Prasad, A. Rizzi, J. Scheen, M.R. Shirts, G. Tresadern, H. Xu
+  link:
+    url: https://doi.org/10.33011/livecoms.2.1.18378
+    display: Living J. Comp. Mol Sci 2 (1), 18378 (2020)
+  highlight: 0
+  news2: 
+
 - title: "A Hybrid Alchemical Free Energy and Machine Learning Methodology for the Calculation of Absolute Hydration Free Energies of Small Molecules"
   image: xx.png
   description: Alchemical free energy simulation are now availabe with Flare GUI
   authors:   J. Scheen, W. Wu, A.S.J.S. Mey, P. Tosco, M. Mackey, J. Michel
   link:
     url: https://pubs.acs.org/doi/10.1021/acs.jcim.0c00600
-    display: accepted
+    display: J. Chem. Inf. Model. 60, 11, 5331–5339 (2020)
   highlight: 0
   news2: 
 
@@ -18,12 +28,12 @@
   highlight: 0
   news2: 
 
-- title: "Geometric constraints in protein folding"
+- title: "Self-organized emergence of folded protein-like network structures from geometric constraints"
   image: xx.png
   description: A simple nextowrk model reveals protein like packing.
   authors:  N. Molkenthin, S. Mühle, A.S.J.S. Mey, M. Timme
   link:
-    url: https://arxiv.org/abs/1812.09692
+    url: https://doi.org/10.1371/journal.pone.0229230
     display: PLoS ONE 15(2), e0229230 (2020)
   highlight: 0
   news2:
