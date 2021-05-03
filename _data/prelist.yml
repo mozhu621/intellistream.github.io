@@ -1,9 +1,9 @@
-- title: "Implementation of the QUBE Force Field for High-Throughput Alchemical Free Energy Calculations"
+- title: "Structural dynamics of the β-coronavirus Mpro protease ligand binding sites"
   image: xx.png
-  description: Implementation of QUBE in BioSimSpace for alchemical free energy calculations. 
-  authors:   L. Nelson, S. Bariami, C. Ringrose, J. Horton, V. Kurdekar, A. Mey, J. Michel, D. Cole
+  description: Study of binding site stability of different coronavirus main proteases 
+  authors:   Eunice Cho, Margarida Rosa, Ruhi Anjum, Saman Mehmood, Mariya Soban, Moniza Mujtaba, Khair Bux, Sarath Chandra Dantu, Alessandro Pandini, Junqi Yin, Heng Ma, Arvind Ramanathan, Barira Islam, Antonia Mey, Debsindhu Bhowmik, Shozeb Haider
   link:
-    url: https://chemrxiv.org/articles/preprint/Implementation_of_the_QUBE_Force_Field_for_High-Throughput_Alchemical_Free_Energy_Calculations/13116878
-    display: chemrxiv
+    url: https://www.biorxiv.org/content/10.1101/2021.03.31.437918v1.abstract
+    display: biorxiv
   highlight: 0
   news2: 

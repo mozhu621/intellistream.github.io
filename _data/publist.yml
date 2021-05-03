@@ -1,3 +1,14 @@
+- title: "Implementation of the QUBE Force Field in SOMD for High-Throughput Alchemical Free-Energy Calculations"
+  image: xx.png
+  description: Implementation of QUBE in BioSimSpace for alchemical free energy calculations. 
+  authors:   L. Nelson, S. Bariami, C. Ringrose, J. Horton, V. Kurdekar, A. Mey, J. Michel, D. Cole
+  link:
+    url: https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c00328
+    display: J. Chem. Inf. Model.
+  highlight: 0
+  news2: 
+
+
 - title: "Best Practices for Alchemical Free Energy Calculations"
   image: xx.png
   description: A guide to get you started on how to run alchemical free energy calculations effectively. 
