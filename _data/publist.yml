@@ -1,10 +1,10 @@
 - title: "Implementation of the QUBE Force Field in SOMD for High-Throughput Alchemical Free-Energy Calculations"
   image: xx.png
   description: Implementation of QUBE in BioSimSpace for alchemical free energy calculations. 
-  authors:   L. Nelson, S. Bariami, C. Ringrose, J. Horton, V. Kurdekar, A. Mey, J. Michel, D. Cole
+  authors:   L. Nelson, S. Bariami, C. Ringrose, J. Horton, V. Kurdekar, A.S.J.S. Mey, J. Michel, D. Cole
   link:
     url: https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c00328
-    display: J. Chem. Inf. Model.
+    display: J. Chem. Inf. Model. XX (2021)
   highlight: 0
   news2: 
 
@@ -15,7 +15,7 @@
   authors:   A.S.J.S. Mey, B. Allen, H.E. Bruce Macdonald, J.D. Chodera, D. Hahn, M. Kuhn, J. Michel, D.L. Mobley, L.N. Naden, S. Prasad, A. Rizzi, J. Scheen, M.R. Shirts, G. Tresadern, H. Xu
   link:
     url: https://doi.org/10.33011/livecoms.2.1.18378
-    display: Living J. Comp. Mol Sci 2 (1), 18378 (2020)
+    display: Living J. Comp. Mol. Sci. 2 (1), 18378 (2020)
   highlight: 0
   news2: 
 
