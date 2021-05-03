@@ -1,5 +1,11 @@
+- name: Katerina Karoni
+  photo: Katerina_Karoni.jpg
+  info: PhD student, started Sep 2020, MAG-MICS IBM funded project
+  number_educ: 1
+  education1: MSc Computational Fluid Mechanics, National Technical University of Athens
+
 - name: Jenke Scheen
   photo: jenke.jpg
   info: PhD student, started Sep 2018, main supervisor Julien Michel
   number_educ: 1
-  education1: Msc Bio-Pharmaceutical Sciences & Medicinal Chemistry, University of Leiden
+  education1: MSc Bio-Pharmaceutical Sciences & Medicinal Chemistry, University of Leiden
