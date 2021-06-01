@@ -179,6 +179,9 @@ And for Postdocs:
 * [Newton Fellowship](https://royalsociety.org/grants-schemes-awards/grants/newton-international/)   
 * [Leverhulme fellowship](https://www.leverhulme.ac.uk)   
 
+Generally if you are looking for postdoc funding, there is a great resource for fellowships/fundinding opportunities around the world:
+[postdoc funding schemes](https://asntech.github.io/postdoc-funding-schemes/)
+
    
 ### Undergraduate student projects
 The group is happy to accommodate students from various disciplines, not just Chemistry. Ideally suited candidates are students in Chemistry, Physics, Computer Science, Biochemistry or Biotechnology, provided you have keen interest in exploring the interplay between Biology, Chemistry, and computational modelling and machine learning.  
