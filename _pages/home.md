@@ -47,11 +47,13 @@ We are young and dynamic research group based at the [University of Edinburgh in
 </div>
 
 
-**We are looking for more people to join the group current open position:**
+**We are looking for more people to join the group!**
 
--  4 year Fully funded PhD postition with the [BiomedicalAI CDT](https://web.inf.ed.ac.uk/cdt/biomedical-ai/apply/industrial-track-exscientia) and [Exscientia](https://www.exscientia.ai). Deadline: 18/06/2021 for informal enquiries please get in touch by [email](mailto:antonia.mey@ed.ac.uk).
+**Currently open position:**
 
-Or for more information and other opportunities on how to join take a look [here]{{ site.url }}{{ site.baseurl }}/team)!
+-  **4 year fully funded PhD** postition with the [BiomedicalAI CDT](https://web.inf.ed.ac.uk/cdt/biomedical-ai/apply/industrial-track-exscientia) and [Exscientia](https://www.exscientia.ai). **Deadline: 18/06/2021** for informal enquiries please get in touch by [email](mailto:antonia.mey@ed.ac.uk).
+
+Otherwise, for more information and other opportunities on how to join take a look [here]{{ site.url }}{{ site.baseurl }}/team)!
 
 
 We are grateful for funding from [Royal Society of Chemistry](https://www.rsc.org) for the Outreach project Chemistry in Focus.
