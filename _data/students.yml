@@ -1,16 +1,16 @@
-- name: Victor Principe
-  photo: victor.jpeg
+- name: Matthew Bowley
+  photo: matthew.png
   info: Chemical (MChem)
   email: 
   number_educ: 1
-  education1: MChem Chemistry, University of Edinburgh, expected completion July 2021
+  education1: MChem Chemistry, University of Edinburgh, expected completion July 2022
 
-- name: Junhao Wang
-  photo: junhao.jpg
+- name: Ryan Zhu
+  photo: ryan.jpg
   info: Chemistry (BSc Hons)
   email: 
   number_educ: 1
-  education1: BSc in Chemistry, University of Edinburgh, expected completion July 2021
+  education1: BSc in Chemistry, University of Edinburgh, expected completion July 2022
 
 - name: "This could be you !"
   photo: user.png
