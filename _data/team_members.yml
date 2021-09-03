@@ -1,3 +1,24 @@
+- name: Rob Arbon
+  photo: rob_arbon.jpg
+  info: Postdoc, started Aug 2021, Redesign Science
+  number_educ: 3
+  education1: PhD in Computational Chemistry, University of Bristol
+  education2: SM Applied Physics, Harvard University
+  education2: MChem Chemistry, University of Oxford
+
+- name: Jasmin Güven
+  photo: jasmin_gueven.jpg
+  info: PhD student, started Sep 2021
+  number_educ: 1
+  education1: MSc Physics, University of Manchester
+
+- name: Rohan Gorantla
+  photo: rohan_gorantla.jpg
+  info: PhD student, started Sep 2021, Biomedical AI CDT Exscientia funded project
+  number_educ: 1
+  education1: Bachelor of Technology in Computer Science and Engineering, Shiv Nadar Unverisity
+
+
 - name: Katerina Karoni
   photo: Katerina_Karoni.jpg
   info: PhD student, started Sep 2020, MAG-MICS IBM funded project
