@@ -1,7 +1,7 @@
-- title: "Structural dynamics of the β-coronavirus Mpro protease ligand binding sites"
+- title: "Best practices for constructing, preparing, and evaluating protein-ligand binding affinity benchmarks"
   image: xx.png
-  description: Study of binding site stability of different coronavirus main proteases 
-  authors:   E. Cho, M. Rosa, R. Anjum, S. Mehmood, M. Soban, M. Mujtaba, K. Bux, S. C. Dantu, A. Pandini, J. Yin, H. Ma, A. Ramanathan, B. Islam, A.S.J.S. Mey, D. Bhowmik, S. Haider
+  description: Benchmark dataset for predicting protein ligand binding affinities 
+  authors: David F. Hahn, Christopher I. Bayly, Hannah E. Bruce Macdonald, John D. Chodera, Antonia S. J. S. Mey, David L. Mobley, Laura Perez Benito, Christina E. M. Schindler, Gary Tresadern, Gregory L. Warren
   link:
     url: https://www.biorxiv.org/content/10.1101/2021.03.31.437918v1.abstract
     display: biorxiv
