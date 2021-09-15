@@ -3,7 +3,7 @@
   description: Benchmark dataset for predicting protein ligand binding affinities 
   authors: David F. Hahn, Christopher I. Bayly, Hannah E. Bruce Macdonald, John D. Chodera, Antonia S. J. S. Mey, David L. Mobley, Laura Perez Benito, Christina E. M. Schindler, Gary Tresadern, Gregory L. Warren
   link:
-    url: https://www.biorxiv.org/content/10.1101/2021.03.31.437918v1.abstract
-    display: biorxiv
+    url: https://arxiv.org/abs/2105.06222
+    display: arxiv
   highlight: 0
   news2: 
