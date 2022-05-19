@@ -1,16 +1,16 @@
-- name: Matthew Bowley
-  photo: matthew.png
-  info: Chemical (MChem)
+- name: Yifan Wu
+  photo: yifen.jpg
+  info: Postgraduate Taught Masters (MSc)
   email: 
   number_educ: 1
-  education1: MChem Chemistry, University of Edinburgh, expected completion July 2022
+  education1: MSc Chemistry (PGT), University of Edinburgh, expected completion August 2022
 
-- name: Ryan Zhu
-  photo: ryan.jpg
-  info: Chemistry (BSc Hons)
+- name: Sarah Scripps
+  photo: user.png
+  info: Visitor
   email: 
   number_educ: 1
-  education1: BSc in Chemistry, University of Edinburgh, expected completion July 2022
+  education1: MChem in Chemical Physics, University of Edinburgh, expected completion August 2023
 
 - name: "This could be you !"
   photo: user.png
