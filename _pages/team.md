@@ -92,7 +92,7 @@ permalink: /team/
 
 
 
-## Master and Bachelor Students
+## Master, Bachelor Student and Visiting Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
