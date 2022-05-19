@@ -1,3 +1,15 @@
+- title: "What geometrically constrained protein models can tell us about real-world protein contact maps"
+  image: xx.png
+  description: Geometrically constrained protein models can be used to understand protein contact maps
+  authors: Nora Molkenthin, J. Jasmin Güven, Steffen Mühle, Antonia S. J. S. Mey
+  link:
+    url: https://arxiv.org/abs/2205.09074
+    display: arxiv
+  highlight: 0
+  news2: 
+
+
+
 - title: "Best practices for constructing, preparing, and evaluating protein-ligand binding affinity benchmarks"
   image: xx.png
   description: Benchmark dataset for predicting protein ligand binding affinities 
