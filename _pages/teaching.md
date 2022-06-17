@@ -19,24 +19,45 @@ As part of the Scottish Universities Physics Alliance [(SUPA)](https://www.supa.
 * [2019 -- SUPA Slides]()
 
 ### CCPBioSim Workshops
-[CCPBioSim](http://www.ccpbiosim.ac.uk) is a molecular modelling consortium in the UK that among other things also provides training for PhD students in molecular modelling. In 2019 I ran an introductory workshop on alchemical free energy calculations using BioSimSpace and Markov Modelling with pyEmmma.
+[CCPBioSim](http://www.ccpbiosim.ac.uk) is a molecular modelling consortium in the UK that among other things also provides training for PhD students in molecular modelling. 
+
+#### 2022
+In 2022 I co-designed and taught on a 2-day [MGMS](https://www.mgms.org/WordPress/) sponsored workshop on [MDAnalysis](https://www.mdanalysis.org) and an introduction to Machine Learning that was hosted at the University of Edinburgh directly after the [8th Annual CCPBioSim Conference](https://www.ccpbiosim.ac.uk/events/past-conferences/eventdetail/138/-/8th-annual-ccpbiosim-conference-frontiers-in-biomolecular-simulation-2022) 
+
+Lecture slides are available here:
+
+* [Clustering](https://github.com/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/ML/ML_clustering_01_slides.pdf)
+* [Dimensionality Reduction](https://github.com/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/ML/ML_DR_02_slides.pdf)
+* [Random Forests](https://github.com/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/ML/ML_RF_03.pdf)
+* [Neural Networks](https://github.com/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/ML/ML_NN_04.pdf)
+
+
+The practical workshop material can be found on GitHub:
+* [Clustering](https://github.com/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/ML/ML_clustering_01.ipynb)
+* [Dimensionality Reduction](https://github.com/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/ML/ML_DR_02.ipynb)
+* [Random Forests](https://github.com/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/ML/ML_RF_03.ipynb)
+* [Neural Networks](https://github.com/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/ML/ML_NN_04.ipynb)
+
+#### 2019
+In 2019 I ran an introductory workshop on alchemical free energy calculations using BioSimSpace and Markov Modelling with pyEmmma.
 
 Slides are available here:   
  
 * [Alchemical free energy Introduction]({{ site.url }}/downloads/CCPBioSim-FEP-tutorial.pdf)   
 * [Markov State Modelling]({{ site.url }}/downloads/CCPBioSim-MSM-tutorial.pdf)
 
-The practical workshop material can be found on github:
+The practical workshop material can be found on GitHub:
 
 * [Alchemical free energy workshop](https://github.com/CCPBioSim/BSS-alchemistry-workshop)
 * [Markov State Modelling workshop](https://github.com/CCPBioSim/msm-workshop)
 
 
-### Edinburgh Software Carpentries
+### Software Carpentries
 If you are interested in getting started with Python, Bash, and git, checkout the Software Carpentries resource. Here is a list of Carpentries events I organised in Edinburgh:
 
+* [UK Acoustics Network -- Mar 2021](https://softwaresaved.github.io/2021-03-01-ssi-online/)
+* [Software Carpentry -- Jan 2020](https://edcarp.github.io/2020-01-29-edinburgh-geo-swc/)
 * [Python for Chemists -- Sep 2019](https://edcarp.github.io/2019-09-26-edinburgh-swc/)
-
 
 
 ## Tutorials and Best Practices
