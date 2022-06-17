@@ -12,6 +12,16 @@ permalink: /teaching
 
  <img src="{{ site.url }}{{ site.baseurl }}/images/teachpic/teaching.jpg" width="50%" style="float: center" />
 
+### Edinburgh University, School of Chemistry
+
+In the School of Chemistry at Edinburgh University I currently teach on two modules:
+
+* Chemical Thermodynamics as part of [Chemistry 1A](http://www.drps.ed.ac.uk/21-22/dpt/cxchem08016.htm)  (since 2021)
+* [Data-Driven Chemistry](http://www.drps.ed.ac.uk/21-22/dpt/cxchem08031.htm) (since 2020)
+
+Watch this space for material for the above two courses. 
+
+
 ### SUPA
 As part of the Scottish Universities Physics Alliance [(SUPA)](https://www.supa.ac.uk), I have been giving an introductory course on molecular mechanics. The lectures slides can be found here:
 
