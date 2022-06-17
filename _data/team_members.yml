@@ -18,6 +18,12 @@
   number_educ: 1
   education1: Bachelor of Technology in Computer Science and Engineering, Shiv Nadar University
 
+- name: Ryan Zhu
+  photo: ryan.jpg
+  info: PhD student, started Sep 2022
+  number_educ: 1
+  eductation1: BSc in Chemistry, University of Edinburgh 
+
 - name: Katerina Karoni
   photo: Katerina_Karoni.jpg
   info: PhD student, started Sep 2020, MAG-MICS IBM funded project
