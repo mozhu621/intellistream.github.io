@@ -56,9 +56,10 @@ The practical workshop material can be found on GitHub:
 If you are interested in getting started with Python, Bash, and git, checkout the Software Carpentries resource. Here is a list of Carpentries events I organised in Edinburgh:
 
 * [UK Acoustics Network -- Mar 2021](https://softwaresaved.github.io/2021-03-01-ssi-online/)
+* [Data Carpentry -- Apr 2020](https://edcarp.github.io/2020-04-16-sfc-online/)
 * [Software Carpentry -- Jan 2020](https://edcarp.github.io/2020-01-29-edinburgh-geo-swc/)
 * [Python for Chemists -- Sep 2019](https://edcarp.github.io/2019-09-26-edinburgh-swc/)
-
+* [Sofware Carpentry -- Sep 2019](https://edcarp.github.io/2019-09-04-edinburgh-swc/)
 
 ## Tutorials and Best Practices
 ### Introduction to best practices in molecular simulations
