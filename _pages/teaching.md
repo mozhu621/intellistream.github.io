@@ -10,7 +10,7 @@ permalink: /teaching
 
 ## Teaching
 
- <img src="{{ site.url }}{{ site.baseurl }}/images/teachpic/teaching.jpg" width="50%" style="float: center" />
+ <img src="{{ site.url }}{{ site.baseurl }}/images/teachpic/teaching2.jpg" width="50%" style="float: center" />
 
 ### Edinburgh University, School of Chemistry
 
