@@ -12,6 +12,13 @@
   number_educ: 1
   education1: MChem in Chemical Physics, University of Edinburgh, expected completion August 2023
 
+- name: Li Horovitz
+  photo: Li.jpg
+  info: Visiting Exchange Student
+  email:
+  number_educ: 1
+  education1: B.Sc. in Chemistry and Life Sciences, Ben-Gurion University of the Negev
+
 - name: "This could be you !"
   photo: user.png
   info: See the joining the group section for more info!
