@@ -31,16 +31,16 @@
 
 - name: Dominic Phillips
   photo: Dom.jpg
-  info: PhD student, started Sep 2021, Biomedical AI CDT IBM funded project, joint supervision with Ben Leimkuhler
+  info: PhD student, started Sep 2022, Biomedical AI CDT IBM funded project, joint supervision with Ben Leimkuhler
   number_educ: 2
-  education1: MSc Physics, University of Cambridge
+  education1: MPhil Physics, University of Cambridge
   education2: MSc AI, University of Edinburgh
 
 - name: Cecilia Hong
   photo: user.png
   info: PhD student, started Sep 2022, main supervisor Claire Hobday
   number_educ: 1
-  education1: MChem in Chemistry University of Edinburgh
+  education1: MChem Chemistry, University of Edinburgh
   
 - name: Jenke Scheen
   photo: jenke.jpg

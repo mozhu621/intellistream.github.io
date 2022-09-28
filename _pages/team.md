@@ -202,7 +202,7 @@ Deadlines for summer projects are usually quite early in the year (end of Januar
 
 <div class="col-sm-4 clearfix">
 <h4>Postdocs and PhD students</h4>
-{% for member in site.data.alumni %}
+{% for member in site.data.alumni_members %}
 {{ member.name }}
 {% endfor %}
 </div>
