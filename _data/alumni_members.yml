@@ -1,1 +1,7 @@
-
+- name: Rob Arbon
+  photo: rob.jpg
+  info: Postdoc, started Aug 2021, Redesign Science
+  number_educ: 3
+  education1: PhD in Computational Chemistry, University of Bristol
+  education2: SM Applied Physics, Harvard University
+  education3: MChem Chemistry, University of Oxford

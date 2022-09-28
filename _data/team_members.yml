@@ -1,11 +1,3 @@
-- name: Rob Arbon
-  photo: rob.jpg
-  info: Postdoc, started Aug 2021, Redesign Science
-  number_educ: 3
-  education1: PhD in Computational Chemistry, University of Bristol
-  education2: SM Applied Physics, Harvard University
-  education3: MChem Chemistry, University of Oxford
-
 - name: Jasmin Güven
   photo: jasmin.jpg
   info: PhD student, started Sep 2021
@@ -22,7 +14,14 @@
   photo: ryan.jpg
   info: PhD student, started Sep 2022
   number_educ: 1
-  education1: BSc in Chemistry, University of Edinburgh 
+  education1: BSc in Chemistry, University of Edinburgh
+  
+- name: Esra Nur Soysal
+  photo: esra.jpg
+  info: PhD student, started Sep 2021
+  number_educ: 2
+  education1: BSc in Chemistry, Bogazici University
+  education2: MSc Chemical Research, University College London
 
 - name: Katerina Karoni
   photo: Katerina_Karoni.jpg
@@ -37,8 +36,14 @@
   education1: MSc Physics, University of Cambridge
   education2: MSc AI, University of Edinburgh
 
+- name: Cecilia Hong
+  photo: user.png
+  info: PhD student, started Sep 2022, main supervisor Claire Hobday
+  number_educ: 1
+  education1: MChem in Chemistry University of Edinburgh
+  
 - name: Jenke Scheen
   photo: jenke.jpg
-  info: PhD student, started Sep 2018, main supervisor Julien Michel
+  info: PhD student, started Sep 2018, co-supervisor Julien Michel
   number_educ: 1
   education1: MSc Bio-Pharmaceutical Sciences & Medicinal Chemistry, University of Leiden
