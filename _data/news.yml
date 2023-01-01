@@ -1,83 +1,107 @@
-- date: 10/08/2022
-  headline: "Li Horovitz will join the group as an exchange student from Ben-Gurion University in September 2023 for a 12 week project. Welcome Li!"
+- date: 14/Dec/2022
+  headline: "I will give an invited talk at HUST (online) this coming Friday [[Slides](assets/pdf/talks/2022HUSTTalk.pdf)]."
 
-- date: 29/07/2022
-  headline: "Antonia is joining the Statistical Mechanics and Thermodynamics RSC focus group committee"
+- date: 02/Dec/2022
+  headline: "Welcome to the group: Thivagarasarma Karthick will be joining us as visiting student for the summer of 2023."
 
-- date: 20/07/2022
-  headline: "Antonia is joining the editorial board of <a href='https://livecomsjournal.org/index.php/livecoms/>Living Journal of Computational Molecular Science</a> and the <a href='https://joss.theoj.org>Journal of Open Source Software</a>"
+- date: 11/Nov/2022
+  headline: "Welcome to the group: Ruopeng Geng joined us as a visitng PhD student from Zhejiang University (ZJU)."
+  
+- date: 02/Oct/2022
+  headline: "Welcome to the group: Zhonghao Yang and Haolan He joined us as full-time research assistants. Zhonghao will be joining the group as a PhD student in January 2023"
+  
+- date: 16/Sep/2022
+  headline: "The paper on 'MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores' has been accepted for publication in SIGMOD 2023. Congratulations to my visiting students [Mr.Yancan Mao](https://yancanmao.github.io/) and Mr.Jianjun Zhao!"
+  
+- date: 10/Sep/2022
+  headline: "The paper on 'Parallelizing Stream Compression for IoT Applications on Asymmetric Multicores' has been accepted for publication in ICDE 2023. Congratulations to [Xianzhi](https://tonyskyzeng.github.io/)!"
 
-- date: 20/06/2022
-  headline: "Antonia has gained a Fellowship of the Higher Education Academy" 
+- date: 01/Sep/2022
+  headline: "We are pleased to announce that our team's first Singapore Ministry of Education (MOE) Tier 2 Grant (2022-2025) has been [awarded](https://istd.sutd.edu.sg/news-events/event/news/congratulations-to-assistant-professor-zhang-shuhao-for-obtaining-moe-acrf-tier-2-grant-call-funding/)."
 
-- date: 17/06/2022
-  headline: "Congratulations to Ryan Zhu for getting his degree results of a 1st class honours BSc degree today. He will be joining the group as a PhD student in September 2022"
+- date: 10/Aug/2022
+  headline: "Welcome to the group: Luv Singhal joined us as a UROP (Undergraduate Research Opportunities Programme) student."
+  
+- date: 26/Aug/2022
+  headline: "A full research paper titled <i>CompressStreamDB: Fine-Grained Adaptive Stream Processing without Decompression</i> has been accepted for publication at ICDE 2023!"
+  
+- date: 25/Aug/2022
+  headline: "Our recent survey titled <i>A Survey on Transactional Stream Processing</i> is now available at Arxiv [online](https://arxiv.org/abs/2208.09827)!"
 
-- date: 10/06/2022
-  headline: "Checkout this new <a href='https://github.com/MDAnalysis/WorkshopMDMLEdinburgh2022'>workshop material</a> on MDAnalysis and Machine learning that was delivered as a workshop after the 8th annual CCPBioSim conference."
-
-- date: 25/05/2022
-  headline: "Welcome to the group: Sarah Scripps and Yifan Wu who will both be joining us for the summer of 2022."
-
-- date: 19/05/2022
-  headline: "PhD student Jasmin Güven has finished her first paper on analysing protein structures from AlphaFold2 and the PDB and comparing results to geometrically constrained protein models. Her paper is now available on <a hfref='https://arxiv.org/abs/2205.09074'>ArXiv</a>"
-
-- date: 16/05/2022
-  headline: "Congratualtions to Ryan and Matthew for finishing all their required assessments for their degree! Best of luck on your new adventures."
-
-- date: 05/03/2022
-  headline: "Second SOFI CDT project available, joint with Claire Hobday's group. More details on the project can be found <a href='https://soficdt.webspace.durham.ac.uk/wp-content/uploads/sites/136/2022/05/Hobday-Probing-tuneable-phase-behaviour.pdf'>here</a"
-
-- date: 04/02/2022
-  headline: "PhD Project available in the group with the <a href='https://soficdt.webspace.durham.ac.uk/wp-content/uploads/sites/136/2021/12/Mey-Looper.pdf'>SOFI CDT</a> joint with Matteo Degiacomi's group at Durham."
-
-- date: 01/06/2021
-  headline: "Biomedical AI CDT PhD project avaialble in collaboration with Exscientia. Application Deadline 18/06/2021. Informal inquiries are encouraged! See more details <a href=https://web.inf.ed.ac.uk/cdt/biomedical-ai/apply/industrial-track-exscientia>here!</a>"
-
-- date: 01/04/2021
-  headline: "Antonia starts her Chancellor's Fellowship at the University of Edinburgh"
-
-- date: 27/01/2021
-  headline: "Open PhD position for UK students on: New Frontiers for Metalloenzymes: Exploring the synergy between machine learning and biomolecular simulations" 
- 
-- date: 16/12/2020
-  headline: "Very please to annonced that Antonia Mey has been awarded a prestigious Chancellor's Fellowship."
-
-- date: 14/12/2020
-  headline: "Biomedical AI CDT PhD project avaialble working with Ben Leimkuhler and Flaviu from IBM Research. Application Deadline 31/1/2021. Informal inquiries are encouraged! See more details <a href=https://web.inf.ed.ac.uk/cdt/biomedical-ai/apply/industrial-track-cdt>here!</a>"
-
-- date: 25/11/2020
-  headline: "The paper on 'Best Practices for Alchemical Free Energy Calculations' has been accepted for publication in LiveCoMS"
-
-- date: 5/11/2020
-  headline: "EASTBIO PhD project available in the group working with Rafal Szabla and Jack Szostak, see more details <a href=https://www.findaphd.com/phds/project/eastbio-understanding-prebiotic-rna-self-replication-using-quantum-chemistry-and-machine-learning/?p125095'>here!</a>"
-
-- date: 20/10/2020
-  headline: "Take a look at <a href='https://chemrxiv.org/articles/preprint/Implementation_of_the_QUBE_Force_Field_for_High-Throughput_Alchemical_Free_Energy_Calculations/13116878/1'> his new preprint</a> with Antonia's contribution to the <a href='https://github.com/qubekit/QUBEKit'>QUBE</a> being made available for BioSimSpace."
-
-- date: 25/Sep/2020
-  headline: "Welcome to project students Junhao Wang and Victor Principe for the academic year 2020/2021!"
-
-- date: 07/Aug/202
+- date: 17/Aug/2022
+  headline: "Our paper accepted at [SIGMOD 2021](https://dl.acm.org/doi/10.1145/3448016.3452793) has been successfully reproduced, and the "Results Reproduced" badge is now available in the ACM Digital Library!"
+  
+- date: 07/Aug/2022
   headline: "We have a new preprint out on the <a href='https://arxiv.org/abs/2008.03067'>Best Practices for Alchemical Free Energy calculations </a>"
 
-- date: 10/Jun/2020
-  headline: "The virtual I AM A.I. exhibition by IMAGINARY is now live at <a href='http://www.i-am.ai'>I AM A.I.</a>. Explore how an artificial intelligence, learns and thinks and take a look at how to train one using neural networks. From the 19th you will be able to see Antonia as a virtual guide taking you through the exhibtion."
+- date: 13/Aug/2022
+  headline: "*Master Scholarship* available (**Singaporean citizens only**) for Future Communications Research & Development Master Scholarship Programme. If you are interested, please submit your application [here](https://sutd.edu.sg/Admissions/Graduate/Master-Programme/Master-of-Engineering-(Research)/Application). More details can be found [here](https://fcp.sutd.edu.sg/scholarships/)."
 
-- date: 01/Jun/2020
-  headline: "Marta Chronowska joins the group for a summer project. Welcome Marta!"
+- date: 01/April/2022
+  headline: "Congrats to Yuan Li for sucessfully defence her master thesis at TU Berlin. Congrauts Yuan!"
+  
+- date: 10/Aug/2022
+  headline: "Welcome to the group: Yuhao Wu joined us as a visiting researcher from Huazhong Agricultural University to work on streaming machine learning. Welcome Yuhao!"
+  
+- date: 31/May/2022
+  headline: "Zhonghao has received a PhD Offer from SUTD to work on in-network streaming event detection. Congrats Zhonghao!" 
+  
+- date: 11/May/2022
+  headline: "Our grant proposal titled <i>Energy-efficient, Scalable, and Reliable Distributed Green Streaming Machine Learning for Edges</i> has been awarded (sole PI: Shuhao Zhang). Thanks the Future Communications Research & Development Programme (FCP) Research Grant Evaluation Committee 2021!"
+  
+- date: 10/May/2022
+  headline: "Our grant proposal titled <i>A Stream Processing based NFV Platform for 5G on Modern Multicore Processors</i> has been awarded (PI: Shuhao Zhang; Co-PI: Binbin Chen). Thanks the Future Communications Research & Development Programme (FCP) Research Grant Evaluation Committee 2021!"
+  
+- date: 17/April/2022
+  headline: " Mr.Huilin Wu receives full marks (1.0 in Germany scale) of his mater thesis defence at TU Berlin! [His work has been submitted and under review](https://arxiv.org/abs/2203.12368). Congrats Huilin!"  
 
-- date: 28/May/2020
-  headline: "Cresset's Flare can now run alchemical free energy calculations! Antonia is glad to have been able to contribute to this collaboration. Read the paper <a href='https://pubs.acs.org/doi/10.1021/acs.jcim.0c00165'>here</a>!"
+- date: 13/April/2022
+  headline: "Xianzhi has gained a full PhD Scholarship from SUTD to work on energy efficient edge computing. Congrats Xianzhi!"
 
-- date: 25/Feb/2020
-  headline: "Antonia has been awarded travel money from SUPA to visit Prof. Chodera's group at MSKCC and Prof. Roitberg at the Univesity of Florida!"
+- date: 02/April/2022
+  headline: "Welcome to the group: Haobo Zhang will be joining us for the summer of 2022 as a visiting student to work on online sentiment analysis."
 
-- date: 07/Feb/2020 
-  headline: "The preprint on the collaboration with Cresset for implementing alchemical free energy calculations in Flare is out! Take a look on <a href='https://bit.ly/2H51iWo'>(ChemRxiv)</a>!"
+- date: 25/02/2022
+  headline: "Shuhao Zhang is joining the program committee for EDBT 2023 (http://edbticdt2023.cs.uoi.gr), which will be held in Ioannina, Greece, March 28 - March 31, 2023."  
+  
+- date: 18/Feb/2022
+  headline: "Congrats to Huilin Wu for sucessfully defence his master thesis at TU Berlin. Congrauts Huilin!"
 
-- date: 01/Jan/2020
-  headline: Welcome to Cameron and Jonathan — <b> The research group is officially starting</b>!
+- date: 2/12/2021
+  headline: "Shuhao Zhang is joining the program committee for Machine Learning with HPC of SC22 (https://sc22.supercomputing.org), which will be held in Dallas, TX, USA, November 13-18, 2022."  
 
-- date: 03/Dec/2019
-  headline: Hello World -- the group website is going live!
+- date: 19/11/2021
+  headline: "Shuhao Zhang is joining the program committee for Software Track of ICPP22 (https://icpp22.gitlabpages.inria.fr/), which will be held in Bordeaux, France, August 29th to Sept 1st, 2022."  
+  
+- date: 06/Nov/2021
+  headline: "Our grant proposal titled <i>Online Sentiment Learning of Massive Data Streams</i> has been awarded (sole PI). Thanks the TL@SUTD Seed Project Evaluation Committee 2021!"
+  
+- date: 02/Sep/2021
+  headline: "Our grant proposal titled <i>Revisiting the Algorithms for Clustering Evolving Trajectory Streams</i> has been awarded (sole PI). Thanks the SUTD-ZJU (VP) Grant Evaluation Committee 2021!"
+  
+- date: 01/Sep/2021
+  headline: "Welcome to the group: Xianzhi Zeng joins the group as a visiting student from University of Electronic Science and Technology of China (UESTC). Welcome Xianzhi!"
+
+- date: 11/July/2021
+  headline: "Welcome to the group: Xin Wang joined us as a (remote) visitng student from Sichuan University (SCU). Welcome Xin!"
+
+- date: 01/June/2021
+  headline: "Welcome to the group: Yancan Mao joined us as a visitng PhD student from National University of Singapore (NUS) for the summer vacanccy of 2021. Welcome Yancan!"
+
+- date: 26/May/2021
+  headline: "Congrats to Aqif Hamid for sucessfully defence his master thesis at TU Berlin. Congrauts Aqif!"
+  
+- date: 01/April/2022
+  headline: "Welcome to the group: Zhenyu Wu joined us as a visiting researcher to work on data stream mining. Welcome Zhenyu!"
+  
+- date: 11/March/2021 
+  headline: "The paper <i>Fine-Grained Multi-Query Stream Processing on Integrated Architectures</i> was accepted at the <b>IEEE Transactions on Parallel and Distributed Systems (TPDS)</b>! It is regarding a renewed design of stream processing engine on integrated CPU-GPU architectures, a significantly extended version of our previous work published at USNIX Annual Technical Conference (ATC) 2020."
+
+- date: 18/Feb/2021
+  headline: "Our proposal titled <i>Efficient Intra-Window Join on the Multicore IoT systems</i> has been awarded (sole PI) a SUTD Startup Grant!"
+  
+- date: 15/Jan/2021
+  headline: Welcome to Singapore — <b> The IntelliStream research group is officially starting</b>!
+  
+- date: 05/Jan/2021 
+  headline: "The paper <i>Parallelizing Intra-Window Join on Multicores: An Experimental Study</i> was accepted for presentation at the <b>ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD/PODS 2021)</b>!<a href='https://www.bifold.berlin/news-events/news/view/news-detail/tu-berlin-dfki-and-nus-paper-on-parallelizing-intra-window-join-on-multicores-was-accepted-at-sigmod-2021'>(News)</a>"
