@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Mey Research Group at the University of Edinburgh"
+excerpt: "IntelliStream Research Group at the Singapore University of Technology and Design"
 sitemap: false
 permalink: /allnews.html
 ---

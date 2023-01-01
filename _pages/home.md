@@ -1,12 +1,12 @@
 ---
-title: "Mey Research Group - Home"
+title: "IntelliStream Research Group - Home"
 layout: homelay
-excerpt: "Mey Research Group at Edinburgh University"
+excerpt: "IntelliStream Research Group at the Singapore University of Technology and Design"
 sitemap: false
 permalink: /
 ---
 
-We are young and dynamic research group based at the [University of Edinburgh in the School of Chemistry](http://www.chem.ed.ac.uk) that forms part of [EaSt Chem](http://www.chem.ed.ac.uk/research). The research looks at combining data intensive simulation approaches with machine learning to understand protein function and inhibition better, with a particular focus on antimicrobial resistance. 
+We are a young and dynamic research group based at the [Singapore University of Technology and Design in the Information Systems Technology and Design Pillar](https://istd.sutd.edu.sg/). From a high-level point of view, our research goal is to optimize and utilize distributed and parallel stream processing technology to better support existing and emerging big data applications. This is important to improve performance and reduce resource consumption, especially for the network connected world by 5G, IoT, etc. Our work spanning around database management, networking systems, machine learning, and data mining.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover" >
     <!-- Menu -->
@@ -24,16 +24,16 @@ We are young and dynamic research group based at the [University of Edinburgh in
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider.001.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/GSML4E.pdf" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider.002.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/MorphNFV.pdf" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider.003.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/IntraJoinStudy.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider.004.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/morphstream.png" alt="Slide 4" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -49,16 +49,15 @@ We are young and dynamic research group based at the [University of Edinburgh in
 
 **We are looking for more people to join the group!**
 
+For more information and other opportunities on how to join take a look [here]({{ site.url }}{{ site.baseurl }}/team)!
 
-Otherwise, for more information and other opportunities on how to join take a look [here]({{ site.url }}{{ site.baseurl }}/team)!
-
-
-We are grateful for funding from [Royal Society of Chemistry](https://www.rsc.org) for the Outreach project Chemistry in Focus.
+We are grateful for funding from National Research Foundation, Singapore and Infocomm Media Development Authority under its Future Communications Research & Development Programme, Ministry of Education (MOE) of Singapore, Temasek Labs@SUTD, SUTD-ZJU IDEA office, SUTD Kickstarter Initiative (SKI) office.
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/edinburgh_logo.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/east_chem_logo.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/RSC_logo.png" style="width: 150px">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cheminF.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/FCP.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/IMDA.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NRF.jfif" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/moe.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SUTD.png" style="width: 110px">  
 </figure>
 

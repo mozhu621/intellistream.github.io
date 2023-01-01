@@ -13,7 +13,7 @@ permalink: /team/
 <div>
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/me3.jpg" class="img-responsive" width="20%" style="float: left" />
   <h4>Shuhao Zhang</h4>  
-  <i>Assistant Professor, Jan 2021 - <br>email: [shuhao_zhang@sutd.edu.sg](mailto:shuhao_zhang@sutd.edu.sg)<br>
+  <i>Assistant Professor, Singapore University of Technology and Design Jan 2021 - <br>email: [shuhao_zhang@sutd.edu.sg](mailto:shuhao_zhang@sutd.edu.sg)<br>
     A full CV is available [here]({{ site.url }}{{ site.baseurl }}/downloads/CV.pdf). </i>
   <ul style="overflow: hidden">
   <li> BSc Computer Engineering, Nanyang Technological University </li>
