@@ -1,238 +1,229 @@
-- title: "Dynamic Profiling of β-Coronavirus 3CL Mpro Protease Ligand-Binding Sites"
-  image: xx.png
-  description: Study of binding site stability of different coronavirus main proteases
-  authors:   E. Cho, M. Rosa, R. Anjum, S. Mehmood, M. Soban, M. Mujtaba, K. Bux, S. C. Dantu, A. Pandini, J. Yin, H. Ma, A. Ramanathan, B. Islam, A.S.J.S. Mey, D. Bhowmik, S. Haider
-  link:
-    url: https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c00449
-    display: J. Chem. Inf. Model. 61, 6, 3058–3073 (2021)
-  highlight: 0
-  news2:
-
-- title: "Implementation of the QUBE Force Field in SOMD for High-Throughput Alchemical Free-Energy Calculations"
-  image: xx.png
-  description: Implementation of QUBE in BioSimSpace for alchemical free energy calculations. 
-  authors:   L. Nelson, S. Bariami, C. Ringrose, J. Horton, V. Kurdekar, A.S.J.S. Mey, J. Michel, D. Cole
-  link:
-    url: https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c00328
-    display: J. Chem. Inf. Model. 61, 5, 2124–2130 (2021)
-  highlight: 0
-  news2: 
-
-- title: "Best Practices for Alchemical Free Energy Calculations"
-  image: xx.png
-  description: A guide to get you started on how to run alchemical free energy calculations effectively. 
-  authors:   A.S.J.S. Mey, B. Allen, H.E. Bruce Macdonald, J.D. Chodera, D. Hahn, M. Kuhn, J. Michel, D.L. Mobley, L.N. Naden, S. Prasad, A. Rizzi, J. Scheen, M.R. Shirts, G. Tresadern, H. Xu
-  link:
-    url: https://doi.org/10.33011/livecoms.2.1.18378
-    display: Living J. Comp. Mol. Sci. 2 (1), 18378 (2020)
-  highlight: 0
-  news2: 
-
-- title: "A Hybrid Alchemical Free Energy and Machine Learning Methodology for the Calculation of Absolute Hydration Free Energies of Small Molecules"
-  image: xx.png
-  description: Alchemical free energy simulation are now availabe with Flare GUI
-  authors:   J. Scheen, W. Wu, A.S.J.S. Mey, P. Tosco, M. Mackey, J. Michel
-  link:
-    url: https://pubs.acs.org/doi/10.1021/acs.jcim.0c00600
-    display: J. Chem. Inf. Model. 60, 11, 5331–5339 (2020)
-  highlight: 0
-  news2: 
-
-- title: "Assessment of Binding Affinity via Alchemical Free-Energy Calculations"
-  image: xx.png
-  description: Alchemical free energy simulation are now availabe with Flare GUI
-  authors:  M. Kuhn, S. Firth-Clark, P. Tosco, A.S.J.S. Mey, M. Mackey, J. Michel
-  link:
-    url: https://pubs.acs.org/doi/10.1021/acs.jcim.0c00165
-    display: J. Chem. Inf. Model. 60, 6, 3120–3130 (2020)
-  highlight: 0
-  news2: 
-
-- title: "Self-organized emergence of folded protein-like network structures from geometric constraints"
-  image: xx.png
-  description: A simple nextowrk model reveals protein like packing.
-  authors:  N. Molkenthin, S. Mühle, A.S.J.S. Mey, M. Timme
-  link:
-    url: https://doi.org/10.1371/journal.pone.0229230
-    display: PLoS ONE 15(2), e0229230 (2020)
-  highlight: 0
-  news2:
-
-- title: "Dynamic design: manipulation of millisecond timescale motions on the energy landscape of Cyclophilin A"
-  image: xx.png
-  description: 
-  authors: J. Juárez-Jiménez, A. Gupta, G. Karunanithy, A.S.J.S. Mey, et al.
-  link:
-    url: https://pubs.rsc.org/en/content/articlelanding/2020/sc/c9sc04696h#!divAbstract
-    display: Chem. Sci., 11, 2670-2680 (2020)
-  highlight: 0
-  news2:
-
-- title: "BioSimSpace: An interoperable Python framework for biomolecular simulation"
+- title: "MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores"
   image:
-  description: An interoperale molecular software framework for running complex alchemical free energy simulations as well as metadynamics simulations. 
-  authors: L.O. Hedges, A.S.J.S. Mey, C.A. Laughton, et al.
-  link:
-    url: https://joss.theoj.org/papers/10.21105/joss.01831
-    display: JOSS, 4, 1831 (2019)
-  highlight: 0
-  news1:
-
-- title: "Allosteric effects in a catalytically impaired variant of the enzyme Cyclophilin A may be explained by changes in nano-microsecond time scale motions"
-  image: cyclophilin.png
-  description:  Molecular simulations can give an alternative explanation for the reduced catalytic rate of different Cyclophilin A mutants that is experimentally testable. 
-  authors: P. Wapeesittipan, A.S.J.S. Mey, M. Walkinshaw, J. Michel
-  link:
-    url: https://doi.org/10.1038/s42004-019-0136-1
-    display:  Comms. Chem. 2 41 (2019)
-  highlight: 1
-  news2:
-
-- title: "Effect of automation on the accuracy of alchemical free energy calculation protocols over a set of ACK1 inhibitors"
-  image: PbSpub.png
   description: 
-  authors: J.M. Granadino-Roldan*, A.S.J.S. Mey*,  J.J. Perez, S. Bosisio, J. Rubio-Martinez, J. Michel
+  authors: Yancan Mao#, Jianjun Zhao, Shuhao Zhang, Haikun Liu, Volker Markl
   link:
-    url: https://doi.org/10.1371/journal.pone.0213217
-    display: PloS One 14, e0213217 (2019)
-  highlight: 0
-  news2:
-
-- title: "Impact of domain knowledge on blinded predictions of binding energies by alchemical free energy calculations"
-  image: fxr.png
-  description: Accounting for differently charged ligands can be difficult in simulations, a framework for charging corrections was tested as part of a blinded challenge.
-  authors:  A.S.J.S. Mey, J. Juárez-Jiménez, J. Michel
-  link:
-    url: https://link.springer.com/article/10.1007%2Fs10822-017-0083-9
-    display:  J. Comput. Aided. Mol. Des. 32, 199 (2018)
+    url: 
+    display: In Proceedings of the 2023 International Conference on Management of Data (SIGMOD) 2023 (2023)
   highlight: 1
   news2:
-
-- title: "Blinded predictions of host-guest standard free energies of binding in the SAMPL5 challenge"
+  
+- title: "Parallelizing Stream Compression for IoT Applications on Asymmetric Multicores"
+  image:
   description: 
-  authors: S. Bosisio, A.S.J.S. Mey, J. Michel,
+  authors: Xianzhi Zeng, Shuhao Zhang
   link:
-    url: https://link.springer.com/article/10.1007/s10822-016-9933-0
-    display: J. Comput. Aided. Mol. Des. 31, 61 (2017)
-  highlight: 0
+    url: 
+    display: In 2023 IEEE 39rd International Conference on Data Engineering (ICDE) 2023 (2023)
+  highlight: 1
   news2:
-
-- title: "Analytical methods for structural ensembles and dynamics of intrinsically disordered proteins"
-  image: Pub_BCl.png
+  
+- title: "CompressStreamDB: Fine-Grained Adaptive Stream Processing without Decompression"
+  image:
   description: 
-  authors: M. Schor, A.S.J.S. Mey, C.E. MacPhee
+  authors: Yu Zhang, Feng Zhang, Hourun Li, Shuhao Zhang, Xiaoyong Du
   link:
-    url: https://link.springer.com/article/10.1007/s12551-016-0234-6
-    display: Biophys. Rev. 8, 429 (2016)
+    url: 
+    display: In 2023 IEEE 39rd International Conference on Data Engineering (ICDE) (2023)
   highlight: 0
-  news1: 
-
-- title: "Blinded predictions of distribution coefficients in the SAMPL5 challenge"
-  image: Fano.png
-  description:
-  authors: S. Bosisio, A.S.J.S. Mey, J. Michel
+  news2:
+  
+- title: "Payment behavior prediction on shared parking lots with TR-GCN"
+  image:
+  description: 
+  authors: Qingyu Xu, Feng Zhang, Mingde Zhang, Jidong Zhai, Bingsheng He, Cheng Yang, Shuhao Zhang, Jiazao Lin, Haidi Liu, Xiaoyong Du
   link:
-    url: https://link.springer.com/article/10.1007/s10822-016-9969-1
-    display: J. Comput. Aided. Mol. Des. 30, 1101 (2016)
+    url: https://doi.org/10.1007/s00778-021-00722-0
+    display: The VLDB Journal Jan 2022 (2022)
+  highlight: 0
+  news2:
+  
+- title: "Revisiting the Design of Parallel Stream Joins on Trusted Execution Environments"
+  image:
+  description: 
+  authors: Souhail Meftah, Shuhao Zhang, Bharadwaj Veeravalli, Khin Mi Mi Aung
+  link:
+    url: https://www.mdpi.com/1999-4893/15/6/183
+    display: MDPI Algorithms 2022 (2022)
+  highlight: 0
+  news2:
+  
+- title: "Parallelizing Intra-Window Join on Multicores: An Experimental Study"
+  image:
+  description: 
+  authors: Shuhao Zhang, Yancan Mao, Jiong He, Philipp M. Grulich, Steffen Zeuch, Bingsheng He, Richard T. B. Ma, Volker Markl
+  link:
+    url: https://shuhaozhangtony.github.io/assets/pdf/papers/rdm044-zhangA.pdf
+    display: In Proceedings of the 2021 International Conference on Management of Data (SIGMOD) Jan 2021 (2021)
+  highlight: 1
+  news2:
+  
+- title: "Fine-Grained Multi-Query Stream Processing on Integrated Architectures"
+  image:
+  description: 
+  authors: Feng Zhang, Chenyang Zhang, Lin Yang, Cheng Yang, Shuhao Zhang, Bingsheng He, Wei Lu, Xiaoyong Du
+  link:
+    url: https://doi.org/10.1109/TPDS.2021.3066407
+    display: IEEE Transactions on Parallel and Distributed Systems (TPDS) Jan 2021 (2021)
+  highlight: 1
+  news2:
+  
+- title: "Periodic Weather-Aware LSTM with Event Mechanism for Parking Behavior Prediction"
+  image:
+  description: 
+  authors: F. Zhang, Y. Liu, N. Feng, C. Yang, J. Zhai, Shuhao Zhang, B. He, J. Lin, X. Zhang, X. Du
+  link:
+    url: https://doi.org/10.1109/TKDE.2021.3070202
+    display: IEEE Transactions on Knowledge and Data Engineering Jan 2021 (2021)
+  highlight: 0
+  news2:
+  
+- title: "Towards Concurrent Stateful Stream Processing on Multicore Processors"
+  image:
+  description: 
+  authors: Shuhao Zhang, Yingjun Wu, Feng Zhang, Bingsheng He
+  link:
+    url: https://doi.org/10.1109/ICDE48307.2020.00136
+    display: IEEE 36th International Conference on Data Engineering (ICDE) (2020)
+  highlight: 1
+  news2:
+  
+- title: "NebulaStream: Complex Analytics Beyond the Cloud"
+  image:
+  description: 
+  authors: Steffen Zeuch, Eleni Tzirita Zacharatou, Shuhao Zhang, Xenofon Chatziliadis, Ankit Chaudhary, Bonaventura Del Monte, Dimitrios Giouroukis, Philipp M. Grulich, Ariane Ziehn, Volker Markl
+  link:
+    url: https://shuhaozhangtony.github.io/assets/pdf/papers/OJIOT_2020v6i1n07_Zeuch.pdf
+    display: Open Journal of Internet Of Things (OJIOT) Jan 2020 (2020)
+  highlight: 0
+  news2:
+  
+- title: "PewLSTM: Periodic LSTM with Weather-Aware Gating Mechanism for Parking Behavior Prediction"
+  image:
+  description: 
+  authors: Feng Zhang, Ningxuan Feng, Yani Liu, Cheng Yang, Jidong Zhai, Shuhao Zhang, Bingsheng He, Jiazao Lin, Xiaoyong Du
+  link:
+    url: https://shuhaozhangtony.github.io/assets/pdf/papers/predictionIJCAI.pdf
+    display: International Joint Conference on Artificial Intelligence(IJCAI) (2020)
+  highlight: 0
+  news2:
+  
+- title: "FineStream: Fine-Grained Window-Based Stream Processing on CPU-GPU Integrated Architectures"
+  image:
+  description: 
+  authors: Feng Zhang, Lin Yang, Shuhao Zhang, Bingsheng He, Wei Lu, Xiaoyong Du
+  link:
+    url: https://www.usenix.org/conference/atc20/presentation/zhang-feng
+    display: {USENIX} Annual Technical Conference ({USENIX} {ATC} 20) (2020)
   highlight: 0
   news2:
 
-- title: "Blinded predictions of binding modes and energies of HSP90-α ligands for the 2015 D3R Grand Challenge"
-  image: hsp90.png
-  description: Alchemical free energy calculation for HSP90-α using SOMD give competitive results in a blinded prediction challenge.
-  authors: A.S.J.S. Mey*, J. Juárez-Jiménez*, A. Hennessy, J. Michel
+- title: "Hardware-Conscious Stream Processing: A Survey"
+  image:
+  description: 
+  authors: Shuhao Zhang, Feng Zhang, Yingjun Wu, Bingsheng He, Paul Johns
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S096808961630551X?via%3Dihub
-    display: Bioorg. Med. Chem. 24, 4890 (2016) 
+    url: https://doi.org/10.1145/3385658.3385662
+    display: SIGMOD Rec. (2020)
+  highlight: 0
+  news2:
+  
+- title: "TraV: An Interactive Exploration System for Massive Trajectory Data"
+  image:
+  description: 
+  authors: J. Ang, T. Fu, J. Paul, Shuhao Zhang, B. He, T. S. D. Wenceslao, S. Y. Tan
+  link:
+    url: https://doi.org/10.1109/BigMM.2019.000-4
+    display: 2019 IEEE Fifth International Conference on Multimedia Big Data (BigMM) (2019)
+  highlight: 0
+  news2:
+
+- title: "BriskStream: Scaling Data Stream Processing on Shared-Memory Multicore Architectures"
+  image:
+  description: 
+  authors: Shuhao Zhang, Jiong He, Amelie Chi Zhou, Bingsheng He
+  link:
+    url: https://doi.org/10.1145/3299869.3300067
+    display: Proceedings of the 2019 International Conference on Management of Data (SIGMOD) (2019)
   highlight: 1
   news2:
 
-- title: "Elucidation of Non-Additive Effects in Protein-Ligand Binding Energies: Thrombin as a Case Study,"
-  image: 
-  description:
-  authors: G. Calabrò, C.J. Woods, F. Powlesland, A.S.J.S Mey, A.J. Mulholland, J. Michel
+- title: "Multi-Query Optimization for Complex Event Processing in SAP ESP"
+  image:
+  description: 
+  authors: Shuhao Zhang, H. T. Vo, D. Dahlmeier, B. He
   link:
-    url: https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b03296
-    display: J. Phys. Chem. B 120, 5340 (2016)
-  highlight: 0
-  news2:
-
-- title: "Shedding light on the dock-lock mechanism in amyloid fibril growth using Markov State Models"
-  image: fibrils.png
-  description: Amyloid fibril formation from a docked to a locked state occurs along a set of pathways containing highly metastable trapping states. pH will influence the population of the different metastable trapping states.
-  authors: M. Schor, A.S.J.S. Mey, F. Noé, C.E. MacPhee
-  link:
-    url: https://pubs.acs.org/doi/10.1021/acs.jpclett.5b00330
-    display:  J. Phys. Chem. Lett. 6, 1076 (2015) 
+    url: https://doi.org/10.1109/ICDE.2017.166
+    display: IEEE 33rd International Conference on Data Engineering (ICDE) (2017)
   highlight: 1
   news2:
 
-- title: "Dynamic Properties of Forcefields"
-  image: speed.png
-  description: Protein dynamics is highly dependent on the choice of molecular forcefield. The speed of different forcefields is assessed.
-  authors: F. Vitalini*, A.S.J.S. Mey*,  F. Noé and B.G. Keller
+- title: "Revisiting the Design of Data Stream Processing Systems on Multi-Core Processors"
+  image:
+  description: 
+  authors: Shuhao Zhang, B. He, D. Dahlmeier, A. C. Zhou, T. Heinze
   link:
-    url: https://aip.scitation.org/doi/abs/10.1063/1.4909549?journalCode=jcp
-    display: J. Chem. Phys. 142, 084101 (2015)
-  highlight: 1
-  news2: "Most read article of in JCP in 2015"
-
-- title: "Statistically optimal analysis of state-discretized trajectory data from multiple thermodynamic states"
-  image: 
-  description:
-  authors: H. Wu, A.S.J.S. Mey, E. Rosta, F. Noé
-  link:
-    url: https://aip.scitation.org/doi/full/10.1063/1.4902240
-    display: J. Chem. Phys. 141, 214106 (2014)
-  highlight: 0
-  news2:
-
-- title: "xTRAM: Estimating equilibrium expectations from time-correlated simulation data at multiple thermodynamic states"
-  image: xtram.png
-  description: A Bayesian estimator for enhanced molecular simulation to estimate both thermodynamic properties and dynamic properties.
-  authors:  A.S.J.S. Mey, H. Wu, and F. Noé
-  link:
-    url: https://journals.aps.org/prx/abstract/10.1103/PhysRevX.4.041018
-    display: Phys. Rev. X 4, 041018 (2014)
+    url: https://doi.org/10.1109/ICDE.2017.119
+    display: IEEE 33rd International Conference on Data Engineering (ICDE) (2017)
   highlight: 1
   news2:
 
-- title: "Rare-event trajectory ensemble analysis reveals metastable dynamical phases in lattice proteins"
+- title: "Understanding Co-Running Behaviors on Integrated CPU/GPU Architectures"
   image: 
   description:
-  authors:  A.S.J.S. Mey, P.L. Geissler and J.P. Garrahan
+  authors: F. Zhang, J. Zhai, B. He, Shuhao Zhang, W. Chen
   link:
-    url: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.89.032109
-    display: Phys. Rev. E  89, 032109 (2014)
+    url: https://doi.org/10.1109/TPDS.2016.2586074
+    display: IEEE Transactions on Parallel and Distributed Systems (2017)
   highlight: 0
   news2:
 
-- title: "Variational approach to molecular kinetics"
+- title: "Elastic Multi-resource Fairness: Balancing Fairness and Efficiency in Coupled CPU-GPU Architectures"
   image: 
-  description:
-  authors:  F. Nüske, B.G. Keller, G. Pérez-Hernández, A.S.J.S. Mey, F. Noé
+  description: 
+  authors: S. Tang, B. He, Shuhao Zhang, and Z. Niu
   link:
-    url: https://pubs.acs.org/doi/10.1021/ct4009156
-    display: J. Chem. Theory Comput. 10, 1739 (2014)
+    url: https://doi.org/10.1109/SC.2016.74
+    display: SC '16: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (2016)
   highlight: 0
   news2:
 
-- title: "EMMA - A software package for Markov model building and analysis"
+- title: "Melia: A MapReduce Framework on OpenCL-Based FPGAs"
   image: 
   description:
-  authors: M. Senne, B. Trendelkamp-Schroer, A.S.J.S. Mey, C. Schütte, F. Noé
+  authors: Zeke Wang, Shuhao Zhang, Bingsheng He, Wei Zhang
   link:
-    url: https://pubs.acs.org/doi/abs/10.1021/ct300274u
-    display: J. Chem. Theory Comput. 8, 2223 (2012)
+    url: https://doi.org/10.1109/TPDS.2016.2537805
+    display: IEEE Transactions on Parallel and Distributed Systems Feb 2016 (2016)
   highlight: 0
   news2:
 
-- title: "Thermodynamics of trajectories of the one-dimensional Ising model"
+- title: "To Co-run, or Not to Co-run: A Performance Study on Integrated Architectures"
   image: 
   description:
-  authors: E.S. Loscar, A.S.J.S. Mey, J.P. Garrahan
+  authors: Feng Zhang, Jidong Zhai, Wenguang Chen, Bingsheng He, Shuhao Zhang
   link:
-    url: https://iopscience.iop.org/article/10.1088/1742-5468/2011/12/P12011
-    display: J. Stat. Mech. 2011, P12011 (2011)
+    url: https://doi.org/10.1109/MASCOTS.2015.27
+    display: 2015 IEEE 23rd International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (2015)
+  highlight: 0
+  news2:
+
+- title: "In-Cache Query Co-Processing on Coupled CPU-GPU Architectures"
+  image: 
+  description:
+  authors: Jiong He, Shuhao Zhang, Bingsheng He
+  link:
+    url: https://doi.org/10.14778/2735496.2735497
+    display: Proceedings of the VLDB Endowment Dec 2014 (2014)
+  highlight: 0
+  news2:
+
+- title: "OmniDB: Towards Portable and Efficient Query Processing on Parallel CPU/GPU Architectures"
+  image: 
+  description:
+  authors: Shuhao Zhang, Jiong He, Bingsheng He, Mian Lu
+  link:
+    url: https://doi.org/10.14778/2536274.2536319
+    display: Proceedings of the VLDB Endowment Aug 2013 (2013)
   highlight: 0
   news2:

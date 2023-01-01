@@ -29,7 +29,7 @@
   headline: "Our recent survey titled <i>A Survey on Transactional Stream Processing</i> is now available at Arxiv [online](https://arxiv.org/abs/2208.09827)!"
 
 - date: 17/Aug/2022
-  headline: "Our paper accepted at [SIGMOD 2021](https://dl.acm.org/doi/10.1145/3448016.3452793) has been successfully reproduced, and the "Results Reproduced" badge is now available in the ACM Digital Library!"
+  headline: "Our paper accepted at SIGMOD 2021 has been successfully reproduced, and the "Results Reproduced" badge is now <a href='https://dl.acm.org/doi/10.1145/3448016.3452793'>available in the ACM Digital Library</a>!"
   
 - date: 07/Aug/2022
   headline: "We have a new preprint out on the <a href='https://arxiv.org/abs/2008.03067'>Best Practices for Alchemical Free Energy calculations </a>"
