@@ -1,13 +1,13 @@
 - name: Yuan Li
   photo: 
-  info: M.Sc. Thesis in 'Towards Real-time Fault Diagnosis: a Hybrid-model Approach'
+  info: M.Sc. Thesis in Real-time Fault Diagnosis
   email: 
   number_educ: 1
   education1: M.Sc. in Electrical Engineering, Technische Universität Berlin completed in July 2022
   
 - name: Huilin Wu
   photo: 
-  info: M.Sc. Thesis in 'An Empirical Study of Online Sentiment Analysis on Twitter Streams'
+  info: M.Sc. Thesis in Online Sentiment Analysis
   email: 
   number_educ: 2
   education1: M.Sc. in Electrical Engineering, Technische Universität Berlin completed in July 2021
@@ -15,7 +15,7 @@
  
 - name: Aqif Hamid
   photo: 
-  info: M.Sc. Thesis in 'Scaling Transactional Stream Processing with Intensive Input Data Dependencies on Multicores'
+  info: M.Sc. Thesis in Transactional Stream Processing
   email: 
   number_educ: 1
   education1: M.Sc. in Computer Science, Technische Universität Berlin completed in May 2022
