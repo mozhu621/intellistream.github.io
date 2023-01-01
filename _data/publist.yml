@@ -1,7 +1,7 @@
 - title: "MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores"
   image:
   description: 
-  authors: Yancan Mao#, Jianjun Zhao, Shuhao Zhang, Haikun Liu, Volker Markl
+  authors: Yancan Mao, Jianjun Zhao, Shuhao Zhang, Haikun Liu, Volker Markl
   link:
     url: 
     display: In Proceedings of the 2023 International Conference on Management of Data (SIGMOD) 2023 (2023)

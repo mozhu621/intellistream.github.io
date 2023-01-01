@@ -1,21 +1,19 @@
-- title: "What geometrically constrained protein models can tell us about real-world protein contact maps"
+- title: "A Survey on Transactional Stream Processing"
   image: xx.png
-  description: Geometrically constrained protein models can be used to understand protein contact maps
-  authors: Nora Molkenthin, J. Jasmin Güven, Steffen Mühle, Antonia S. J. S. Mey
+  description: 
+  authors: Shuhao Zhang, Juan Soto, Volker Markl
   link:
-    url: https://arxiv.org/abs/2205.09074
+    url: https://arxiv.org/abs/2208.09827
     display: arxiv
   highlight: 0
   news2: 
 
-
-
-- title: "Best practices for constructing, preparing, and evaluating protein-ligand binding affinity benchmarks"
+- title: "A Framework for Fast Polarity Labelling of Massive Data Streams"
   image: xx.png
-  description: Benchmark dataset for predicting protein ligand binding affinities 
-  authors: David F. Hahn, Christopher I. Bayly, Hannah E. Bruce Macdonald, John D. Chodera, Antonia S. J. S. Mey, David L. Mobley, Laura Perez Benito, Christina E. M. Schindler, Gary Tresadern, Gregory L. Warren
+  description: 
+  authors: Huilin Wu, Mian Lu, Zhao Zheng, Shuhao Zhang
   link:
-    url: https://arxiv.org/abs/2105.06222
+    url: https://arxiv.org/abs/2203.12368
     display: arxiv
   highlight: 0
   news2: 

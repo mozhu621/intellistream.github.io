@@ -1,20 +1,21 @@
-- name: Victor Principe
-  photo: victor.jpeg
-  info: Chemical (MChem)
+- name: Yuan Li
+  photo: 
+  info: M.Sc. Thesis in 'Towards Real-time Fault Diagnosis: a Hybrid-model Approach'
   email: 
   number_educ: 1
-  education1: MChem Chemistry, University of Edinburgh, expected completion July 2021
-
-- name: Matthew Bowley
-  photo: matthew.png
-  info: Chemical (MChem)
+  education1: M.Sc. in Electrical Engineering, Technische Universität Berlin completed in July 2022
+  
+- name: Huilin Wu
+  photo: 
+  info: M.Sc. Thesis in 'An Empirical Study of Online Sentiment Analysis on Twitter Streams'
+  email: 
+  number_educ: 2
+  education1: M.Sc. in Electrical Engineering, Technische Universität Berlin completed in July 2021
+  education1: Current as a big data reseacher at Ping'an Group.
+ 
+- name: Aqif Hamid
+  photo: 
+  info: M.Sc. Thesis in 'Scaling Transactional Stream Processing with Intensive Input Data Dependencies on Multicores'
   email: 
   number_educ: 1
-  education1: MChem Chemistry, University of Edinburgh, expected completion July 2022
-
-- name: Yifan Wu
-  photo: yifan.jpg
-  info: Postgraduate Taught Masters (MSc)
-  email:
-  number_educ: 1
-  education1: MSc Chemistry (PGT), University of Edinburgh, expected completion August 2022
+  education1: M.Sc. in Computer Science, Technische Universität Berlin completed in May 2022

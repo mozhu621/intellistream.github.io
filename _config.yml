@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Mey Research Group
-email: antonia.mey@ed.ac.uk
+title: IntelliStream Research Group
+email: shuhao_zhang@sutd.edu.sg
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: ""
-url: "https://meyresearch.github.io/"
+url: "https://intellistream.github.io/"
 
 include:
   - .htaccess
@@ -30,7 +30,7 @@ excerpt_separator: "\n\n"
 incremental: false
 
 # Google services
-google_analytics: UA-155086764-1
+google_analytics: 
 
 # Markdown Processing
 kramdown:

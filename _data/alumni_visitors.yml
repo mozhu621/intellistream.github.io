@@ -1,13 +1,15 @@
-- name: Marta Chronowska
-  photo: marta.jpg
-  info: Medicinal and Biological Chemistry (MChem)
-  email:
-  number_educ: 1
-  education1: MChem BMedicinal and Biological Chemistry, University of Edinburgh, expected completion July 2023
-
-- name: Sarah Scripps
-  photo: sarah.jpg
-  info: Visitor
-  email:
-  number_educ: 1
-  education1: MChem in Chemical Physics, University of Edinburgh, expected completion August 2023
+- name: Zhenyu Wu
+  photo: 
+  info: Visiting Research Assistant
+  email: 
+  number_educ: 2
+  education1: Msc. in Computer Science the University of Edinburgh
+  education2: Current: PhD. student at the University of Edinburgh
+  
+- name: Haobo Zhang
+  photo: 
+  info: Visiting Research Assistant
+  email: 
+  number_educ: 2
+  education1: Bsc. and MSc. in Electronic Information Science and Technology University of Electronic Science and Technology of China
+  education2: Current: PhD. student at Michigan State University

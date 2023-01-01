@@ -1,0 +1,44 @@
+- name: Yuhao Wu
+  photo: user.png
+  info: Visiting Research Assistant (Onsite)
+  email:
+  number_educ: 1
+  education1: B.Sc. in Computer Science, Huazhong Agricultural University (2022)
+
+- name: Thivagarasarma Karthick
+  photo: user.png
+  info: Visiting Research Student (Onsite, begin in Feb/2023)
+  email:
+  number_educ: 1
+  education1: B.Sc. in Computer Science, University of Sri Jayewardenepura expected completion in 2025
+  
+- name: Ruopeng Geng
+  photo: user.png
+  info: Visiting PhD Student (Onsite)
+  email:
+  number_educ: 1
+  education1: B.Sc. in Computer Science, Zhejiang University
+  education1: PhD. in Computer Science, Zhejiang University expected completion in 2024
+  
+- name: Luv Singhal
+  photo: user.png
+  info: UROP Student & Part-Time Student Research Assistant (Onsite)
+  email:
+  number_educ: 1
+  education1: B.Sc. in Computer Science, Singapore University of Technology and Design expected completion in 2025
+
+- name: Yancan Mao
+  photo: user.png
+  info: Visiting PhD Student (Hybrid Onsite&Remote)
+  email:
+  number_educ: 2
+  education1: B.Sc. in Computer Science, Huazhong Agricultural University
+  education1: PhD. in Computer Science, National University of Singapore expected completion in 2025
+
+- name: Xin Wang
+  photo: user.png
+  info: Visiting Student (Remote)
+  email:
+  number_educ: 2
+  education1: B.Sc. in Computer Science, Sichuan University
+  education1: MSc. in Computer Science, Ohio State University expected completion in 2024

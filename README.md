@@ -1,6 +1,4 @@
-# Mey Research Group Website
-
-This is the website for my research at the University of Edinburgh.
+# IntelliStream Research Group Website
 
 The website has been adapted from the Allan lab website at Leiden University (https://www.allanlab.org)
 
@@ -9,5 +7,5 @@ This website is powered by Jekyll and some Bootstrap, Bootwatch. We tried to mak
 Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purpose. 
 
 
-Copyright Allan Lab, Antonia Mey. Code released under the MIT License.
+Copyright Allan Lab, Shuhao Zhang. Code released under the MIT License.
  
