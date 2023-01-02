@@ -1,6 +1,6 @@
 - name: Yuhao Wu
-  photo: user.png
-  info: Visiting Research Assistant (Onsite)
+  photo: yuhao.jpg
+  info: Visiting Research Assistant
   email:
   number_educ: 1
   education1: B.Sc. in Computer Science, Huazhong Agricultural University (2022)
@@ -14,7 +14,7 @@
   
 - name: Ruopeng Geng
   photo: ruopeng.jpg
-  info: Visiting PhD Student (Onsite)
+  info: Visiting PhD Student
   email:
   number_educ: 2
   education1: B.Sc. in Computer Science, Zhejiang University
@@ -29,7 +29,7 @@
 
 - name: Kangping Jiang
   photo: user.png
-  info: Visiting Student Assistant (Onsite)
+  info: Visiting Student Assistant
   email:
   number_educ: 1
   education1: B.Sc. in Computer Science, Peking University (2025)
