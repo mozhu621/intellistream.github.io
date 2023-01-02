@@ -214,7 +214,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Collaborators
+## Recent/Frequent Collaborators
 {% assign number_printed = 0 %}
 {% for member in site.data.collaborators %}
 
