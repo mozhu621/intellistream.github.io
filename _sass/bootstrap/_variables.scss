@@ -43,13 +43,13 @@ $link-hover-decoration: underline !default;
 //
 //## Font, line-height, and color for body text, headings, and more.
 
-$font-family-sans-serif:  "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$font-family-sans-serif:  "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
 $font-family-serif:       Georgia, "Times New Roman", Times, serif !default;
 //** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
 $font-family-monospace:   Menlo, Monaco, Consolas, "Courier New", monospace !default;
 $font-family-base:        $font-family-sans-serif !default;
 
-$font-size-base:          13px !default;
+$font-size-base:          16px !default;
 $font-size-large:         ceil(($font-size-base * 1.25)) !default; // ~18px
 $font-size-small:         ceil(($font-size-base * 0.85)) !default; // ~12px
 
@@ -366,7 +366,7 @@ $navbar-padding-vertical:          (($navbar-height - $line-height-computed) / 2
 $navbar-collapse-max-height:       340px !default;
 
 $navbar-default-color:             $text-color !default;
-$navbar-default-bg:                #e6f7f4 !default;
+$navbar-default-bg:                #f8f8f8 !default;
 $navbar-default-border:            $input-border !default;
 
 // Navbar links
@@ -702,7 +702,8 @@ $list-group-link-heading-color: #333 !default;
 //== Panels
 //
 //##
-$panel-bg:                    #213945 !default;
+
+$panel-bg:                    #fff !default;
 $panel-body-padding:          15px !default;
 $panel-heading-padding:       10px 15px !default;
 $panel-footer-padding:        $panel-heading-padding !default;
@@ -710,13 +711,13 @@ $panel-border-radius:         $border-radius-base !default;
 
 //** Border color for elements within panels
 $panel-inner-border:          transparent !default;
-$panel-footer-bg:             #e6f7f4 !default;
+$panel-footer-bg:             #f5f5f5 !default;
 
-$panel-default-text:          #ffffff !default;
+$panel-default-text:          $gray-dark !default;
 $panel-default-border:        transparent !default;
-$panel-default-heading-bg:    #f7e6f0 !default;
+$panel-default-heading-bg:    #f5f5f5 !default;
 
-$panel-primary-text:          #ffffff !default;
+$panel-primary-text:          #fff !default;
 $panel-primary-border:        transparent !default;
 $panel-primary-heading-bg:    $brand-primary !default;
 
