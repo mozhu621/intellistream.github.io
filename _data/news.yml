@@ -29,14 +29,11 @@
   headline: "A full research paper titled <i>CompressStreamDB: Fine-Grained Adaptive Stream Processing without Decompression</i> has been accepted for publication at ICDE 2023!"
   
 - date: 25/Aug/2022
-  headline: "Our recent survey titled <i>A Survey on Transactional Stream Processing</i> is now available at <a href='https://arxiv.org/abs/2208.09827'>Arxiv</a>!"
-
+  headline: "We have a new preprint out on the <a href='https://arxiv.org/abs/2208.09827'>Survey on Transactional Stream Processing</a>"
+  
 - date: 17/Aug/2022
   headline: "Our paper accepted at SIGMOD 2021 has been successfully reproduced, and the 'Results Reproduced' badge is now <a href='https://dl.acm.org/doi/10.1145/3448016.3452793'>available in the ACM Digital Library</a>!"
   
-- date: 07/Aug/2022
-  headline: "We have a new preprint out on the <a href='https://arxiv.org/abs/2008.03067'>Best Practices for Alchemical Free Energy calculations </a>"
-
 - date: 13/Aug/2022
   headline: "*Master Scholarship* available (**Singaporean citizens only**) for Future Communications Research & Development Master Scholarship Programme. If you are interested, please submit your application <a href='https://sutd.edu.sg/Admissions/Graduate/Master-Programme/Master-of-Engineering-(Research)/Application'>here</a>. More details can be found <a href='https://fcp.sutd.edu.sg/scholarships/'>here</a>."
 
