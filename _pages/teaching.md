@@ -8,7 +8,7 @@ permalink: /teaching
 
 ## Teaching
 
- <img src="{{ site.url }}{{ site.baseurl }}/images/teachpic/nodesNetwork.jpg" width="50%" style="float: center" />
+ <img src="{{ site.url }}{{ site.baseurl }}/images/teachpic/nodesNetwork.gif" width="50%" style="float: center" />
 
 ### Singapore University of Technology and Design
 

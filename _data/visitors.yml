@@ -16,9 +16,9 @@
   photo: user.png
   info: Visiting PhD Student (Onsite)
   email:
-  number_educ: 1
+  number_educ: 2
   education1: B.Sc. in Computer Science, Zhejiang University
-  education1: PhD. in Computer Science, Zhejiang University expected completion in 2024
+  education2: PhD. in Computer Science, Zhejiang University expected completion in 2024
   
 - name: Luv Singhal
   photo: user.png
@@ -27,18 +27,38 @@
   number_educ: 1
   education1: B.Sc. in Computer Science, Singapore University of Technology and Design expected completion in 2025
 
+- name: Kangping Jiang
+  photo: user.png
+  info: Visiting Student Assistant (Onsite)
+  email:
+  number_educ: 1
+  education1: B.Sc. in Computer Science, Peking University (2025)
+
 - name: Yancan Mao
   photo: user.png
   info: Visiting PhD Student (Hybrid Onsite&Remote)
   email:
   number_educ: 2
-  education1: B.Sc. in Computer Science, Huazhong Agricultural University
-  education1: PhD. in Computer Science, National University of Singapore expected completion in 2025
+  education1: B.Sc. in Computer Science, University of Electronic Science and Technology of China
+  education2: PhD. in Computer Science, National University of Singapore expected completion in 2025
 
 - name: Xin Wang
   photo: user.png
-  info: Visiting Student (Remote)
+  info: Visiting Student (Remote, MSc. in Computer Science, Ohio State University) 
   email:
-  number_educ: 2
+  number_educ: 1
   education1: B.Sc. in Computer Science, Sichuan University
-  education1: MSc. in Computer Science, Ohio State University expected completion in 2024
+
+- name: Jianjun Zhao
+  photo: user.png
+  info: Visiting PhD Student (Remote)
+  email:
+  number_educ: 1
+  education1: PhD. in Computer Science, Huazhong University of Science and Technology expected completion in 2025
+
+- name: Zhengru Wang
+  photo: user.png
+  info: Visiting Student (Remote) HPC Architect at Nvidia
+  email:
+  number_educ: 1
+  education1: B.Sc. in Computer Science, Huazhong University of Science and Technology (2022)
