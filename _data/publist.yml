@@ -145,7 +145,7 @@
   link:
     url: https://doi.org/10.1145/3299869.3300067
     display: Proceedings of the 2019 International Conference on Management of Data (SIGMOD) (2019)
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "Multi-Query Optimization for Complex Event Processing in SAP ESP"
@@ -159,13 +159,13 @@
   news2:
 
 - title: "Revisiting the Design of Data Stream Processing Systems on Multi-Core Processors"
-  image:
-  description: 
+  image: profiling.png
+  description:  Regardless of the different architectures of those DSP systems, they are mostly aiming at scaling out using a cluster of commodity machines and built around a number of key design aspects: a) pipelined processing with message passing, b) on-demand data parallelism, and c) JVM based implementation. In this paper, we revisit the aforementioned design aspects on a modern scale-up server.
   authors: Shuhao Zhang, B. He, D. Dahlmeier, A. C. Zhou, T. Heinze
   link:
     url: https://doi.org/10.1109/ICDE.2017.119
     display: IEEE 33rd International Conference on Data Engineering (ICDE) (2017)
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "Understanding Co-Running Behaviors on Integrated CPU/GPU Architectures"
