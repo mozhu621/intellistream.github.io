@@ -248,7 +248,6 @@ The group is happy to accommodate talented undergraduate students. Due to the na
 {% for member in site.data.alumni_members %}
    {{ member.name }}
    {{ member.info }}
-  <ul style="overflow: hidden">
 {% endfor %}
 </div>
 
@@ -257,7 +256,6 @@ The group is happy to accommodate talented undergraduate students. Due to the na
 {% for member in site.data.alumni_msc %}
    {{ member.name }}
    {{ member.info }}
-  <ul style="overflow: hidden">
 {% endfor %}
 </div>
 
@@ -266,7 +264,6 @@ The group is happy to accommodate talented undergraduate students. Due to the na
 {% for member in site.data.alumni_bsc %}
    {{ member.name }}
    {{ member.info }}
-   <ul style="overflow: hidden">
 {% endfor %}
 </div>
 
@@ -275,7 +272,6 @@ The group is happy to accommodate talented undergraduate students. Due to the na
 {% for member in site.data.alumni_visitors %}
    {{ member.name }}
    {{ member.info }}
-  <ul style="overflow: hidden">
 {% endfor %}
 </div>
 
