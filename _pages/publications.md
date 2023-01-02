@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-## Highlights
+## Three Year's Highlights
 
 (For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=Xwn7lCEAAAAJ))
 

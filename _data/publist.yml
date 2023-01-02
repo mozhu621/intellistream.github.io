@@ -79,13 +79,13 @@
   news2:
   
 - title: "Towards Concurrent Stateful Stream Processing on Multicore Processors"
-  image:
-  description: 
+  image: tstream.png
+  description: This paper introduces TStream, a novel data stream processing system (DSPS) supporting efficient concurrent state access on multicore processors.
   authors: Shuhao Zhang, Yingjun Wu, Feng Zhang, Bingsheng He
   link:
     url: https://doi.org/10.1109/ICDE48307.2020.00136
     display: IEEE 36th International Conference on Data Engineering (ICDE) (2020)
-  highlight: 0
+  highlight: 1
   news2:
   
 - title: "NebulaStream: Complex Analytics Beyond the Cloud"
@@ -145,7 +145,7 @@
   link:
     url: https://doi.org/10.1145/3299869.3300067
     display: Proceedings of the 2019 International Conference on Management of Data (SIGMOD) (2019)
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Multi-Query Optimization for Complex Event Processing in SAP ESP"
@@ -194,7 +194,7 @@
   authors: Zeke Wang, Shuhao Zhang, Bingsheng He, Wei Zhang
   link:
     url: https://doi.org/10.1109/TPDS.2016.2537805
-    display: IEEE Transactions on Parallel and Distributed Systems Feb 2016 (2016)
+    display: IEEE Transactions on Parallel and Distributed Systems (2016)
   highlight: 0
   news2:
 
@@ -214,7 +214,7 @@
   authors: Jiong He, Shuhao Zhang, Bingsheng He
   link:
     url: https://doi.org/10.14778/2735496.2735497
-    display: Proceedings of the VLDB Endowment Dec 2014 (2014)
+    display: Proceedings of the VLDB Endowment (2014)
   highlight: 0
   news2:
 
@@ -224,6 +224,6 @@
   authors: Shuhao Zhang, Jiong He, Bingsheng He, Mian Lu
   link:
     url: https://doi.org/10.14778/2536274.2536319
-    display: Proceedings of the VLDB Endowment Aug 2013 (2013)
+    display: Proceedings of the VLDB Endowment (2013)
   highlight: 0
   news2:
