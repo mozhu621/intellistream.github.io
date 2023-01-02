@@ -1,38 +1,44 @@
+- date: 23/Dec/2022
+  headline: "Shuhao Zhang is joining the program committee for <b>KDD 2023 research track</b> (https://kdd.org/kdd2023/call-for-research-track-papers/), which will be held in Long Beach CA, USA August 6 - 10, 2023."  
+  
 - date: 14/Dec/2022
   headline: "I will give an invited talk at HUST (online) this coming Friday <a href='assets/pdf/talks/2022HUSTTalk.pdf'>[Slides]</a>."
 
 - date: 02/Dec/2022
-  headline: "Welcome to the group: Thivagarasarma Karthick will be joining us as visiting student for the summer of 2023."
+  headline: "<b>Welcome to the group</b>: Thivagarasarma Karthick will be joining us as visiting student for the summer of 2023."
 
+- date: 29/Nov/2022
+  headline: "Shuhao Zhang is joining the program committee for <b>SC23 - Machine Learning and HPC Track</b> (https://sc23.supercomputing.org), which will be held in Denver, CO, USA, November 12-17, 2023."
+  
 - date: 11/Nov/2022
-  headline: "Welcome to the group: Ruopeng Geng joined us as a visitng PhD student from Zhejiang University (ZJU)."
+  headline: "<b>Welcome to the group</b>: Ruopeng Geng joined us as a visitng PhD student from Zhejiang University (ZJU)."
   
 - date: 02/Oct/2022
-  headline: "Welcome to the group: Zhonghao Yang and Haolan He joined us as full-time research assistants. Zhonghao will be joining the group as a PhD student in January 2023"
+  headline: "<b>Welcome to the group</b>: Zhonghao Yang and Haolan He joined us as full-time research assistants. Zhonghao will be joining the group as a PhD student in January 2023"
   
 - date: 16/Sep/2022
-  headline: "The paper on 'MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores' has been accepted for publication in SIGMOD 2023. Congratulations to my visiting students <a href='https://yancanmao.github.io/'>Yancan Mao</a> and Jianjun Zhao!"
+  headline: "The paper on 'MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores' has been accepted for <b>publication in SIGMOD 2023</b>. Congratulations to my visiting students <a href='https://yancanmao.github.io/'>Yancan Mao</a> and Jianjun Zhao!"
 
 - date: 16/Sep/2022
-  headline: "We are part of a newly granted project title 'Towards Co-clustering in Big Data: An Optimization Perspective', together with Meixia Lin, Das Bikramjit, Wei Quin Yow"
+  headline: "We are part of a newly granted project title 'Towards Co-clustering in Big Data: An Optimization Perspective', together with Meixia Lin, Das Bikramjit, Wei Quin Yow. Congrauts Meixia."
   
 - date: 10/Sep/2022
-  headline: "The paper on 'Parallelizing Stream Compression for IoT Applications on Asymmetric Multicores' has been accepted for publication in ICDE 2023. Congratulations to <a href='https://tonyskyzeng.github.io/'>Xianzhi</a>!"
+  headline: "The paper on 'Parallelizing Stream Compression for IoT Applications on Asymmetric Multicores' has been accepted for <b>publication in ICDE 2023</b>. Congratulations to <a href='https://tonyskyzeng.github.io/'>Xianzhi</a>!"
 
 - date: 01/Sep/2022
-  headline: "We are pleased to announce that our team's first Singapore Ministry of Education (MOE) Tier 2 Grant (2022-2025) has been <a href='https://istd.sutd.edu.sg/news-events/event/news/congratulations-to-assistant-professor-zhang-shuhao-for-obtaining-moe-acrf-tier-2-grant-call-funding/'>awarded</a>."
+  headline: "We are pleased to announce that our team's first Singapore <b>Ministry of Education (MOE) Tier 2</b> Grant (2022-2025) has been <a href='https://istd.sutd.edu.sg/news-events/event/news/congratulations-to-assistant-professor-zhang-shuhao-for-obtaining-moe-acrf-tier-2-grant-call-funding/'>awarded</a>."
 
 - date: 10/Aug/2022
-  headline: "Welcome to the group: Luv Singhal joined us as a UROP (Undergraduate Research Opportunities Programme) student."
+  headline: "<b>Welcome to the group</b>: Luv Singhal joined us as a UROP (Undergraduate Research Opportunities Programme) student."
   
 - date: 26/Aug/2022
-  headline: "A full research paper titled <i>CompressStreamDB: Fine-Grained Adaptive Stream Processing without Decompression</i> has been accepted for publication at ICDE 2023!"
+  headline: "A full research paper titled <i>CompressStreamDB: Fine-Grained Adaptive Stream Processing without Decompression</i> has been accepted for <b>publication at ICDE 2023</b>!"
   
 - date: 25/Aug/2022
   headline: "We have a new preprint out on the <a href='https://arxiv.org/abs/2208.09827'>Survey on Transactional Stream Processing</a>"
   
 - date: 17/Aug/2022
-  headline: "Our paper accepted at SIGMOD 2021 has been successfully reproduced, and the 'Results Reproduced' badge is now <a href='https://dl.acm.org/doi/10.1145/3448016.3452793'>available in the ACM Digital Library</a>!"
+  headline: "<b>Our paper accepted at SIGMOD 2021 has been successfully reproduced</b>, and the 'Results Reproduced' badge is now <a href='https://dl.acm.org/doi/10.1145/3448016.3452793'>available in the ACM Digital Library</a>!"
   
 - date: 13/Aug/2022
   headline: "*Master Scholarship* available (**Singaporean citizens only**) for Future Communications Research & Development Master Scholarship Programme. If you are interested, please submit your application <a href='https://sutd.edu.sg/Admissions/Graduate/Master-Programme/Master-of-Engineering-(Research)/Application'>here</a>. More details can be found <a href='https://fcp.sutd.edu.sg/scholarships/'>here</a>."
@@ -41,10 +47,10 @@
   headline: "Congrats to Yuan Li for sucessfully defence her master thesis at TU Berlin. Congrauts Yuan!"
   
 - date: 10/Aug/2022
-  headline: "Welcome to the group: Yuhao Wu joined us as a visiting researcher from Huazhong Agricultural University to work on streaming machine learning. Welcome Yuhao!"
+  headline: "<b>Welcome to the group</b>: Yuhao Wu joined us as a visiting researcher from Huazhong Agricultural University to work on streaming machine learning. Welcome Yuhao!"
   
 - date: 31/May/2022
-  headline: "Zhonghao has received a PhD Offer from SUTD to work on in-network streaming event detection. Congrats Zhonghao!" 
+  headline: "Zhonghao has received a <b>PhD Offer</b> from SUTD to work on in-network streaming event detection. Congrats Zhonghao!" 
   
 - date: 11/May/2022
   headline: "Our grant proposal titled <i>Energy-efficient, Scalable, and Reliable Distributed Green Streaming Machine Learning for Edges</i> has been awarded (sole PI: Shuhao Zhang). Thanks the Future Communications Research & Development Programme (FCP) Research Grant Evaluation Committee 2021!"
@@ -56,22 +62,22 @@
   headline: " Mr.Huilin Wu receives full marks (1.0 in Germany scale) of his mater thesis defence at TU Berlin! <a href='https://arxiv.org/abs/2203.12368'>His work has been submitted and under review</a>. Congrats Huilin!"  
 
 - date: 13/April/2022
-  headline: "Xianzhi has gained a full PhD Scholarship from SUTD to work on energy efficient edge computing. Congrats Xianzhi!"
+  headline: "Xianzhi has gained a <b>full PhD Scholarship</b> from SUTD to work on energy efficient edge computing. Congrats Xianzhi!"
 
 - date: 02/April/2022
-  headline: "Welcome to the group: Haobo Zhang will be joining us for the summer of 2022 as a visiting student to work on online sentiment analysis."
+  headline: "<b>Welcome to the group</b>: Haobo Zhang will be joining us for the summer of 2022 as a visiting student to work on online sentiment analysis."
 
 - date: 25/02/2022
-  headline: "Shuhao Zhang is joining the program committee for EDBT 2023 (http://edbticdt2023.cs.uoi.gr), which will be held in Ioannina, Greece, March 28 - March 31, 2023."  
+  headline: "Shuhao Zhang is joining the program committee for <b>EDBT 2023</b> (http://edbticdt2023.cs.uoi.gr), which will be held in Ioannina, Greece, March 28 - March 31, 2023."  
   
 - date: 18/Feb/2022
   headline: "Congrats to Huilin Wu for sucessfully defence his master thesis at TU Berlin. Congrauts Huilin!"
 
 - date: 2/12/2021
-  headline: "Shuhao Zhang is joining the program committee for Machine Learning with HPC of SC22 (https://sc22.supercomputing.org), which will be held in Dallas, TX, USA, November 13-18, 2022."  
+  headline: "Shuhao Zhang is joining the program committee for <b>Machine Learning with HPC of SC22</b> (https://sc22.supercomputing.org), which will be held in Dallas, TX, USA, November 13-18, 2022."  
 
 - date: 19/11/2021
-  headline: "Shuhao Zhang is joining the program committee for Software Track of ICPP22 (https://icpp22.gitlabpages.inria.fr/), which will be held in Bordeaux, France, August 29th to Sept 1st, 2022."  
+  headline: "Shuhao Zhang is joining the program committee for <b>Software Track of ICPP22</b> (https://icpp22.gitlabpages.inria.fr/), which will be held in Bordeaux, France, August 29th to Sept 1st, 2022."  
   
 - date: 06/Nov/2021
   headline: "Our grant proposal titled <i>Online Sentiment Learning of Massive Data Streams</i> has been awarded (sole PI). Thanks the TL@SUTD Seed Project Evaluation Committee 2021!"
@@ -80,19 +86,19 @@
   headline: "Our grant proposal titled <i>Revisiting the Algorithms for Clustering Evolving Trajectory Streams</i> has been awarded (sole PI). Thanks the SUTD-ZJU (VP) Grant Evaluation Committee 2021!"
   
 - date: 01/Sep/2021
-  headline: "Welcome to the group: Xianzhi Zeng joins the group as a visiting student from University of Electronic Science and Technology of China (UESTC). Welcome Xianzhi!"
+  headline: "<b>Welcome to the group</b>: Xianzhi Zeng joins the group as a visiting student from University of Electronic Science and Technology of China (UESTC). Welcome Xianzhi!"
 
 - date: 11/July/2021
-  headline: "Welcome to the group: Xin Wang joined us as a (remote) visitng student from Sichuan University (SCU). Welcome Xin!"
+  headline: "<b>Welcome to the group</b>: Xin Wang joined us as a (remote) visitng student from Sichuan University (SCU). Welcome Xin!"
 
 - date: 01/June/2021
-  headline: "Welcome to the group: Yancan Mao joined us as a visitng PhD student from National University of Singapore (NUS) for the summer vacanccy of 2021. Welcome Yancan!"
+  headline: "<b>Welcome to the group</b>: Yancan Mao joined us as a visitng PhD student from National University of Singapore (NUS) for the summer vacanccy of 2021. Welcome Yancan!"
 
 - date: 26/May/2021
   headline: "Congrats to Aqif Hamid for sucessfully defence his master thesis at TU Berlin. Congrauts Aqif!"
   
 - date: 01/April/2022
-  headline: "Welcome to the group: Zhenyu Wu joined us as a visiting researcher to work on data stream mining. Welcome Zhenyu!"
+  headline: "<b>Welcome to the group</b>: Zhenyu Wu joined us as a visiting researcher to work on data stream mining. Welcome Zhenyu!"
   
 - date: 11/March/2021 
   headline: "The paper <i>Fine-Grained Multi-Query Stream Processing on Integrated Architectures</i> was accepted at the <b>IEEE Transactions on Parallel and Distributed Systems (TPDS)</b>! It is regarding a renewed design of stream processing engine on integrated CPU-GPU architectures, a significantly extended version of our previous work published at USNIX Annual Technical Conference (ATC) 2020."
