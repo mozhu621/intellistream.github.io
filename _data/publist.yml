@@ -1,20 +1,20 @@
 - title: "MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores"
-  image:
-  description: 
+  image: morphstream.png
+  description: This paper introduces MorphStream -- a novel transactional stream processing engine. Compared to the state-of-the-art, MorphStream achieves up to 3.4 times higher throughput and 69.1% lower processing latency for handling real-world use cases with complex and dynamically changing workload dependencies.
   authors: Yancan Mao, Jianjun Zhao, Shuhao Zhang, Haikun Liu, Volker Markl
   link:
     url: 
-    display: In Proceedings of the 2023 International Conference on Management of Data (SIGMOD) 2023 (2023)
+    display: International Conference on Management of Data (SIGMOD) (2023)
   highlight: 1
   news2:
   
 - title: "Parallelizing Stream Compression for IoT Applications on Asymmetric Multicores"
-  image:
-  description: 
+  image: CStream.png
+  description: This paper introduces CStream, a novel framework for parallelizing stream compression on asymmetric multicores to minimize energy consumption without violating the user-specified compressing latency constraint.
   authors: Xianzhi Zeng, Shuhao Zhang
   link:
     url: 
-    display: In 2023 IEEE 39rd International Conference on Data Engineering (ICDE) 2023 (2023)
+    display: IEEE 39rd International Conference on Data Engineering (ICDE) (2023)
   highlight: 1
   news2:
   
@@ -49,12 +49,12 @@
   news2:
   
 - title: "Parallelizing Intra-Window Join on Multicores: An Experimental Study"
-  image:
-  description: 
+  image: intraJoinStudy.png
+  description: The intra-window join (IaWJ), i.e., joining two input streams over a single window, is a core operation in modern stream processing applications. This paper presents the frst comprehensive study on parallelizing the IaWJ on modern multicore architectures.
   authors: Shuhao Zhang, Yancan Mao, Jiong He, Philipp M. Grulich, Steffen Zeuch, Bingsheng He, Richard T. B. Ma, Volker Markl
   link:
     url: https://shuhaozhangtony.github.io/assets/pdf/papers/rdm044-zhangA.pdf
-    display: In Proceedings of the 2021 International Conference on Management of Data (SIGMOD) Jan 2021 (2021)
+    display: International Conference on Management of Data (SIGMOD) (2021)
   highlight: 1
   news2:
   
@@ -65,7 +65,7 @@
   link:
     url: https://doi.org/10.1109/TPDS.2021.3066407
     display: IEEE Transactions on Parallel and Distributed Systems (TPDS) Jan 2021 (2021)
-  highlight: 1
+  highlight: 0
   news2:
   
 - title: "Periodic Weather-Aware LSTM with Event Mechanism for Parking Behavior Prediction"
@@ -85,7 +85,7 @@
   link:
     url: https://doi.org/10.1109/ICDE48307.2020.00136
     display: IEEE 36th International Conference on Data Engineering (ICDE) (2020)
-  highlight: 1
+  highlight: 0
   news2:
   
 - title: "NebulaStream: Complex Analytics Beyond the Cloud"
@@ -139,8 +139,8 @@
   news2:
 
 - title: "BriskStream: Scaling Data Stream Processing on Shared-Memory Multicore Architectures"
-  image:
-  description: 
+  image: briskstream.png
+  description: We introduce BriskStream, an in-memory data stream processing system (DSPSs) specifically designed for modern shared-memory multicore architectures.
   authors: Shuhao Zhang, Jiong He, Amelie Chi Zhou, Bingsheng He
   link:
     url: https://doi.org/10.1145/3299869.3300067
@@ -155,7 +155,7 @@
   link:
     url: https://doi.org/10.1109/ICDE.2017.166
     display: IEEE 33rd International Conference on Data Engineering (ICDE) (2017)
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Revisiting the Design of Data Stream Processing Systems on Multi-Core Processors"
@@ -165,7 +165,7 @@
   link:
     url: https://doi.org/10.1109/ICDE.2017.119
     display: IEEE 33rd International Conference on Data Engineering (ICDE) (2017)
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Understanding Co-Running Behaviors on Integrated CPU/GPU Architectures"
