@@ -214,6 +214,38 @@ permalink: /team/
 </div>
 {% endif %}
 
+## Collaborators
+{% assign number_printed = 0 %}
+{% for member in site.data.collaborators %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+
+  <h4>{{ member.name }}</h4>    
+   {{ member.info }}
+  <ul style="overflow: hidden">
+
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
 # Joining the group
 
 ### Open Positions
@@ -247,7 +279,7 @@ The group is happy to accommodate talented undergraduate students. Due to the na
 <h4>Staffs and PhD students</h4>
 {% for member in site.data.alumni_members %}
    {{ member.name }}
-   {{ member.info }}
+   ({{ member.info }})
 {% endfor %}
 </div>
 
@@ -255,7 +287,7 @@ The group is happy to accommodate talented undergraduate students. Due to the na
 <h4>Master students</h4>
 {% for member in site.data.alumni_msc %}
    {{ member.name }}
-   {{ member.info }}
+   ({{ member.info }})
 {% endfor %}
 </div>
 
@@ -263,7 +295,7 @@ The group is happy to accommodate talented undergraduate students. Due to the na
 <h4>Bachelor Students</h4>
 {% for member in site.data.alumni_bsc %}
    {{ member.name }}
-   {{ member.info }}
+   ({{ member.info }})
 {% endfor %}
 </div>
 
@@ -271,7 +303,7 @@ The group is happy to accommodate talented undergraduate students. Due to the na
 <h4>Visitors</h4>
 {% for member in site.data.alumni_visitors %}
    {{ member.name }}
-   {{ member.info }}
+   ({{ member.info }})
 {% endfor %}
 </div>
 
