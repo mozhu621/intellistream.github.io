@@ -1,5 +1,5 @@
 - date: 14/Dec/2022
-  headline: "I will give an invited talk at HUST (online) this coming Friday [[Slides](assets/pdf/talks/2022HUSTTalk.pdf)]."
+  headline: "I will give an invited talk at HUST (online) this coming Friday <a href='assets/pdf/talks/2022HUSTTalk.pdf'>[Slides]</a>."
 
 - date: 02/Dec/2022
   headline: "Welcome to the group: Thivagarasarma Karthick will be joining us as visiting student for the summer of 2023."
@@ -11,16 +11,16 @@
   headline: "Welcome to the group: Zhonghao Yang and Haolan He joined us as full-time research assistants. Zhonghao will be joining the group as a PhD student in January 2023"
   
 - date: 16/Sep/2022
-  headline: "The paper on 'MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores' has been accepted for publication in SIGMOD 2023. Congratulations to my visiting students [Mr.Yancan Mao](https://yancanmao.github.io/) and Mr.Jianjun Zhao!"
+  headline: "The paper on 'MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores' has been accepted for publication in SIGMOD 2023. Congratulations to my visiting students <a href='https://yancanmao.github.io/'>Yancan Mao</a> and Jianjun Zhao!"
 
 - date: 16/Sep/2022
   headline: "We are part of a newly granted project title 'Towards Co-clustering in Big Data: An Optimization Perspective', together with Meixia Lin, Das Bikramjit, Wei Quin Yow"
   
 - date: 10/Sep/2022
-  headline: "The paper on 'Parallelizing Stream Compression for IoT Applications on Asymmetric Multicores' has been accepted for publication in ICDE 2023. Congratulations to [Xianzhi](https://tonyskyzeng.github.io/)!"
+  headline: "The paper on 'Parallelizing Stream Compression for IoT Applications on Asymmetric Multicores' has been accepted for publication in ICDE 2023. Congratulations to <a href='https://tonyskyzeng.github.io/'>Xianzhi</a>!"
 
 - date: 01/Sep/2022
-  headline: "We are pleased to announce that our team's first Singapore Ministry of Education (MOE) Tier 2 Grant (2022-2025) has been [awarded](https://istd.sutd.edu.sg/news-events/event/news/congratulations-to-assistant-professor-zhang-shuhao-for-obtaining-moe-acrf-tier-2-grant-call-funding/)."
+  headline: "We are pleased to announce that our team's first Singapore Ministry of Education (MOE) Tier 2 Grant (2022-2025) has been <a href='https://istd.sutd.edu.sg/news-events/event/news/congratulations-to-assistant-professor-zhang-shuhao-for-obtaining-moe-acrf-tier-2-grant-call-funding/'>awarded</a>."
 
 - date: 10/Aug/2022
   headline: "Welcome to the group: Luv Singhal joined us as a UROP (Undergraduate Research Opportunities Programme) student."
@@ -38,7 +38,7 @@
   headline: "We have a new preprint out on the <a href='https://arxiv.org/abs/2008.03067'>Best Practices for Alchemical Free Energy calculations </a>"
 
 - date: 13/Aug/2022
-  headline: "*Master Scholarship* available (**Singaporean citizens only**) for Future Communications Research & Development Master Scholarship Programme. If you are interested, please submit your application [here](https://sutd.edu.sg/Admissions/Graduate/Master-Programme/Master-of-Engineering-(Research)/Application). More details can be found [here](https://fcp.sutd.edu.sg/scholarships/)."
+  headline: "*Master Scholarship* available (**Singaporean citizens only**) for Future Communications Research & Development Master Scholarship Programme. If you are interested, please submit your application <a href='https://sutd.edu.sg/Admissions/Graduate/Master-Programme/Master-of-Engineering-(Research)/Application'>here</a>. More details can be found <a href='https://fcp.sutd.edu.sg/scholarships/'>here</a>."
 
 - date: 01/April/2022
   headline: "Congrats to Yuan Li for sucessfully defence her master thesis at TU Berlin. Congrauts Yuan!"
@@ -56,7 +56,7 @@
   headline: "Our grant proposal titled <i>A Stream Processing based NFV Platform for 5G on Modern Multicore Processors</i> has been awarded (PI: Shuhao Zhang; Co-PI: Binbin Chen). Thanks the Future Communications Research & Development Programme (FCP) Research Grant Evaluation Committee 2021!"
   
 - date: 17/April/2022
-  headline: " Mr.Huilin Wu receives full marks (1.0 in Germany scale) of his mater thesis defence at TU Berlin! [His work has been submitted and under review](https://arxiv.org/abs/2203.12368). Congrats Huilin!"  
+  headline: " Mr.Huilin Wu receives full marks (1.0 in Germany scale) of his mater thesis defence at TU Berlin! <a href='https://arxiv.org/abs/2203.12368'>His work has been submitted and under review</a>. Congrats Huilin!"  
 
 - date: 13/April/2022
   headline: "Xianzhi has gained a full PhD Scholarship from SUTD to work on energy efficient edge computing. Congrats Xianzhi!"
