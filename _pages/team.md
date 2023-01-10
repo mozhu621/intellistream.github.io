@@ -29,6 +29,7 @@ permalink: /team/
 <br>
 
 ## PhD Students
+
 {% assign number_printed = 0 %}
 {% for member in site.data.phds %}
 
@@ -89,6 +90,8 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+<i> I regret that all new positions for 2023 intake are already filled. If you are still interested to do a PhD with me, probably at a later time, you may consider first join as a visiting student.</i>
 
 ## Research Staffs
 {% assign number_printed = 0 %}
@@ -152,6 +155,8 @@ permalink: /team/
 </div>
 {% endif %}
 
+<i> We have one open position available for postdoc/RA.</i>
+
 ## Bachelor, Master and Visiting Students
 {% assign number_printed = 0 %}
 {% for member in site.data.visitors %}
@@ -213,6 +218,8 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+<i> We have a few positions available for visiting researcher/(stipend) student.</i>
 
 ## Recent/Frequent Collaborators
 {% assign number_printed = 0 %}
