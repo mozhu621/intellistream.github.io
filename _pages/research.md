@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-### Research
+## Research
 ***Stream Processing*** with 
 	**Database Management** • **Networking Systems** • **Machine Learning** • **Data Mining** 
 
@@ -51,19 +51,18 @@ by 5G, IoT, etc. The group has the following current research interests:
 ### Software
 In general all our code can be found on [github](https://github.com/intellistream/), so feel free to have a look at what is going on at the moment. All feedback is always welcome. 
 
-#### MorphStream
-- [MorphStream](https://github.com/intellistream/MorphStream) aims at building a scalable transactional stream processing engine on modern hardware. It allows ACID transactions to be run directly on streaming data. It shares similar project vision with Flink StreamingLedger from Data Artisans , but MorphStream emphsizes more on improving system performance leveraging modern multicore processors. 
+<b>MorphStream</b> - [MorphStream](https://github.com/intellistream/MorphStream) aims at building a scalable transactional stream processing engine on modern hardware. It allows ACID transactions to be run directly on streaming data. It shares similar project vision with Flink StreamingLedger from Data Artisans , but MorphStream emphsizes more on improving system performance leveraging modern multicore processors. 
 
 > MorphStream is built based on our previous work of Briskstream (SIGMOD'19) and TStream (ICDE'20) but with significant changes: the codebase are exclusive. The code is still under active development and more features will be introduced. 
 
 <!---[]({{ site.url }}{{ site.baseurl }}/images/research/AllianceDB_Logo.bmp){: style="width: 100px; float: left; border: 10px"}-->
 
-#### AllianceDB
-- AllianceDB is an open-source benchmark suite for evaluating and improving stream operation algorithms on modern hardwares.
+<b>AllianceDB</b> - AllianceDB is an open-source benchmark suite for evaluating and improving stream operation algorithms on modern hardwares.
 It is also an open source tools and all code is available on [github](https://github.com/intellistream/AllianceDB). 
 
 
-
+### Hardware
+Our team manages dozens of CPU and GPU servers. To access, you must be within the SUTD network. For details, please refer to this [google doc](https://docs.google.com/document/d/1RJfLIpZfG87YV8f3nkSh1OZ091oIQVM-/edit?usp=sharing&ouid=102789742341353270250&rtpof=true&sd=true).
 
 
 
