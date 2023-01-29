@@ -3,7 +3,7 @@
   description: This paper introduces MorphStream -- a novel transactional stream processing engine. Compared to the state-of-the-art, MorphStream achieves up to 3.4 times higher throughput and 69.1% lower processing latency for handling real-world use cases with complex and dynamically changing workload dependencies.
   authors: Yancan Mao, Jianjun Zhao, Shuhao Zhang, Haikun Liu, Volker Markl
   link:
-    url: 
+    url: https://shuhaozhangtony.github.io/assets/pdf/papers/MorphStream.pdf
     display: International Conference on Management of Data (SIGMOD) (2023)
   highlight: 1
   news2:
@@ -13,7 +13,7 @@
   description: This paper introduces CStream, a novel framework for parallelizing stream compression on asymmetric multicores to minimize energy consumption without violating the user-specified compressing latency constraint.
   authors: Xianzhi Zeng, Shuhao Zhang
   link:
-    url: 
+    url: https://shuhaozhangtony.github.io/assets/pdf/papers/CStream.pdf
     display: IEEE 39rd International Conference on Data Engineering (ICDE) (2023)
   highlight: 1
   news2:
