@@ -18,6 +18,7 @@ by 5G, IoT, etc. The group has the following current research interests:
 - Online machine learning and data stream mining algorithms
 - Novel streaming approaches for network function virtualization and software-defined networks
 
+> [Our recommended reading list](https://intellistream.github.io/StreamProcessing_ReadingList/)
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover" >
     <!-- Menu -->
