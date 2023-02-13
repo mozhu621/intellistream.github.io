@@ -7,7 +7,7 @@
 
 - name: Thivagarasarma Karthick
   photo: user.png
-  info: Visiting Research Student (Onsite, begin in Feb/2023)
+  info: Visiting Research Student
   email:
   number_educ: 1
   education1: B.Sc. in Computer Science, University of Sri Jayewardenepura expected completion in 2025
@@ -22,17 +22,10 @@
   
 - name: Luv Singhal
   photo: user.png
-  info: UROP Student & Part-Time Student Research Assistant (Onsite)
+  info: UROP Student & Part-Time Student Research Assistant
   email:
   number_educ: 1
   education1: B.Sc. in Computer Science, Singapore University of Technology and Design expected completion in 2025
-
-- name: Kangping Jiang
-  photo: user.png
-  info: Visiting Student Assistant
-  email:
-  number_educ: 1
-  education1: B.Sc. in Computer Science, Peking University (2025)
 
 - name: <a href='https://yancanmao.github.io/'>Yancan Mao</a>
   photo: user.png

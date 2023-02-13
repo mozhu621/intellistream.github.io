@@ -221,7 +221,7 @@ permalink: /team/
 
 <i> We have a few positions available for visiting researcher/(stipend) student.</i>
 
-## Recent/Frequent Collaborators
+## Frequent Collaborators
 {% assign number_printed = 0 %}
 {% for member in site.data.collaborators %}
 

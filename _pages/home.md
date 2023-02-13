@@ -57,7 +57,7 @@ We are a young and dynamic research group based at the [Singapore University of 
 
 For more information and other opportunities on how to join take a look [here]({{ site.url }}{{ site.baseurl }}/team)!
 
-We are grateful for funding from National Research Foundation, Singapore and Infocomm Media Development Authority under its Future Communications Research & Development Programme, Ministry of Education (MOE) of Singapore, Temasek Labs@SUTD, SUTD-ZJU IDEA office, SUTD Kickstarter Initiative (SKI) office.
+We are grateful for generous fundings from National Research Foundation, Singapore and Infocomm Media Development Authority under its Future Communications Research & Development Programme, Ministry of Education (MOE) of Singapore, Temasek Labs@SUTD, SUTD-ZJU IDEA office, and SUTD Kickstarter Initiative (SKI) office.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/FCP.png" style="width: 110px">
