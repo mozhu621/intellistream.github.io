@@ -1,7 +1,17 @@
+- title: "Data Stream Clustering: An In-depth Empirical Study"
+  image: sesame.png
+  description: In this paper, we conduct such a study of data stream clustering algorithm on its four key design aspects. We implemented state-of-the-art variants of all of these design choices in an open-sourced platform from scratch and evaluated them using both real-world and synthetic workloads. Our analysis identifies the fundamental issues and trade-offs of each design choice in terms of both accuracy and efficiency.
+  authors: Xin Wang*, Zhengru Wang*, Zhenyu Wu#, Shuhao Zhang, Xuanhua Shi, Li Lu
+  link:
+    url: 
+    display: International Conference on Management of Data (SIGMOD) (2023)
+  highlight: 1
+  news2:
+  
 - title: "Scalable Online Interval Join on Modern Multicore Processors in OpenMLDB"
   image: 
   description: 
-  authors: Hao Zhang, Xianzhi Zeng, Shuhao Zhang, Xinyi Liu, Mian Lu, Zhao Zheng
+  authors: Hao Zhang, Xianzhi Zeng*, Shuhao Zhang, Xinyi Liu, Mian Lu, Zhao Zheng
   link:
     url: 
     display: IEEE 39rd International Conference on Data Engineering (ICDE) (2023)
@@ -11,7 +21,7 @@
 - title: "A Hardware-Conscious Stateful Stream Compression Framework for IoT Applications (Vision)"
   image:  
   description:  
-  authors: Xianzhi Zeng, Shuhao Zhang
+  authors: Xianzhi Zeng*, Shuhao Zhang
   link:
     url: 
     display: International Conference on Distributed and Event-Based Systems (DEBS 2023) 
@@ -21,7 +31,7 @@
 - title: "MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores"
   image: morphstream.png
   description: This paper introduces MorphStream -- a novel transactional stream processing engine. Compared to the state-of-the-art, MorphStream achieves up to 3.4 times higher throughput and 69.1% lower processing latency for handling real-world use cases with complex and dynamically changing workload dependencies.
-  authors: Yancan Mao, Jianjun Zhao, Shuhao Zhang, Haikun Liu, Volker Markl
+  authors: Yancan Mao#, Jianjun Zhao, Shuhao Zhang, Haikun Liu, Volker Markl
   link:
     url: https://shuhaozhangtony.github.io/assets/pdf/papers/MorphStream.pdf
     display: International Conference on Management of Data (SIGMOD) (2023)
@@ -31,7 +41,7 @@
 - title: "Parallelizing Stream Compression for IoT Applications on Asymmetric Multicores"
   image: CStream.png
   description: This paper introduces CStream, a novel framework for parallelizing stream compression on asymmetric multicores to minimize energy consumption without violating the user-specified compressing latency constraint.
-  authors: Xianzhi Zeng, Shuhao Zhang
+  authors: Xianzhi Zeng*, Shuhao Zhang
   link:
     url: https://shuhaozhangtony.github.io/assets/pdf/papers/CStream.pdf
     display: IEEE 39rd International Conference on Data Engineering (ICDE) (2023)

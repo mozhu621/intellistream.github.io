@@ -62,6 +62,7 @@ permalink: /publications/
 </ol>
 
 ## Full List
+Author notations: * denotes the author is a student advised by me. # denotes the author is a staff advised by me.
 <ol>
 {% for publi in site.data.publist %}
 

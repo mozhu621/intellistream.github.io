@@ -59,8 +59,10 @@ In general all our code can be found on [github](https://github.com/intellistrea
 <!---[]({{ site.url }}{{ site.baseurl }}/images/research/AllianceDB_Logo.bmp){: style="width: 100px; float: left; border: 10px"}-->
 
 <b>AllianceDB</b> - AllianceDB is an open-source benchmark suite for evaluating and improving stream operation algorithms on modern hardwares.
-It is also an open source tools and all code is available on [github](https://github.com/intellistream/AllianceDB). 
+It is also an open source tool and all code is available on [github](https://github.com/intellistream/AllianceDB). 
 
+<b>Sesame</b> - Sesame aims at building a scalable stream mining library on modern hardware.
+It is also an open source tool and all code is available on [github](https://github.com/intellistream/sesame). 
 
 ### Hardware
 Our team manages dozens of CPU and GPU servers. To access, you must be within the SUTD network. For details, please refer to this [google doc](https://docs.google.com/document/d/1RJfLIpZfG87YV8f3nkSh1OZ091oIQVM-/edit?usp=sharing&ouid=102789742341353270250&rtpof=true&sd=true).
