@@ -1,6 +1,6 @@
 - title: "Data Stream Clustering: An In-depth Empirical Study"
   image: sesame.png
-  description: In this paper, we conduct such a study of data stream clustering algorithm on its four key design aspects. We implemented state-of-the-art variants of all of these design choices in an open-sourced platform from scratch and evaluated them using both real-world and synthetic workloads. Our analysis identifies the fundamental issues and trade-offs of each design choice in terms of both accuracy and efficiency.
+  description: We conduct a study of data stream clustering algorithm on its four key design aspects. We implemented state-of-the-art variants of all of these design choices in an open-sourced platform from scratch and evaluated them using both real-world and synthetic workloads. Our analysis identifies the fundamental issues and trade-offs of each design choice in terms of both accuracy and efficiency.
   authors: Xin Wang*, Zhengru Wang*, Zhenyu Wu#, Shuhao Zhang, Xuanhua Shi, Li Lu
   link:
     url: 
