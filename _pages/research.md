@@ -10,7 +10,7 @@ permalink: /research/
 ***Stream Processing*** with 
 	**Database Management** • **Networking Systems** • **Machine Learning** • **Data Mining** 
 
-From a high-level point of view, our research goal is to optimize and utilize distributed and parallel stream processing technology to better support existing and emerging big data applications. This is important to improve performance and reduce resource consumption, especially for the network connected world
+We are a <b> database system </b> research group. From a high-level point of view, our research goal is to optimize and utilize distributed and parallel stream processing technology to better support existing and emerging big data applications. This is important to improve performance and reduce resource consumption, especially for the network connected world
 by 5G, IoT, etc. The group has the following current research interests:
 
 - Novel stream data management systems/frameworks ([ICDE'17](https://doi.org/10.1109/ICDE.2017.166), [ICDE'17](https://doi.org/10.1109/ICDE.2017.119), [ICDE'20](https://doi.org/10.1109/ICDE48307.2020.00136), [USENIX ATC'20](https://dl.acm.org/doi/abs/10.5555/3489146.3489189), [TPDS'21](https://doi.org/10.1109/TPDS.2021.3066407), [ICDE'23](downloads/papers/CStream.pdf), [DEBS'23](downloads/papers/Zeng-2023-CStream-DEBS.pdf), [ICDE'23](downloads/papers/CompressStreamDB.pdf), [SIGMOD'23](downloads/papers/MorphStream.pdf)) 
