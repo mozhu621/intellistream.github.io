@@ -13,14 +13,18 @@ permalink: /research/
 We are a <b> database system </b> research group. From a high-level point of view, our research goal is to optimize and utilize distributed and parallel stream processing technology to better support existing and emerging big data applications. This is important to improve performance and reduce resource consumption, especially for the network connected world
 by 5G, IoT, etc. The group has the following current research interests:
 
-- Novel stream data management systems/frameworks ([ICDE'17](https://doi.org/10.1109/ICDE.2017.166), [ICDE'17](https://doi.org/10.1109/ICDE.2017.119), [ICDE'20](https://doi.org/10.1109/ICDE48307.2020.00136), [USENIX ATC'20](https://dl.acm.org/doi/abs/10.5555/3489146.3489189), [TPDS'21](https://doi.org/10.1109/TPDS.2021.3066407), [ICDE'23](https://intellistream.github.io/downloads/papers/CStream.pdf), [DEBS'23](https://intellistream.github.io/downloads/papers/Zeng-2023-CStream-DEBS.pdf), [ICDE'23](https://intellistream.github.io/downloads/papers/CompressStreamDB.pdf), [SIGMOD'23](https://intellistream.github.io/downloads/papers/MorphStream.pdf)) 
-	- Join us if you love <i> (large-scale, 100K+ LoC) database system design </i> and are strong in Java/C++ programming 
-- Hardware-conscious stream processing algorithms ([SIGMOD'21](https://intellistream.github.io/downloads/papers/rdm044-zhangA.pdf), [ICDE'23](https://intellistream.github.io/downloads/papers/Zhang-2023-OIJ-OpenMLDB_CR.pdf)) 
-	- Join us if you love <i> design for computer-architecture-aware algorithm optimizations </i> and are strong in C/C++ programming
-- Online machine learning and data stream mining algorithms ([Arxiv](https://arxiv.org/abs/2203.12368), [BigMM'19](https://dl.acm.org/doi/abs/10.5555/3489146.3489189), [SIGMOD'23]())
-	- Join us if you love to <i> explore the intersection between data management and data science </i> and are strong in C++/Python programming
+- Hardware-conscious stream processing algorithms/systems ([ICDE'17](https://doi.org/10.1109/ICDE.2017.119), [SIGMOD'21](https://intellistream.github.io/downloads/papers/rdm044-zhangA.pdf), [USENIX ATC'20](https://dl.acm.org/doi/abs/10.5555/3489146.3489189), [TPDS'21](https://doi.org/10.1109/TPDS.2021.3066407), [ICDE'23](https://intellistream.github.io/downloads/papers/CStream.pdf), [DEBS'23](https://intellistream.github.io/downloads/papers/Zeng-2023-CStream-DEBS.pdf), [ICDE'23](https://intellistream.github.io/downloads/papers/Zhang-2023-OIJ-OpenMLDB_CR.pdf)) ([Arxiv](https://arxiv.org/abs/2208.09827))
+	- This is the place that we are <b> strong at </b>
+	- Join us in this place if you love <i> design for computer-architecture-aware algorithm optimizations </i> and are <b>very strong</b> in C/C++ programming/CUDA/OpenCL
+- Novel stream data management systems/frameworks ([ICDE'17](https://doi.org/10.1109/ICDE.2017.166), [ICDE'20](https://doi.org/10.1109/ICDE48307.2020.00136), [ICDE'23](https://intellistream.github.io/downloads/papers/CompressStreamDB.pdf), [SIGMOD'23](https://intellistream.github.io/downloads/papers/MorphStream.pdf)) 
+	- This is the place that we are <b> good at </b>
+	- Join us in this place if you love <i> (large-scale, 100K+ LoC) database system design </i> and are <b>very good</b> in Java/C++ programming 
+- Online machine learning and data stream mining algorithms/systems ([BigMM'19](https://dl.acm.org/doi/abs/10.5555/3489146.3489189), [SIGMOD'23]()) ([Arxiv](https://arxiv.org/abs/2203.12368))
+	- This is the place that we have <b> succesfully attempted in </b>
+	- Join us in this place if you love to <i> explore the intersection between data management and data science </i> and are <b>good</b> in C++/Python programming and Machine Learning/Data Mining
 - Novel streaming approaches for network function virtualization and software-defined networks (on-going)
-	- Join us if you love to explore the <i> intersection between data management and networking systems </i> and are strong in C++/Python programming 
+	- This is the place that we <b> foresee a gold mine unearthed </b>
+	- Join us in this place if you love to explore the <i> intersection between data management and networking systems </i> and are <b>good</b> in programming and <b>no fear of risk!</b>
 
 > [Our recommended reading list](https://intellistream.github.io/StreamProcessing_ReadingList/)
 
