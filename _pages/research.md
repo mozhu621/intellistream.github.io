@@ -14,7 +14,7 @@ From a high-level point of view, our research goal is to optimize and utilize di
 by 5G, IoT, etc. The group has the following current research interests:
 
 - Novel stream data management systems/frameworks ([ICDE'17](https://doi.org/10.1109/ICDE.2017.166), [ICDE'17](https://doi.org/10.1109/ICDE.2017.119), [ICDE'20](https://doi.org/10.1109/ICDE48307.2020.00136), [USENIX ATC'20](https://dl.acm.org/doi/abs/10.5555/3489146.3489189), [TPDS'21](https://doi.org/10.1109/TPDS.2021.3066407), [ICDE'23](downloads/papers/CStream.pdf), [DEBS'23](downloads/papers/Zeng-2023-CStream-DEBS.pdf), [ICDE'23](downloads/papers/CompressStreamDB.pdf), [SIGMOD'23](downloads/papers/MorphStream.pdf)) 
-- Hardware-conscious stream processing algorithms ([SIGMOD'21](downloads/papers/rdm044-zhangA.pdf), [ICDE'23](downloads/papers/Zhang-2023-OIJ-OpenMLDB_CR)) 
+- Hardware-conscious stream processing algorithms ([SIGMOD'21](downloads/papers/rdm044-zhangA.pdf), [ICDE'23](downloads/papers/Zhang-2023-OIJ-OpenMLDB_CR.pdf)) 
 - Online machine learning and data stream mining algorithms ([Arxiv](https://arxiv.org/abs/2203.12368), [BigMM'19](https://dl.acm.org/doi/abs/10.5555/3489146.3489189), [SIGMOD'23]())
 - Novel streaming approaches for network function virtualization and software-defined networks (on-going)
 
