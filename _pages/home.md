@@ -62,7 +62,7 @@ We are grateful for generous fundings from National Research Foundation, Singapo
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/FCP.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/IMDA.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NRF.jfif" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NRF.jpeg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/moe.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SUTD.png" style="width: 110px">  
 </figure>

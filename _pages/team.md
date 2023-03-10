@@ -6,6 +6,8 @@ sitemap: false
 permalink: /team/
 ---
 
+ <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/team.jpg" width="50%" style="float: center" />
+
 # Group Members
 
 ## Team Lead
