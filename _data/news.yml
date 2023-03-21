@@ -2,17 +2,16 @@
   headline: "Shuhao Zhang is nominated as an Area Leader (<b>Green Edge</b>) for 2023 NRF Foundational Research Capabilities (FRC) exercise on Green Computing."
 
 - date: 23/Feb/2023
-  headline: "The paper on 'Data Stream Clustering: An In-depth Empirical Study' has been accepted for <b>publication in SIGMOD 2023</b>. Congratulations to the visiting students/staffs of the team: Xin Wang, Zhengru Wang, and Zhenyu Wu!"
+  headline: "The <a href='https://intellistream.github.io/downloads/papers/Sesame_CR.pdf'>paper</a> on 'Data Stream Clustering: An In-depth Empirical Study' has been accepted for <b>publication in SIGMOD 2023</b>. Congratulations to the visiting students/staffs of the team: Xin Wang, Zhengru Wang, and Zhenyu Wu!"
 
 - date: 14/Feb/2023
-  headline: "The paper 'Scalable Online Interval Join on Modern Multicore Processors in OpenMLDB' has been accepted for <b>publication in ICDE 2023</b>. Congratulations to the OpenMLDB team!"
+  headline: "The <a href='https://intellistream.github.io/downloads/papers/Zhang-2023-OIJ-OpenMLDB_CR.pdf'>paper</a> on 'Scalable Online Interval Join on Modern Multicore Processors in OpenMLDB' has been accepted for <b>publication in ICDE 2023</b>. Congratulations to the OpenMLDB team!"
 
 - date: 25/Jan/2023
   headline: "Shuhao Zhang is invited to joining the program committee for <b>ICPP 2023 research track (Algorithms) </b> (https://icpp23.sci.utah.edu/), which will be held in Salt Lake City, Utah, USA August 7 - 10, 2023."
   
 - date: 12/Jan/2023
-  headline: "The vision paper 'A Hardware-Conscious Stateful Stream Compression Framework for
-  IoT Applications (Vision)' has been accepted for <b>publication in DEBS 2023</b>. Congratulations to <a href='https://tonyskyzeng.github.io/'>Xianzhi</a>!"
+  headline: "The <a href='https://intellistream.github.io/downloads/papers/Zeng-2023-CStream-DEBS_CR.pdf'>vision paper</a> 'A Hardware-Conscious Stateful Stream Compression Framework for IoT Applications (Vision)' has been accepted for <b>publication in DEBS 2023</b>. Congratulations to <a href='https://tonyskyzeng.github.io/'>Xianzhi</a>!"
 
 - date: 10/Jan/2023
   headline: "Shuhao Zhang is invited to give a talk at the DSO National Laboratories (DSO) Singapore for the recently completed seed project on <b>Massive Data Streaming Architecture for Sentiment Analysis</b>."  
