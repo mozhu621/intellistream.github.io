@@ -257,7 +257,7 @@ permalink: /team/
 
 # Joining the group
 
-We are a <b> database system </b> research group. From a high-level point of view, our research goal is to optimize and utilize distributed and parallel stream processing technology to better support existing and emerging big data applications. This is important to improve performance and reduce resource consumption, especially for the network connected world
+We are a <b> system </b> research group. From a high-level point of view, our research goal is to optimize and utilize distributed and parallel stream processing technology to better support existing and emerging big data applications. This is important to improve performance and reduce resource consumption, especially for the network connected world
 by 5G, IoT, etc. The group has the following current research interests:
 
 - Hardware-conscious stream processing algorithms/systems ([ICDE'17](https://doi.org/10.1109/ICDE.2017.119), [SIGMOD'21](https://intellistream.github.io/downloads/papers/rdm044-zhangA.pdf), [USENIX ATC'20](https://dl.acm.org/doi/abs/10.5555/3489146.3489189), [TPDS'21](https://doi.org/10.1109/TPDS.2021.3066407), [ICDE'23](https://intellistream.github.io/downloads/papers/CStream_CR.pdf), [DEBS'23](https://intellistream.github.io/downloads/papers/Zeng-2023-CStream-DEBS_CR.pdf), [ICDE'23](https://intellistream.github.io/downloads/papers/Zhang-2023-OIJ-OpenMLDB_CR.pdf)) 
