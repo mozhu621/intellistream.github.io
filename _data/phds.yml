@@ -6,6 +6,13 @@
 
 - name: Zhonghao Yang
   photo: zhonghao.jpg
-  info: PhD student, starting in Jan 2023, future communications programme funded project
+  info: PhD student, started in Jan 2023 (future communications programme funded project)
   number_educ: 1
   education1: Bachelor in Computer Science, Singapore University of Technology and Design (2022)
+
+- name: Yuhao Wu
+  photo: yuhao.jpg
+  info: Visiting Research Assistant; PhD student, starting in Sep 2023 (MOE Tier 2)
+  email:
+  number_educ: 1
+  education1: B.Sc. in Computer Science, Huazhong Agricultural University (2022)
