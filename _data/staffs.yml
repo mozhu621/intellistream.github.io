@@ -1,3 +1,19 @@
+- name: Yuhao He
+  photo: user.png
+  info: Senior Research Assistant
+  email:
+  number_educ: 2
+  education1: B.Sc. in Computer Science, Nanyang Technological University
+  education2: M.Sc. in Mathematics, National University of Singapore
+  
+- name: Tongjun Shi
+  photo: user.png
+  info: Senior Research Assistant
+  email:
+  number_educ: 2
+  education1: B.Sc. in Electrical and Computer Engineering, Shenzhen University
+  education2: M.Sc. in Electrical and Computer Engineering, National University of Singapore
+  
 - name: Haolan He
   photo: user.png
   info: Research Assistant
