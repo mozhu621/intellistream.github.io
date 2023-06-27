@@ -1,3 +1,7 @@
+
+- date: 27/June/2023
+  headline: "We build a <a href='https://github.com/intellistream/Sesame/tree/python'>Python API</a> to use our sesame project, which aims at building a scalable stream mining library on modern hardware. Currently, it contains several representative real-world stream clustering algorithms and several synthetic algorithms. We welcome your contributions, if you are interested to contribute to the project, please fork and submit a PR. If you have questions, feel free to log an issue or write an email to me: shuhao_zhang AT sutd.edu.sg."
+
 - date: 25/June/2023
   headline: "We have a new preprint out on the <a href='https://arxiv.org/abs/2306.10228'>CStream: Parallel Data Stream Compression on Multicore Edge Device</a>"
 
