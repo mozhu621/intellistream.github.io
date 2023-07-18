@@ -1,4 +1,7 @@
 
+- date: 18/July/2023
+  headline: "Our preprint on a vision for <i> ``Harnessing Scalable Transactional Stream Processing (TSP) for Managing Large Language Models (LLMs)''</i> is now available <a href='https://arxiv.org/abs/2307.08225'>online</a>. If you have questions, comments, or suggestions, feel free to write an email to me: shuhao_zhang AT sutd.edu.sg. We also welcome criticism, collaboration opprotutnities, and others."
+
 - date: 27/June/2023
   headline: "We built a <a href='https://github.com/intellistream/Sesame/tree/python'>Python API</a> of our sesame project, which aims at building a scalable stream mining library on modern hardware. Currently, it contains several representative real-world stream clustering algorithms and several synthetic algorithms. We welcome your contributions, if you are interested to contribute to the project, please fork and submit a PR. If you have questions, feel free to log an issue or write an email to shuhao_zhang AT sutd.edu.sg."
 
