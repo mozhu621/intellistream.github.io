@@ -1,12 +1,12 @@
 ---
 title: "IntelliStream Research Group - Home"
 layout: homelay
-excerpt: "IntelliStream Research Group at the Singapore University of Technology and Design"
+excerpt: "IntelliStream Research Group"
 sitemap: false
 permalink: /
 ---
 
-We are a young and dynamic research group based at the [Singapore University of Technology and Design in the Information Systems Technology and Design Pillar](https://istd.sutd.edu.sg/). From a high-level point of view, our research goal is to optimize and utilize distributed and parallel stream processing technology to better support existing and emerging big data applications. This is important to improve performance and reduce resource consumption, especially for the network connected world by 5G, IoT, etc. Our work spanning around database management, networking systems, machine learning, and data mining.
+We are a young and dynamic research group. From a high-level point of view, our research goal is to optimize and utilize distributed and parallel stream processing technology to better support existing and emerging big data applications. This is important to improve performance and reduce resource consumption, especially for the network connected world by 5G, IoT, etc. Our work spanning around database management, networking systems, machine learning, and data mining.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover" >
     <!-- Menu -->
@@ -53,7 +53,7 @@ We are a young and dynamic research group based at the [Singapore University of 
 </div>
 
 
-**We are looking for more people to join the group!**
+**Shuhao Zhang will join SCSE at NTU as an assistant professor in November 2023. We are seeking PhD students, RAs, and visiting students to collaborate on <i>Parallel and Distributed Computing</i>, <i>Database & ML systems</i>, and <i>Data-Centric Machine Learning</i>, with a key theme of "event stream processing." There are three (and potentially four or even more due to the incoming large grant awards) full PhD scholarships available. If you are interested, please email early. **
 
 For more information and other opportunities on how to join take a look [here]({{ site.url }}{{ site.baseurl }}/team)!
 
