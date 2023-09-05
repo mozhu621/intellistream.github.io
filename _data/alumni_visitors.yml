@@ -18,3 +18,24 @@
   email:
   number_educ: 1
   education1: B.Sc. in Computer Science, Peking University (2025)
+  
+- name: Ziyang Xiao
+  photo: user.png
+  info: Visiting (PhD) Student
+  email:
+  number_educ: 1
+  education1: (incoming) PhD. in Computer Science, Zhejiang University 2023 -
+  
+- name: <a href='https://www.linkedin.com/in/xin-wang-07911a222/'>Xin Wang</a>
+  photo: user.png
+  info: Visiting Student (Remote） MSc. student in Computer Science, Ohio State University 
+  email:
+  number_educ: 1
+  education1: B.Sc. in Computer Science, Sichuan University
+  
+- name: Zhengru Wang
+  photo: user.png
+  info: Visiting Student (Remote) HPC Architect at Nvidia
+  email:
+  number_educ: 1
+  education1: B.Sc. in Computer Science, Huazhong University of Science and Technology (2022)
