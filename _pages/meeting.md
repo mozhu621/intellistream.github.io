@@ -3,7 +3,7 @@ title: "IntelliStream Research Group - Meetings"
 layout: textlay
 excerpt: "IntelliStream Research Group - Meetings"
 sitemap: false
-permalink: /research/
+permalink: /meetings/
 ---
 
 # Research Group Meetings
