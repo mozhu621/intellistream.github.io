@@ -1,0 +1,10 @@
+[
+  {
+    "presenter": "Presenter's Name",
+    "paper": "Conference/Journal Paper",
+    "date": "Day, Date, Year",
+    "time": "Time (Time Zone)",
+    "facilitator": "Facilitator's Name"
+  },
+  ...
+]
