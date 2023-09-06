@@ -15,6 +15,7 @@ permalink: /meetings/
   const transactional_stream_processing_presentations = {{ site.data.transactional_stream_processing_presentations | jsonify }};
 </script>
 
+
 ## Databases
 
 <div class="presentation-section">
@@ -43,4 +44,11 @@ permalink: /meetings/
   <div id="transactional_stream_processing_past" style="display:none"></div>
   <button onclick="toggleVisibility('transactional_stream_processing_future')">📅 Show/Hide Future Presentations</button>
   <div id="transactional_stream_processing_future" style="display:none"></div>
+</div>
+
+#### Search Presentations
+
+<div class="presentation-section">
+  <input type="text" id="search-input" placeholder="Search for presentations..." oninput="searchPresentations()">
+  <div id="search-results"></div>
 </div>

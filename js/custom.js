@@ -1,8 +1,4 @@
-<script>
-  // Embed the JSON data using Liquid for all categories
-  const databases_presentations = {{ site.data.databases_presentations | jsonify }};
-  const machine_learning_presentations = {{ site.data.machine_learning_presentations | jsonify }};
-  const transactional_stream_processing_presentations = {{ site.data.transactional_stream_processing_presentations | jsonify }};
+document.addEventListener("DOMContentLoaded", function() {
 
   // Function to sort and categorize presentations
   function sortAndCategorizePresentations(presentations) {
@@ -24,21 +20,23 @@
     return { past, next, future };
   }
 
-  // Function to display presentations
-  function displayPresentations(presentations, elementId) {
-    const element = document.getElementById(elementId);
-    presentations.forEach(presentation => {
-      const presentationDiv = `
-        <div>
-          <h3>${presentation.presenter} will present a ${presentation.paper}</h3>
-          <p>Date: ${presentation.date}</p>
-          <p>Time: ${presentation.time}</p>
-          <p>Link: ${presentation.link}</p>
-        </div>
-      `;
-      element.innerHTML += presentationDiv;
-    });
-  }
+    // Function to display presentations
+    function displayPresentations(presentations, elementId) {
+      const element = document.getElementById(elementId);
+      element.innerHTML = ''; // Clear existing content    
+      presentations.forEach(presentation => {
+        const presentationDiv = `
+          <div>
+            <h3>${presentation.presenter} will present a ${presentation.paper}</h3>
+            <p>Category: ${presentation.category}</p> <!-- Added this line -->
+            <p>Date: ${presentation.date}</p>
+            <p>Time: ${presentation.time}</p>
+            <p>Link: ${presentation.link}</p>
+          </div>
+        `;
+        element.innerHTML += presentationDiv;
+      });
+    }
 
   // Function to display the immediate next presentation
   function displayNextPresentation(presentation, elementId) {
@@ -87,4 +85,28 @@
       x.style.display = "none";
     }
   }
-</script>
+    
+const all_presentations = [...databases_presentations.map(p => ({ ...p, category: 'Databases' })), ...machine_learning_presentations.map(p => ({ ...p, category: 'Machine Learning' })), ...transactional_stream_processing_presentations.map(p => ({ ...p, category: 'Transactional Stream Processing' }))];
+
+const fuse = new Fuse(all_presentations, { keys: ['presenter', 'paper', 'date', 'time', 'category'], threshold: 0.3 });
+
+
+    
+function searchPresentations(query) {
+  const allPresentations = [
+    ...databases_presentations.map(p => ({ ...p, category: 'Databases' })),
+    ...machine_learning_presentations.map(p => ({ ...p, category: 'Machine Learning' })),
+    ...transactional_stream_processing_presentations.map(p => ({ ...p, category: 'Transactional Stream Processing' }))
+  ];
+
+  const results = allPresentations.filter(presentation => {
+    return presentation.presenter.toLowerCase().includes(query.toLowerCase()) ||
+           presentation.paper.toLowerCase().includes(query.toLowerCase());
+  });
+
+  displayPresentations(results, 'search-results');
+}
+
+    
+    
+});
