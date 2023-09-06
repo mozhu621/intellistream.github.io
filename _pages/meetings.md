@@ -6,7 +6,7 @@ sitemap: false
 permalink: /meetings/
 ---
 
-# Research Group Meetings
+#Meetings and Presentations
 
 <script>
   // Embed the JSON data using Liquid for all categories
