@@ -28,10 +28,11 @@
     const presentationDiv = `
       <div>
         <h3>${presentation.presenter} will present a ${presentation.paper}</h3>
-        <p>Categories: ${presentation.categories.join(', ')}</p>
+        <p>Categories: ${presentation.categories.join(', ')}</p>        
         <p>Date: ${presentation.date}</p>
         <p>Time: ${presentation.time}</p>
         <p>Link: ${presentation.link}</p>
+        <p>Slides: <a href="${presentation.slides}" target="_blank">Download Slides</a></p>
       </div>
     `;
     element.innerHTML += presentationDiv;
@@ -42,22 +43,33 @@
   // Function to display the immediate next presentation
   function displayNextPresentation(presentation, elementId) {
     const element = document.getElementById(elementId);
-    const presentationDiv = `
-      <div>
-        <h3>${presentation.presenter} will present "${presentation.paper}"</h3>
-        <p>categories: ${presentation.categories}</p>
-        <p>Date: ${presentation.date}</p>
-        <p>Time: ${presentation.time}</p>
-        <p>Link: ${presentation.link}</p>
-      </div>
-    `;
-    element.innerHTML = presentationDiv;
+    const currentDate = new Date();
+    const nextWeekDate = new Date(currentDate);
+    nextWeekDate.setDate(currentDate.getDate() + 7); // 7 days from today
+  
+    if (presentation) {
+    const presentationDate = new Date(presentation.date);
+        if (presentationDate <= nextWeekDate) {
+          const presentationDiv = `
+            <div>
+              <h3>${presentation.presenter} will present "${presentation.paper}"</h3>
+                <p>Categories: ${presentation.categories.join(', ')}</p>        
+                <p>Date: ${presentation.date}</p>
+                <p>Time: ${presentation.time}</p>
+                <p>Link: ${presentation.link}</p>
+                <p>Slides: <a href="${presentation.slides}" target="_blank">Download Slides</a></p>
+            </div>
+          `;
+          element.innerHTML = presentationDiv;
+          return;
+        }
+    }
+    element.innerHTML = "No presentation scheduled";
   }
 
   // Sort and categorize presentations for each category
   const databases = sortAndCategorizePresentations(databases_presentations);
   const machine_learning = sortAndCategorizePresentations(machine_learning_presentations);
-  const transactional_stream_processing = sortAndCategorizePresentations(transactional_stream_processing_presentations);
 
   // Display past, next, and future presentations for each category
   displayPresentations(databases.past, 'databases_past');
@@ -72,12 +84,6 @@
   }
   displayPresentations(machine_learning.future, 'machine_learning_future');
 
-  displayPresentations(transactional_stream_processing.past, 'transactional_stream_processing_past');
-  if (transactional_stream_processing.next) {
-    displayNextPresentation(transactional_stream_processing.next, 'transactional_stream_processing_next');
-  }
-  displayPresentations(transactional_stream_processing.future, 'transactional_stream_processing_future');
-
   // Example function to toggle visibility
   function toggleVisibility(section) {
     var x = document.getElementById(section);
@@ -88,10 +94,9 @@
     }
   }
 
-    const all_presentations = [...databases_presentations.map(p => ({ ...p, category: 'Databases' })), ...machine_learning_presentations.map(p => ({ ...p, category: 'Machine Learning' })), ...transactional_stream_processing_presentations.map(p => ({ ...p, category: 'Transactional Stream Processing' }))];
+    const all_presentations = [...databases_presentations.map(p => ({ ...p, category: 'Databases' })), ...machine_learning_presentations.map(p => ({ ...p, category: 'Machine Learning' }))];
 
     const fuse = new Fuse(all_presentations, { keys: ['presenter', 'paper', 'date', 'time', 'categories'], threshold: 0.3 });
-
 
 function searchPresentations() {
   const query = document.getElementById('search-input').value;
