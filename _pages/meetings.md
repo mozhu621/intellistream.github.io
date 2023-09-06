@@ -8,98 +8,32 @@ permalink: /meetings/
 
 # Research Group Meetings
 
-<script>
-  function toggleVisibility(section) {
-    var x = document.getElementById(section);
-    if (x.style.display === "none") {
-      x.style.display = "block";
-    } else {
-      x.style.display = "none";
-    }
-  }
-</script>
-
 ## Databases
 
-{% assign sorted_presentations = site.data.databases_presentations | sort: 'date' %}
-{% if sorted_presentations.size == 0 %}
-### No upcoming presentations scheduled.
-{% else %}
-  {% for presentation in sorted_presentations %}
-    {% if forloop.first %}
-    ### Next Presentation
-    ### {{ presentation.presenter }} will present a {{ presentation.paper }}
-    - **Date**: {{ presentation.date }}
-    - **Time**: {{ presentation.time }}
-    - **Link**: {{ presentation.link }}
-    {% endif %}
-  {% endfor %}
-{% endif %}
-
-<button onclick="toggleVisibility('databases_past')">Show/Hide Past Presentations</button>
-<div id="databases_past" style="display:none">
-  <!-- Past presentations will go here -->
-</div>
-
-<button onclick="toggleVisibility('databases_future')">Show/Hide Future Presentations</button>
-<div id="databases_future" style="display:none">
-  <!-- Future presentations will go here -->
+<div class="presentation-section">
+  <div id="databases_next" class="next-presentation"></div>
+  <button onclick="toggleVisibility('databases_past')">📅 Show/Hide Past Presentations</button>
+  <div id="databases_past" style="display:none"></div>
+  <button onclick="toggleVisibility('databases_future')">📅 Show/Hide Future Presentations</button>
+  <div id="databases_future" style="display:none"></div>
 </div>
 
 ## Machine Learning
 
-{% assign sorted_presentations = site.data.machine_learning_presentations | sort: 'date' %}
-{% if sorted_presentations.size == 0 %}
-### No upcoming presentations scheduled.
-{% else %}
-  {% for presentation in sorted_presentations %}
-    {% if forloop.first %}
-    ### Next Presentation
-    ### {{ presentation.presenter }} will present a {{ presentation.paper }}
-    - **Date**: {{ presentation.date }}
-    - **Time**: {{ presentation.time }}
-    - **Link**: {{ presentation.link }}
-    {% endif %}
-  {% endfor %}
-{% endif %}
-
-<button onclick="toggleVisibility('databases_past')">Show/Hide Past Presentations</button>
-<div id="databases_past" style="display:none">
-  <!-- Past presentations will go here -->
-</div>
-
-<button onclick="toggleVisibility('databases_future')">Show/Hide Future Presentations</button>
-<div id="databases_future" style="display:none">
-  <!-- Future presentations will go here -->
+<div class="presentation-section">
+  <div id="machine_learning_next" class="next-presentation"></div>
+  <button onclick="toggleVisibility('machine_learning_past')">📅 Show/Hide Past Presentations</button>
+  <div id="machine_learning_past" style="display:none"></div>
+  <button onclick="toggleVisibility('machine_learning_future')">📅 Show/Hide Future Presentations</button>
+  <div id="machine_learning_future" style="display:none"></div>
 </div>
 
 ## Transactional Stream Processing
 
-{% assign sorted_presentations = site.data.transactional_stream_processing_presentations | sort: 'date' %}
-{% if sorted_presentations.size == 0 %}
-### No upcoming presentations scheduled.
-{% else %}
-  {% for presentation in sorted_presentations %}
-    {% if forloop.first %}
-    ### Next Presentation
-    ### {{ presentation.presenter }} will present a {{ presentation.paper }}
-    - **Date**: {{ presentation.date }}
-    - **Time**: {{ presentation.time }}
-    - **Link**: {{ presentation.link }}
-    {% endif %}
-  {% endfor %}
-{% endif %}
-
-<button onclick="toggleVisibility('databases_past')">Show/Hide Past Presentations</button>
-<div id="databases_past" style="display:none">
-  <!-- Past presentations will go here -->
+<div class="presentation-section">
+  <div id="transactional_stream_processing_next" class="next-presentation"></div>
+  <button onclick="toggleVisibility('transactional_stream_processing_past')">📅 Show/Hide Past Presentations</button>
+  <div id="transactional_stream_processing_past" style="display:none"></div>
+  <button onclick="toggleVisibility('transactional_stream_processing_future')">📅 Show/Hide Future Presentations</button>
+  <div id="transactional_stream_processing_future" style="display:none"></div>
 </div>
-
-<button onclick="toggleVisibility('databases_future')">Show/Hide Future Presentations</button>
-<div id="databases_future" style="display:none">
-  <!-- Future presentations will go here -->
-</div>
-
-
-
-
