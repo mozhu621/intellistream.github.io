@@ -1,6 +1,3 @@
-- date: 2/Sep/2023
-  headline: "Our <a href='https://intellistream.github.io/downloads/papers/VLDBJ_TSP_survey.pdf'>preprint</a> about a survey of transactional stream processing is accepted to VLDB Journal! TL;DR: Transactional stream processing (TSP) strives to create a cohesive model that merges the advantages of both transactional and stream-oriented guarantees. This survey intends to introduce TSP and present our perspective on its future progression. Our primary goals are twofold: to provide insights into the diverse TSP requirements and methodologies, and to inspire the design and development of groundbreaking TSP systems."
-
 - date: 15/Aug/2023
   headline: "Shuhao Zhang will join School of Computer Science and Engineering (SCSE) at Nanyang Technological University (NTU) as an assistant professor in November 2023."
 

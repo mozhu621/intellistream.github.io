@@ -1,27 +1,27 @@
 - name: <a href='https://tonyskyzeng.github.io/'>Xianzhi Zeng</a>
   photo: xianzhi.jpg
-  info: Data Stream Management - Edge-Centric; Since started Sep 2022 (2021-2022 as visiting student) - Published 2x ICDE, 1x DEBS; Submitted 1x TKDE, 1x SIGMOD, 1x SIGMOD Rec.
+  info: (Data Stream Management - Edge-Centric) PhD student, started Sep 2022
   email: xianzhi_xianzhi@mymail.sutd.edu.sg
   number_educ: 1
-  education1: B.Sc. in Computer Science, University of Electronic Science and Technology of China (2021)
+  education1: Bachelor in Computer Science, University of Electronic Science and Technology of China (2021)
 
 - name: Zhonghao Yang
   photo: zhonghao.jpg
-  info: Transactional Stream Processing - NetSystem-Centric (Co-Sup with Prof.Binbin Chen); Since started in Jan 2023 - Submitted 1x HotNets, 1x SIGMOD Rec.
+  info: (Transactional Stream Processing - NetSystem-Centric) PhD student, started in Jan 2023 (future communications programme funded project)
   email: zhonghao_yang@mymail.sutd.edu.sg
   number_educ: 1
-  education1: B.Sc. in Computer Science, Singapore University of Technology and Design (2022)
+  education1: Bachelor in Computer Science, Singapore University of Technology and Design (2022)
 
 - name: Yuhao Wu
   photo: yuhao.jpg
-  info: Data-Centric Machine Learning - NLP-Centric; Since started in Sep 2023 (2022-2023 as visiting student) - Submitted 1x EMNLP, 1x SIGMOD Rec.
+  info: (Data-Centric Machine Learning - NLP-Centric) Visiting Research Assistant; PhD student, starting in Sep 2023 (MOE Tier 2)
   email: yuhao_wu@sutd.edu.sg
   number_educ: 1
   education1: B.Sc. in Computer Science, Huazhong Agricultural University (2022)
 
 - name: Pengcheng Wei
   photo: pengcheng.JPG
-  info: Data Stream Management - Graph-Centric; Since started in Sep 2023 - .
-  email: pengcheng_wei@mymail.sutd.edu.sg
+  info: (Data Stream Management - Graph-Centric) PhD student, starting in Sep 2023 (MOE Tier 2)
+  email:
   number_educ: 1
   education1: M.Sc. in Computer Science, Hunan University (2022)
