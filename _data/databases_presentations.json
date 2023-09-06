@@ -5,6 +5,7 @@
     "date": "2023-09-08",
     "day": "Friday",
     "time": "4PM (Singapore Time)",
-    "link": ""
-  },  
+    "link": "",
+    "categories": ["Databases", "Machine Learning"]
+  }
 ]
