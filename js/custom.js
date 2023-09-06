@@ -44,7 +44,8 @@
     const element = document.getElementById(elementId);
     const presentationDiv = `
       <div>
-        <h3>${presentation.presenter} will present ${presentation.paper}</h3>
+        <h3>${presentation.presenter} will present "${presentation.paper}"</h3>
+        <p>categories: ${presentation.categories}</p>
         <p>Date: ${presentation.date}</p>
         <p>Time: ${presentation.time}</p>
         <p>Link: ${presentation.link}</p>

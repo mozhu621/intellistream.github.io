@@ -36,16 +36,6 @@ permalink: /meetings/
   <div id="machine_learning_future" style="display:none"></div>
 </div>
 
-## Transactional Stream Processing
-
-<div class="presentation-section">
-  <div id="transactional_stream_processing_next" class="next-presentation"></div>
-  <button onclick="toggleVisibility('transactional_stream_processing_past')">📅 Show/Hide Past Presentations</button>
-  <div id="transactional_stream_processing_past" style="display:none"></div>
-  <button onclick="toggleVisibility('transactional_stream_processing_future')">📅 Show/Hide Future Presentations</button>
-  <div id="transactional_stream_processing_future" style="display:none"></div>
-</div>
-
 
 #### Search Presentations
 
