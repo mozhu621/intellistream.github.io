@@ -1,3 +1,6 @@
+- date: 2/Sep/2023
+  headline: "Our <a href='https://intellistream.github.io/downloads/papers/VLDBJ_TSP_survey.pdf'>preprint</a> about a survey of transactional stream processing is accepted to VLDB Journal! TL;DR: Transactional stream processing (TSP) strives to create a cohesive model that merges the advantages of both transactional and stream-oriented guarantees. This survey intends to introduce TSP and present our perspective on its future progression. Our primary goals are twofold: to provide insights into the diverse TSP requirements and methodologies, and to inspire the design and development of groundbreaking TSP systems."
+
 - date: 15/Aug/2023
   headline: "Shuhao Zhang will join School of Computer Science and Engineering (SCSE) at Nanyang Technological University (NTU) as an assistant professor in November 2023."
 
@@ -6,6 +9,7 @@
 
 - date: 27/June/2023
   headline: "We built a <a href='https://github.com/intellistream/Sesame/tree/python'>Python API</a> of our sesame project, which aims at building a scalable stream mining library on modern hardware. Currently, it contains several representative real-world stream clustering algorithms and several synthetic algorithms. We welcome your contributions, if you are interested to contribute to the project, please fork and submit a PR. If you have questions, feel free to log an issue or write an email to shuhao_zhang AT sutd.edu.sg."
+  
 - date: 25/June/2023
   headline: "We have a new preprint out on the <a href='https://arxiv.org/abs/2306.10228'>CStream: Parallel Data Stream Compression on Multicore Edge Device</a>"
 
