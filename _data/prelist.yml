@@ -1,9 +1,39 @@
-- title: "A Survey on Transactional Stream Processing"
+- title: "TransNFV: Integrating Transactional Semantics for Efficient State Management in Virtual Network Functions"
   image: xx.png
   description: 
-  authors: Shuhao Zhang, Juan Soto, Volker Markl
+  authors: Zhonghao Yang, Shuhao Zhang, Binbin Chen
   link:
-    url: https://arxiv.org/abs/2208.09827
+    url: https://arxiv.org/pdf/2307.10732.pdf
+    display: arxiv
+  highlight: 0
+  news2: 
+  
+- title: "Harnessing Scalable Transactional Stream Processing for Managing Large Language Models"
+  image: xx.png
+  description: 
+  authors: Shuhao Zhang, Xianzhi Zeng, Yuhao Wu, Zhonghao Yang
+  link:
+    url: https://arxiv.org/pdf/2307.08225.pdf
+    display: arxiv
+  highlight: 0
+  news2: 
+  
+- title: "CStream: Parallel Data Stream Compression on Multicore Edge Devices"
+  image: xx.png
+  description: 
+  authors: Xianzhi Zeng and Zhang, Shuhao
+  link:
+    url: https://arxiv.org/pdf/2306.10228.pdf
+    display: arxiv
+  highlight: 0
+  news2: 
+  
+- title: "MorphStream: Scalable Processing of Transactions over Streams on Multicores"
+  image: xx.png
+  description: 
+  authors: Yancan Mao, Jianjun Zhao, Haikun Liu, Shuhao Zhang, Volker Markl
+  link:
+    url: https://arxiv.org/pdf/2307.12749.pdf
     display: arxiv
   highlight: 0
   news2: 

@@ -1,3 +1,13 @@
+- title: "A Survey on Transactional Stream Processing"
+  image: xx.png
+  description: 
+  authors: Shuhao Zhang, Juan Soto, Volker Markl
+  link:
+    url: https://arxiv.org/abs/2208.09827
+    display: The International Journal on Very Large Data Bases Journal (VLDBJ)
+  highlight: 0
+  news2: 
+  
 - title: "Data Stream Clustering: An In-depth Empirical Study"
   image: sesame.png
   description: We conduct a study of data stream clustering algorithm on its four key design aspects. We implemented state-of-the-art variants of all of these design choices in an open-sourced platform from scratch and evaluated them using both real-world and synthetic workloads. Our analysis identifies the fundamental issues and trade-offs of each design choice in terms of both accuracy and efficiency.
