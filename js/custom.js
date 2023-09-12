@@ -80,15 +80,15 @@
 
 
   // Sort and categorize presentations for each category
-  const databases = sortAndCategorizePresentations(databases_presentations);
+  const system = sortAndCategorizePresentations(system_presentations);
   const machine_learning = sortAndCategorizePresentations(machine_learning_presentations);
 
   // Display past, next, and future presentations for each category
-  displayPresentations(databases.past, 'databases_past');
-  if (databases.next) {
-    displayNextPresentation(databases.next, 'databases_next');
+  displayPresentations(system.past, 'system_past');
+  if (system.next) {
+    displayNextPresentation(system.next, 'system_next');
   }
-  displayPresentations(databases.future, 'databases_future');
+  displayPresentations(system.future, 'system_future');
 
   displayPresentations(machine_learning.past, 'machine_learning_past');
   if (machine_learning.next) {
@@ -106,7 +106,7 @@
     }
   }
 
-    const all_presentations = [...databases_presentations.map(p => ({ ...p, category: 'Databases' })), ...machine_learning_presentations.map(p => ({ ...p, category: 'Machine Learning' }))];
+    const all_presentations = [...system_presentations.map(p => ({ ...p, category: 'System' })), ...machine_learning_presentations.map(p => ({ ...p, category: 'Machine Learning' }))];
 
     const fuse = new Fuse(all_presentations, { keys: ['presenter', 'paper', 'date', 'time', 'categories'], threshold: 0.3 });
 

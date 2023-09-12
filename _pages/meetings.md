@@ -10,23 +10,22 @@ permalink: /meetings/
 
 <script>
   // Embed the JSON data using Liquid for all categories
-  const databases_presentations = {{ site.data.databases_presentations | jsonify }};
+  const system_presentations = {{ site.data.system_presentations | jsonify }};
   const machine_learning_presentations = {{ site.data.machine_learning_presentations | jsonify }};
-  const transactional_stream_processing_presentations = {{ site.data.transactional_stream_processing_presentations | jsonify }};
 </script>
 
 
-## Databases
+## Systems (DB/OS/Net/Arch/Mobi)
 
 <div class="presentation-section">
-  <div id="databases_next" class="next-presentation"></div>
-  <button onclick="toggleVisibility('databases_past')">📅 Show/Hide Past Presentations</button>
-  <div id="databases_past" style="display:none"></div>
+  <div id="system_next" class="next-presentation"></div>
+  <button onclick="toggleVisibility('system_past')">📅 Show/Hide Past Presentations</button>
+  <div id="system_past" style="display:none"></div>
   <button onclick="toggleVisibility('databases_future')">📅 Show/Hide Future Presentations</button>
-  <div id="databases_future" style="display:none"></div>
+  <div id="system_future" style="display:none"></div>
 </div>
 
-## Machine Learning
+## Machine Learning (ML/DL/CV/NLP/Algo/Theory)
 
 <div class="presentation-section">
   <div id="machine_learning_next" class="next-presentation"></div>

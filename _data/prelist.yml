@@ -1,3 +1,13 @@
+- title: "A Modular and Self-Optimizing Algorithm for Data Stream Clustering"
+  image: xx.png
+  description: 
+  authors: Zhengru Wang, Xin Wang, Shuhao Zhang
+  link:
+    url: http://arxiv.org/abs/2309.04799
+    display: arxiv
+  highlight: 0
+  news2: 
+  
 - title: "TransNFV: Integrating Transactional Semantics for Efficient State Management in Virtual Network Functions"
   image: xx.png
   description: 

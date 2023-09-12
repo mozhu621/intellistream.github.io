@@ -1,3 +1,6 @@
+- date: 12/Sep/2023
+  headline: "We have a new preprint out, <a href='http://arxiv.org/abs/2309.04799'>Benne: A Modular and Self-Optimizing Algorithm for Data Stream Clustering</a>"
+
 - date: 2/Sep/2023
   headline: "Our <a href='https://intellistream.github.io/downloads/papers/VLDBJ_TSP_survey.pdf'>preprint</a> about a survey of transactional stream processing is accepted to VLDB Journal! TL;DR: Transactional stream processing (TSP) strives to create a cohesive model that merges the advantages of both transactional and stream-oriented guarantees. This survey intends to introduce TSP and present our perspective on its future progression. Our primary goals are twofold: to provide insights into the diverse TSP requirements and methodologies, and to inspire the design and development of groundbreaking TSP systems."
 

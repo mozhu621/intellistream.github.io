@@ -51,16 +51,6 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-## Preprints
-<ol>
-{% for publi in site.data.prelist %}
-
-  <li>{{ publi.title }}</li>
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
-</ol>
-
 ## Full List
 Author notations: * denotes the author is a student advised by Dr.Shuhao Zhang. # denotes the author is a staff advised by Dr.Shuhao Zhang.
 <ol>
@@ -72,3 +62,12 @@ Author notations: * denotes the author is a student advised by Dr.Shuhao Zhang. 
 {% endfor %}
 </ol>
 
+## Preprints
+<ol>
+{% for publi in site.data.prelist %}
+
+  <li>{{ publi.title }}</li>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+</ol>
