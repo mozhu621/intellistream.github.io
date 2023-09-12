@@ -8,13 +8,7 @@ permalink: /meetings/
 
 # Meetings and Presentations
 
-We are pleased to announce the formation of Special Interest Groups (SIGs) within our Research Group. These SIGs aim to foster specialized knowledge sharing and to improve our capabilities in English presentations. We decided to make it openly accessible, so that everyone interested can participate.
-
-- `sig-sys` for **Systems Research**: This group is tailored for individuals whose research or scholarly interests predominantly align with fields such as Database Systems, Operating Systems, Networking, Computer Architecture, Mobile Computing, High-Performance Computing, or Human-Computer Interaction.
-
-- `sig-ml` for **Machine Learning and Related Fields**: This group is intended for members with a focus on Machine Learning, Data Mining, Deep Learning, Computer Vision, Natural Language Processing, Algorithms, or Theoretical Computer Science.
-
-**Objective**: Each SIG is committed to presenting at least one paper per week, leading to a minimum of two paper presentations within the group as a whole each week.
+Each SIG is committed to presenting at least one paper per week, leading to a minimum of two paper presentations within the group as a whole each week.
 
 For active participation, please join the corresponding [Slack channels](https://join.slack.com/t/intellistream/shared_invite/zt-2339uj090-8ci_aqHKva5jFInd2MpZsQ).
 
@@ -28,6 +22,7 @@ For active participation, please join the corresponding [Slack channels](https:/
 
 
 ## Systems (DB/OS/Net/Arch/Mobi/HPC/HCI)
+- `sig-sys` for **Systems Research**: This group is tailored for individuals whose research or scholarly interests predominantly align with fields such as Database Systems, Operating Systems, Networking, Computer Architecture, Mobile Computing, High-Performance Computing, or Human-Computer Interaction.
 
 <div class="presentation-section">
   <div id="system_next" class="next-presentation"></div>
@@ -38,6 +33,7 @@ For active participation, please join the corresponding [Slack channels](https:/
 </div>
 
 ## Machine Learning (ML/DM/DL/CV/NLP/Algo/Theory)
+- `sig-ml` for **Machine Learning and Related Fields**: This group is intended for members with a focus on Machine Learning, Data Mining, Deep Learning, Computer Vision, Natural Language Processing, Algorithms, or Theoretical Computer Science.
 
 <div class="presentation-section">
   <div id="machine_learning_next" class="next-presentation"></div>

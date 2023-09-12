@@ -52,11 +52,16 @@ We are a young and dynamic research group. From a high-level point of view, our 
   </a>
 </div>
 
-
-**Shuhao Zhang will join SCSE at NTU as an assistant professor in November 2023. We are seeking PhD students, RAs, and visiting students to collaborate on <i>Parallel and Distributed Computing</i>, <i>Database & ML systems</i>, and <i>Data-Centric Machine Learning</i>, with a key theme of "event stream processing." There are three (and potentially four or even more due to the incoming large grant awards) full PhD scholarships available. If you are interested, please email early. **
-
 For more information and other opportunities on how to join take a look [here]({{ site.url }}{{ site.baseurl }}/team)!
 
+--
+We are pleased to announce the formation of Special Interest Groups (SIGs) of presentations within our Research Group. These SIGs aim to foster specialized knowledge sharing and to improve our capabilities in English presentations. We decided to make it openly accessible, so that everyone interested can participate. 
+
+**Upcoming Schedule**: Presentation schedules will be updated periodically and can be accessed at [Intellistream Meetings](https://intellistream.github.io/meetings/).
+
+For active participation, please join the corresponding [Slack channels](https://join.slack.com/t/intellistream/shared_invite/zt-2339uj090-8ci_aqHKva5jFInd2MpZsQ).
+
+--
 We are grateful for generous fundings from National Research Foundation, Singapore and Infocomm Media Development Authority under its Future Communications Research & Development Programme, Ministry of Education (MOE) of Singapore, Temasek Labs@SUTD, SUTD-ZJU IDEA office, and SUTD Kickstarter Initiative (SKI) office.
 
 <figure class="fourth">
