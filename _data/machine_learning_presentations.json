@@ -1,2 +1,12 @@
 [
+  {
+    "presenter": "Yuhao Wu",
+    "paper": "Does Continual Learning Equally Forget All Parameters? (ICML'23)",
+    "date": "2023-09-15",
+    "day": "Friday",
+    "time": "4-5PM (Singapore Time)",
+    "slides": "/downloads/talks/Paper/xxx.pdf",
+    "link": "https://us06web.zoom.us/j/89308337072?pwd=Q3N4bDd2RU9DMi9lcmZNSUhvU3ZRQT09 Meeting ID: 893 0833 7072 Passcode: 965173",
+    "categories": ["System", "Machine Learning"]
+  }
 ]

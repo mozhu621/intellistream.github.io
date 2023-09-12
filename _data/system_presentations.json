@@ -1,12 +1,12 @@
 [
   {
     "presenter": "Xianzhi Zeng",
-    "paper": "Milvus: A Purpose-Built Vector Data Management System",
-    "date": "2023-09-08",
+    "paper": "Milvus: A Purpose-Built Vector Data Management System (SIGMOD'21)",
+    "date": "2023-09-15",
     "day": "Friday",
-    "time": "4PM (Singapore Time)",
+    "time": "3-4PM (Singapore Time)",
     "slides": "/downloads/talks/Paper/xxx.pdf",
-    "link": "",
+    "link": "https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09 Meeting ID: 846 0526 0433 Passcode: 657703",
     "categories": ["System", "Machine Learning"]
   }
 ]
