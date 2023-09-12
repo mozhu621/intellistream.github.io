@@ -276,27 +276,6 @@ by 5G, IoT, etc. The group has the following current research interests:
 	- This is the place that we <b> foresee a gold mine unearthed </b>
 	- Join us in this place if you love to explore the <i> intersection between data management and networking systems </i> and are <b>good</b> in programming and <b>no fear of risk!</b>
 
-### Open Positions
-
-**Expression of interest:** Please send an email to [Shuhao Zhang](mailto:shuhao_zhang@sutd.edu.sg). 
-
-### Applications for PhD and Postdoc positions
-Are you interested in working on exiting challenges in real-time data stream processing topics? We have many million-dollars-granted projects spaning from database, network, machine learning, and data mining domains.
-
-Please get in touch by [email](mailto:shuhao_zhang@sutd.edu.sg) to discuss different opportunities to join the group, or take a look at some of these PhD and Postdoc funding opportunities: 
-
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:shuhao_zhang@sutd.edu.sg). 
-If there is no specific opening advertise take a look at some of the following opportunities for PhD students:   
-* [SUTD PhD Scholarship](https://sutd.edu.sg/Admissions/Graduate/Scholarships)   
-* [SINGAPORE INTERNATIONAL GRADUATE AWARD (SINGA)](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa)    
-* [A*STAR COMPUTING AND INFORMATION SCIENCE (ACIS) SCHOLARSHIP](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/a-star-cis-scholarship)       
-* [FCP Master Student Scholarships](https://fcp.sutd.edu.sg/scholarships/)     
-* [AISG PhD Scholarship](https://aisingapore.org/research/phd-fellowship-programme/)
-
-And for Postdocs:   
-* [A*STAR INTERNATIONAL FELLOWSHIP](https://www.a-star.edu.sg/Scholarships/for-post-doctoral-studies)   
-* [SUTD Presidential Postdoctoral Fellowship (SUTD-PPF)](https://sutd.edu.sg/About/Overview/Careers-with-SUTD/SUTD-START-Programme/SUTD-Presidential-Postdoctoral-Fellowship)   
-
 ### Undergraduate student projects
 The group is happy to accommodate talented undergraduate students. Due to the nature of our computer system research, ideally suited candidates shall be very strong in programming in C/C++/Java, provided you have keen interest in exploring the interplay between parallel programming, database management, and machine learning.  
 

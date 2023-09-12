@@ -15,7 +15,7 @@ permalink: /meetings/
 </script>
 
 
-## Systems (DB/OS/Net/Arch/Mobi)
+## Systems (DB/OS/Net/Arch/Mobi/HPC/HCI)
 
 <div class="presentation-section">
   <div id="system_next" class="next-presentation"></div>
@@ -25,7 +25,7 @@ permalink: /meetings/
   <div id="system_future" style="display:none"></div>
 </div>
 
-## Machine Learning (ML/DL/CV/NLP/Algo/Theory)
+## Machine Learning (ML/DM/DL/CV/NLP/Algo/Theory)
 
 <div class="presentation-section">
   <div id="machine_learning_next" class="next-presentation"></div>
