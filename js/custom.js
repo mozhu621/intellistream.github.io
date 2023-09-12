@@ -29,11 +29,11 @@
     presentations.forEach(presentation => {
     const presentationDiv = `
           <div>
-            <h3>${presentation.presenter} will present a ${presentation.paper}</h3>
+            <h3>${presentation.presenter} will present paper titled: ${presentation.paper}</h3>
             <p>Categories: ${presentation.categories.join(', ')}</p>        
             <p>Date: ${presentation.date}</p>
             <p>Time: ${presentation.time}</p>
-            <p>Link: ${presentation.link}</p>
+            <p>Link: <a href="${presentation.link}" target="_blank">Join Zoom Meeting</a></p>
             <p>Slides: <a href="${presentation.slides}" target="_blank">Download Slides</a></p>
           </div>
         `;
