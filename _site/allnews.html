@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>News</title>
-  <meta name="description" content="IntelliStream Research Group at the Singapore University of Technology and Design">
+  <meta name="description" content="IntelliStream Research Group">
   <link rel="stylesheet" href="http://localhost:4000/css/main.css">
   <link rel="canonical" href="http://localhost:4000/allnews.html">
   <link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4000/images/team.ico">
@@ -21,25 +21,63 @@
 
     <div class="navbar navbar-default navbar-fixed-top" role="navigation">
   <div class="container-fluid">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="http://localhost:4000/">IntelliStream Research Group</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="http://localhost:4000/">Home</a></li>
-		<li><a href="http://localhost:4000/team">Team</a></li>
-		<li><a href="http://localhost:4000/publications">Publications</a></li>
-		<li><a href="http://localhost:4000/research">Research</a></li>
-        <li><a href="http://localhost:4000/meetings">Meetings</a></li>
-	  </ul>
-	</div>
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    
+      <a class="navbar-brand" href="http://localhost:4000/">IntelliStream Research Group</a>
+    </div>
+    <div class="collapse navbar-collapse" id="navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="http://localhost:4000/">Home</a></li>
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+            <li><a href="http://localhost:4000/publications/">Publications</a></li>
+          
+        
+          
+            <li><a href="http://localhost:4000/research/">Research</a></li>
+          
+        
+          
+            <li><a href="http://localhost:4000/team/">Team</a></li>
+          
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+            <li><a href="http://localhost:4000/presentations/">Presentations</a></li>
+          
+        
+          
+        
+          
+        
+          
+                  
+      </ul>
+    </div>
   </div>
 </div>
 
@@ -49,164 +87,486 @@
         <div id="textid" class="col-sm-12">
   <h1 id="news">News</h1>
 
-<p>12/Sep/2023 <br />
-<em>We have a new preprint out, <a href="http://arxiv.org/abs/2309.04799">Benne: A Modular and Self-Optimizing Algorithm for Data Stream Clustering</a></em></p>
+<style>
+  .clickable-headline {
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  .clickable-headline:hover {
+    color: blue;
+  }
+</style>
 
-<p>2/Sep/2023 <br />
-<em>Our <a href="https://intellistream.github.io/downloads/papers/VLDBJ_TSP_survey.pdf">preprint</a> about a survey of transactional stream processing is accepted to VLDB Journal! TL;DR: Transactional stream processing (TSP) strives to create a cohesive model that merges the advantages of both transactional and stream-oriented guarantees. This survey intends to introduce TSP and present our perspective on its future progression. Our primary goals are twofold: to provide insights into the diverse TSP requirements and methodologies, and to inspire the design and development of groundbreaking TSP systems.</em></p>
+<script>
+  function toggleVisibility(id) {
+    var x = document.getElementById(id);
+    if (x.style.display === "none") {
+      x.style.display = "block";
+    } else {
+      x.style.display = "none";
+    }
+  }
+</script>
 
-<p>15/Aug/2023 <br />
-<em>Shuhao Zhang will join School of Computer Science and Engineering (SCSE) at Nanyang Technological University (NTU) as an assistant professor in November 2023.</em></p>
+<p>
+    13/Sep/2023 <br />
+    <em class="clickable-headline" onclick="toggleVisibility('update-on-phd-applications-for-september-2024-intake')">
+      Update on PhD Applications for September 2024 Intake
+    </em>
+  <br />
+      <span id="update-on-phd-applications-for-september-2024-intake" style="display:none;">
+        <br />We are pleased to announce that we have identified a sufficient number of qualified candidates for our PhD program, commencing in September 2024. These selected applicants have been invited to participate in a visiting student program at our Lab this coming November. Upon successful completion of this program, they are expected to formally join our Lab as PhD students. We would like to express our gratitude to all who have shown interest in our program. Please be advised that we have ceased accepting new PhD applications for this intake cycle, except in the event that any of the already-identified candidates decline our offer. However, we continue to offer opportunities for Research Assistant and visiting student positions, for which the interview process is ongoing. Interested individuals are encouraged to reach out to us via email for additional information.
+      </span>
+  <br />
+  </p>
 
-<p>18/July/2023 <br />
-<em>Our preprint on a vision for <i> ``Harnessing Scalable Transactional Stream Processing (TSP) for Managing Large Language Models (LLMs)’’</i> is now available <a href="https://arxiv.org/abs/2307.08225">online</a>. If you have questions, comments, or suggestions, feel free to write an email to me: shuhao_zhang AT sutd.edu.sg. We also welcome criticism, collaboration opprotutnities, and others.</em></p>
+<p>
+    12/Sep/2023 <br />
+    <em class="clickable-headline" onclick="toggleVisibility('we-are-pleased-to-announce-the-formation-of-special-interest-groups-sigs-of-presentations-within-our-research-group')">
+      We are pleased to announce the formation of Special Interest Groups (SIGs) of presentations within our Research Group.
+    </em>
+  <br />
+      <span id="we-are-pleased-to-announce-the-formation-of-special-interest-groups-sigs-of-presentations-within-our-research-group" style="display:none;">
+        <br />Presentation schedules will be updated periodically and can be accessed at <a href="https://intellistream.github.io/meetings/">Intellistream Meetings</a>.
+      </span>
+  <br />
+  </p>
 
-<p>27/June/2023 <br />
-<em>We built a <a href="https://github.com/intellistream/Sesame/tree/python">Python API</a> of our sesame project, which aims at building a scalable stream mining library on modern hardware. Currently, it contains several representative real-world stream clustering algorithms and several synthetic algorithms. We welcome your contributions, if you are interested to contribute to the project, please fork and submit a PR. If you have questions, feel free to log an issue or write an email to shuhao_zhang AT sutd.edu.sg.</em></p>
+<p>
+    12/Sep/2023 <br />
+    <em>
+      <a href="http://arxiv.org/abs/2309.04799">[Preprint]</a> We have a new preprint out, Benne: A Modular and Self-Optimizing Algorithm for Data Stream Clustering.
+    </em>
+  <br />
+  </p>
 
-<p>25/June/2023 <br />
-<em>We have a new preprint out on the <a href="https://arxiv.org/abs/2306.10228">CStream: Parallel Data Stream Compression on Multicore Edge Device</a></em></p>
+<p>
+    2/Sep/2023 <br />
+    <em class="clickable-headline" onclick="toggleVisibility('our-survey-of-transactional-stream-processing-is-accepted-to-vldb-journal')">
+      Our survey of transactional stream processing is accepted to VLDB Journal!
+    </em>
+  <br />
+      <span id="our-survey-of-transactional-stream-processing-is-accepted-to-vldb-journal" style="display:none;">
+        <br /><a href="https://intellistream.github.io/downloads/papers/VLDBJ_TSP_survey.pdf">[Preprint]</a> TL;DR: Transactional stream processing (TSP) strives to create a cohesive model that merges the advantages of both transactional and stream-oriented guarantees. This survey intends to introduce TSP and present our perspective on its future progression. Our primary goals are twofold: to provide insights into the diverse TSP requirements and methodologies, and to inspire the design and development of groundbreaking TSP systems.
+      </span>
+  <br />
+  </p>
 
-<p>30/May/2023 <br />
-<em>Shuhao Zhang has been invited to serve as the TKDE Poster Chair at the International Conference on Data Engineering (ICDE) 2024 in Utrecht, Netherlands. Looking forward to contributing to this prestigious event and engaging with brilliant minds in the field.</em></p>
+<p>
+    15/Aug/2023 <br />
+    <em>
+      Shuhao Zhang will join School of Computer Science and Engineering (SCSE) at Nanyang Technological University (NTU) as an assistant professor in November 2023.
+    </em>
+  <br />
+  </p>
 
-<p>18/Apr/2023 <br />
-<em>Congratulations to Mr.Yuhao Wu for receiving a PhD fellowship from SUTD! He will join as a PhD student in the team since Sep/2023. He works in a joint area of stream processing and machine learning (particuarly, large language models).</em></p>
+<p>
+    18/July/2023 <br />
+    <em class="clickable-headline" onclick="toggleVisibility('our-preprint-on-a-vision-for-i-harnessing-scalable-transactional-stream-processing-tsp-for-managing-large-language-models-llms-i-is-now-available-online')">
+      Our preprint on a vision for <i> ``Harnessing Scalable Transactional Stream Processing (TSP) for Managing Large Language Models (LLMs)’’</i> is now available online.
+    </em>
+  <br />
+      <span id="our-preprint-on-a-vision-for-i-harnessing-scalable-transactional-stream-processing-tsp-for-managing-large-language-models-llms-i-is-now-available-online" style="display:none;">
+        <br /><a href="https://arxiv.org/abs/2307.08225">[Preprint]</a> If you have questions, comments, or suggestions, feel free to write an email to me: shuhao_zhang AT sutd.edu.sg. We also welcome criticism, collaboration opprotutnities, and others.
+      </span>
+  <br />
+  </p>
 
-<p>20/Mar/2023 <br />
-<em>Shuhao Zhang is invited to join the Organising Committee of National Supercomputing Centre (NSCC) HPC AI Innovation Challenge 2023.</em></p>
+<p>
+    27/June/2023 <br />
+    <em class="clickable-headline" onclick="toggleVisibility('we-built-a-python-api-of-our-sesame-project-which-aims-at-building-a-scalable-stream-mining-library-on-modern-hardware')">
+      We built a Python API of our sesame project, which aims at building a scalable stream mining library on modern hardware.
+    </em>
+  <br />
+      <span id="we-built-a-python-api-of-our-sesame-project-which-aims-at-building-a-scalable-stream-mining-library-on-modern-hardware" style="display:none;">
+        <br /><a href="https://github.com/intellistream/Sesame/tree/python">[Link to Code]</a> Currently, it contains several representative real-world stream clustering algorithms and several synthetic algorithms. We welcome your contributions, if you are interested to contribute to the project, please fork and submit a PR. If you have questions, feel free to log an issue or write an email to shuhao_zhang AT sutd.edu.sg.
+      </span>
+  <br />
+  </p>
 
-<p>9/Mar/2023 <br />
-<em>Shuhao Zhang is nominated as an Area Leader (<b>Green Edge</b>) for 2023 NRF Foundational Research Capabilities (FRC) exercise on Green Computing.</em></p>
+<p>
+    25/June/2023 <br />
+    <em>
+      We have a new preprint out on the <a href="https://arxiv.org/abs/2306.10228">CStream: Parallel Data Stream Compression on Multicore Edge Device</a>
+    </em>
+  <br />
+  </p>
 
-<p>23/Feb/2023 <br />
-<em>The <a href="https://intellistream.github.io/downloads/papers/Sesame_CR.pdf">paper</a> on ‘Data Stream Clustering: An In-depth Empirical Study’ has been accepted for <b>publication in SIGMOD 2023</b>. Congratulations to the visiting students/staffs of the team: Xin Wang, Zhengru Wang, and Zhenyu Wu!</em></p>
+<p>
+    30/May/2023 <br />
+    <em>
+      Shuhao Zhang has been invited to serve as the TKDE Poster Chair at the International Conference on Data Engineering (ICDE) 2024 in Utrecht, Netherlands. Looking forward to contributing to this prestigious event and engaging with brilliant minds in the field.
+    </em>
+  <br />
+  </p>
 
-<p>14/Feb/2023 <br />
-<em>The <a href="https://intellistream.github.io/downloads/papers/Zhang-2023-OIJ-OpenMLDB_CR.pdf">paper</a> on ‘Scalable Online Interval Join on Modern Multicore Processors in OpenMLDB’ has been accepted for <b>publication in ICDE 2023</b>. Congratulations to the OpenMLDB team!</em></p>
+<p>
+    18/Apr/2023 <br />
+    <em>
+      Congratulations to Mr.Yuhao Wu for receiving a PhD fellowship from SUTD! He will join as a PhD student in the team since Sep/2023. He works in a joint area of stream processing and machine learning (particuarly, large language models).
+    </em>
+  <br />
+  </p>
 
-<p>25/Jan/2023 <br />
-<em>Shuhao Zhang is invited to joining the program committee for <b>ICPP 2023 research track (Algorithms) </b> (https://icpp23.sci.utah.edu/), which will be held in Salt Lake City, Utah, USA August 7 - 10, 2023.</em></p>
+<p>
+    20/Mar/2023 <br />
+    <em>
+      Shuhao Zhang is invited to join the Organising Committee of National Supercomputing Centre (NSCC) HPC AI Innovation Challenge 2023.
+    </em>
+  <br />
+  </p>
 
-<p>12/Jan/2023 <br />
-<em>The <a href="https://intellistream.github.io/downloads/papers/Zeng-2023-CStream-DEBS_CR.pdf">vision paper</a> ‘A Hardware-Conscious Stateful Stream Compression Framework for IoT Applications (Vision)’ has been accepted for <b>publication in DEBS 2023</b>. Congratulations to <a href="https://tonyskyzeng.github.io/">Xianzhi</a>!</em></p>
+<p>
+    9/Mar/2023 <br />
+    <em>
+      Shuhao Zhang is nominated as an Area Leader (<b>Green Edge</b>) for 2023 NRF Foundational Research Capabilities (FRC) exercise on Green Computing.
+    </em>
+  <br />
+  </p>
 
-<p>10/Jan/2023 <br />
-<em>Shuhao Zhang is invited to give a talk at the DSO National Laboratories (DSO) Singapore for the recently completed seed project on <b>Massive Data Streaming Architecture for Sentiment Analysis</b>.</em></p>
+<p>
+    23/Feb/2023 <br />
+    <em>
+      The <a href="https://intellistream.github.io/downloads/papers/Sesame_CR.pdf">paper</a> on ‘Data Stream Clustering: An In-depth Empirical Study’ has been accepted for <b>publication in SIGMOD 2023</b>. Congratulations to the visiting students/staffs of the team: Xin Wang, Zhengru Wang, and Zhenyu Wu!
+    </em>
+  <br />
+  </p>
 
-<p>23/Dec/2022 <br />
-<em>Shuhao Zhang is joining the program committee for <b>KDD 2023 research track</b> (https://kdd.org/kdd2023/call-for-research-track-papers/), which will be held in Long Beach CA, USA August 6 - 10, 2023.</em></p>
+<p>
+    14/Feb/2023 <br />
+    <em>
+      The <a href="https://intellistream.github.io/downloads/papers/Zhang-2023-OIJ-OpenMLDB_CR.pdf">paper</a> on ‘Scalable Online Interval Join on Modern Multicore Processors in OpenMLDB’ has been accepted for <b>publication in ICDE 2023</b>. Congratulations to the OpenMLDB team!
+    </em>
+  <br />
+  </p>
 
-<p>14/Dec/2022 <br />
-<em>Shuhao Zhang will give an invited talk at HUST (online) this coming Friday <a href="downloads/talks/2022HUSTTalk.pdf">[Slides]</a>.</em></p>
+<p>
+    25/Jan/2023 <br />
+    <em>
+      Shuhao Zhang is invited to joining the program committee for <b>ICPP 2023 research track (Algorithms) </b> (https://icpp23.sci.utah.edu/), which will be held in Salt Lake City, Utah, USA August 7 - 10, 2023.
+    </em>
+  <br />
+  </p>
 
-<p>02/Dec/2022 <br />
-<em><b>Welcome to the group</b>: Thivagarasarma Karthick will be joining us as visiting student for the summer of 2023.</em></p>
+<p>
+    12/Jan/2023 <br />
+    <em>
+      The <a href="https://intellistream.github.io/downloads/papers/Zeng-2023-CStream-DEBS_CR.pdf">vision paper</a> ‘A Hardware-Conscious Stateful Stream Compression Framework for IoT Applications (Vision)’ has been accepted for <b>publication in DEBS 2023</b>. Congratulations to <a href="https://tonyskyzeng.github.io/">Xianzhi</a>!
+    </em>
+  <br />
+  </p>
 
-<p>29/Nov/2022 <br />
-<em>Shuhao Zhang is joining the program committee for <b>SC23 - Machine Learning and HPC Track</b> (https://sc23.supercomputing.org), which will be held in Denver, CO, USA, November 12-17, 2023.</em></p>
+<p>
+    10/Jan/2023 <br />
+    <em>
+      Shuhao Zhang is invited to give a talk at the DSO National Laboratories (DSO) Singapore for the recently completed seed project on <b>Massive Data Streaming Architecture for Sentiment Analysis</b>.
+    </em>
+  <br />
+  </p>
 
-<p>11/Nov/2022 <br />
-<em><b>Welcome to the group</b>: Ruopeng Geng joined us as a visitng PhD student from Zhejiang University (ZJU).</em></p>
+<p>
+    23/Dec/2022 <br />
+    <em>
+      Shuhao Zhang is joining the program committee for <b>KDD 2023 research track</b> (https://kdd.org/kdd2023/call-for-research-track-papers/), which will be held in Long Beach CA, USA August 6 - 10, 2023.
+    </em>
+  <br />
+  </p>
 
-<p>02/Oct/2022 <br />
-<em><b>Welcome to the group</b>: Zhonghao Yang and Haolan He joined us as full-time research assistants. Zhonghao will be joining the group as a PhD student in January 2023</em></p>
+<p>
+    14/Dec/2022 <br />
+    <em>
+      Shuhao Zhang will give an invited talk at HUST (online) this coming Friday <a href="downloads/talks/2022HUSTTalk.pdf">[Slides]</a>.
+    </em>
+  <br />
+  </p>
 
-<p>16/Sep/2022 <br />
-<em>The paper on ‘MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores’ has been accepted for <b>publication in SIGMOD 2023</b>. Congratulations to my visiting students <a href="https://yancanmao.github.io/">Yancan Mao</a> and Jianjun Zhao!</em></p>
+<p>
+    02/Dec/2022 <br />
+    <em>
+      <b>Welcome to the group</b>: Thivagarasarma Karthick will be joining us as visiting student for the summer of 2023.
+    </em>
+  <br />
+  </p>
 
-<p>16/Sep/2022 <br />
-<em>We are part of a newly granted project title ‘Towards Co-clustering in Big Data: An Optimization Perspective’, together with Meixia Lin, Das Bikramjit, Wei Quin Yow. Congrauts Meixia.</em></p>
+<p>
+    29/Nov/2022 <br />
+    <em>
+      Shuhao Zhang is joining the program committee for <b>SC23 - Machine Learning and HPC Track</b> (https://sc23.supercomputing.org), which will be held in Denver, CO, USA, November 12-17, 2023.
+    </em>
+  <br />
+  </p>
 
-<p>10/Sep/2022 <br />
-<em>The paper on ‘Parallelizing Stream Compression for IoT Applications on Asymmetric Multicores’ has been accepted for <b>publication in ICDE 2023</b>. Congratulations to <a href="https://tonyskyzeng.github.io/">Xianzhi</a>!</em></p>
+<p>
+    11/Nov/2022 <br />
+    <em>
+      <b>Welcome to the group</b>: Ruopeng Geng joined us as a visitng PhD student from Zhejiang University (ZJU).
+    </em>
+  <br />
+  </p>
 
-<p>01/Sep/2022 <br />
-<em>We are pleased to announce that our team’s first Singapore <b>Ministry of Education (MOE) Tier 2</b> Grant (2022-2025) has been <a href="https://istd.sutd.edu.sg/news-events/event/news/congratulations-to-assistant-professor-zhang-shuhao-for-obtaining-moe-acrf-tier-2-grant-call-funding/">awarded</a>.</em></p>
+<p>
+    02/Oct/2022 <br />
+    <em>
+      <b>Welcome to the group</b>: Zhonghao Yang and Haolan He joined us as full-time research assistants. Zhonghao will be joining the group as a PhD student in January 2023
+    </em>
+  <br />
+  </p>
 
-<p>10/Aug/2022 <br />
-<em><b>Welcome to the group</b>: Luv Singhal joined us as a UROP (Undergraduate Research Opportunities Programme) student.</em></p>
+<p>
+    16/Sep/2022 <br />
+    <em>
+      The paper on ‘MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores’ has been accepted for <b>publication in SIGMOD 2023</b>. Congratulations to my visiting students <a href="https://yancanmao.github.io/">Yancan Mao</a> and Jianjun Zhao!
+    </em>
+  <br />
+  </p>
 
-<p>26/Aug/2022 <br />
-<em>A full research paper titled <i>CompressStreamDB: Fine-Grained Adaptive Stream Processing without Decompression</i> has been accepted for <b>publication at ICDE 2023</b>!</em></p>
+<p>
+    16/Sep/2022 <br />
+    <em>
+      We are part of a newly granted project title ‘Towards Co-clustering in Big Data: An Optimization Perspective’, together with Meixia Lin, Das Bikramjit, Wei Quin Yow. Congrauts Meixia.
+    </em>
+  <br />
+  </p>
 
-<p>25/Aug/2022 <br />
-<em>We have a new preprint out on the <a href="https://arxiv.org/abs/2208.09827">Survey on Transactional Stream Processing</a></em></p>
+<p>
+    10/Sep/2022 <br />
+    <em>
+      The paper on ‘Parallelizing Stream Compression for IoT Applications on Asymmetric Multicores’ has been accepted for <b>publication in ICDE 2023</b>. Congratulations to <a href="https://tonyskyzeng.github.io/">Xianzhi</a>!
+    </em>
+  <br />
+  </p>
 
-<p>17/Aug/2022 <br />
-<em><b>Our paper accepted at SIGMOD 2021 has been successfully reproduced</b>, and the ‘Results Reproduced’ badge is now <a href="https://dl.acm.org/doi/10.1145/3448016.3452793">available in the ACM Digital Library</a>!</em></p>
+<p>
+    01/Sep/2022 <br />
+    <em>
+      We are pleased to announce that our team’s first Singapore <b>Ministry of Education (MOE) Tier 2</b> Grant (2022-2025) has been <a href="https://istd.sutd.edu.sg/news-events/event/news/congratulations-to-assistant-professor-zhang-shuhao-for-obtaining-moe-acrf-tier-2-grant-call-funding/">awarded</a>.
+    </em>
+  <br />
+  </p>
 
-<p>13/Aug/2022 <br />
-<em><em>Master Scholarship</em> available (<strong>Singaporean citizens only</strong>) for Future Communications Research &amp; Development Master Scholarship Programme. If you are interested, please submit your application <a href="https://sutd.edu.sg/Admissions/Graduate/Master-Programme/Master-of-Engineering-(Research)/Application">here</a>. More details can be found <a href="https://fcp.sutd.edu.sg/scholarships/">here</a>.</em></p>
+<p>
+    10/Aug/2022 <br />
+    <em>
+      <b>Welcome to the group</b>: Luv Singhal joined us as a UROP (Undergraduate Research Opportunities Programme) student.
+    </em>
+  <br />
+  </p>
 
-<p>01/April/2022 <br />
-<em>Congrats to Yuan Li for sucessfully defence her master thesis at TU Berlin. Congrauts Yuan!</em></p>
+<p>
+    26/Aug/2022 <br />
+    <em>
+      A full research paper titled <i>CompressStreamDB: Fine-Grained Adaptive Stream Processing without Decompression</i> has been accepted for <b>publication at ICDE 2023</b>!
+    </em>
+  <br />
+  </p>
 
-<p>10/Aug/2022 <br />
-<em><b>Welcome to the group</b>: Yuhao Wu joined us as a visiting researcher from Huazhong Agricultural University to work on streaming machine learning. Welcome Yuhao!</em></p>
+<p>
+    25/Aug/2022 <br />
+    <em>
+      We have a new preprint out on the <a href="https://arxiv.org/abs/2208.09827">Survey on Transactional Stream Processing</a>
+    </em>
+  <br />
+  </p>
 
-<p>31/May/2022 <br />
-<em>Zhonghao has received a <b>PhD Offer</b> from SUTD to work on in-network streaming event detection. Congrats Zhonghao!</em></p>
+<p>
+    17/Aug/2022 <br />
+    <em>
+      <b>Our paper accepted at SIGMOD 2021 has been successfully reproduced</b>, and the ‘Results Reproduced’ badge is now <a href="https://dl.acm.org/doi/10.1145/3448016.3452793">available in the ACM Digital Library</a>!
+    </em>
+  <br />
+  </p>
 
-<p>11/May/2022 <br />
-<em>Our grant proposal titled <i>Energy-efficient, Scalable, and Reliable Distributed Green Streaming Machine Learning for Edges</i> has been awarded (sole PI: Shuhao Zhang). Thanks the Future Communications Research &amp; Development Programme (FCP) Research Grant Evaluation Committee 2021!</em></p>
+<p>
+    13/Aug/2022 <br />
+    <em>
+      <em>Master Scholarship</em> available (<strong>Singaporean citizens only</strong>) for Future Communications Research &amp; Development Master Scholarship Programme. If you are interested, please submit your application <a href="https://sutd.edu.sg/Admissions/Graduate/Master-Programme/Master-of-Engineering-(Research)/Application">here</a>. More details can be found <a href="https://fcp.sutd.edu.sg/scholarships/">here</a>.
+    </em>
+  <br />
+  </p>
 
-<p>10/May/2022 <br />
-<em>Our grant proposal titled <i>A Stream Processing based NFV Platform for 5G on Modern Multicore Processors</i> has been awarded (PI: Shuhao Zhang; Co-PI: Binbin Chen). Thanks the Future Communications Research &amp; Development Programme (FCP) Research Grant Evaluation Committee 2021!</em></p>
+<p>
+    01/April/2022 <br />
+    <em>
+      Congrats to Yuan Li for sucessfully defence her master thesis at TU Berlin. Congrauts Yuan!
+    </em>
+  <br />
+  </p>
 
-<p>17/April/2022 <br />
-<em> Mr.Huilin Wu receives full marks (1.0 in Germany scale) of his mater thesis defence at TU Berlin! <a href="https://arxiv.org/abs/2203.12368">His work has been submitted and under review</a>. Congrats Huilin!</em></p>
+<p>
+    10/Aug/2022 <br />
+    <em>
+      <b>Welcome to the group</b>: Yuhao Wu joined us as a visiting researcher from Huazhong Agricultural University to work on streaming machine learning. Welcome Yuhao!
+    </em>
+  <br />
+  </p>
 
-<p>13/April/2022 <br />
-<em>Xianzhi has gained a <b>full PhD Scholarship</b> from SUTD to work on energy efficient edge computing. Congrats Xianzhi!</em></p>
+<p>
+    31/May/2022 <br />
+    <em>
+      Zhonghao has received a <b>PhD Offer</b> from SUTD to work on in-network streaming event detection. Congrats Zhonghao!
+    </em>
+  <br />
+  </p>
 
-<p>02/April/2022 <br />
-<em><b>Welcome to the group</b>: Haobo Zhang will be joining us for the summer of 2022 as a visiting student to work on online sentiment analysis.</em></p>
+<p>
+    11/May/2022 <br />
+    <em>
+      Our grant proposal titled <i>Energy-efficient, Scalable, and Reliable Distributed Green Streaming Machine Learning for Edges</i> has been awarded (sole PI: Shuhao Zhang). Thanks the Future Communications Research &amp; Development Programme (FCP) Research Grant Evaluation Committee 2021!
+    </em>
+  <br />
+  </p>
 
-<p>25/02/2022 <br />
-<em>Shuhao Zhang is joining the program committee for <b>EDBT 2023</b> (http://edbticdt2023.cs.uoi.gr), which will be held in Ioannina, Greece, March 28 - March 31, 2023.</em></p>
+<p>
+    10/May/2022 <br />
+    <em>
+      Our grant proposal titled <i>A Stream Processing based NFV Platform for 5G on Modern Multicore Processors</i> has been awarded (PI: Shuhao Zhang; Co-PI: Binbin Chen). Thanks the Future Communications Research &amp; Development Programme (FCP) Research Grant Evaluation Committee 2021!
+    </em>
+  <br />
+  </p>
 
-<p>18/Feb/2022 <br />
-<em>Congrats to Huilin Wu for sucessfully defence his master thesis at TU Berlin. Congrauts Huilin!</em></p>
+<p>
+    17/April/2022 <br />
+    <em>
+       Mr.Huilin Wu receives full marks (1.0 in Germany scale) of his mater thesis defence at TU Berlin! <a href="https://arxiv.org/abs/2203.12368">His work has been submitted and under review</a>. Congrats Huilin!
+    </em>
+  <br />
+  </p>
 
-<p>2/12/2021 <br />
-<em>Shuhao Zhang is joining the program committee for <b>Machine Learning with HPC of SC22</b> (https://sc22.supercomputing.org), which will be held in Dallas, TX, USA, November 13-18, 2022.</em></p>
+<p>
+    13/April/2022 <br />
+    <em>
+      Xianzhi has gained a <b>full PhD Scholarship</b> from SUTD to work on energy efficient edge computing. Congrats Xianzhi!
+    </em>
+  <br />
+  </p>
 
-<p>19/11/2021 <br />
-<em>Shuhao Zhang is joining the program committee for <b>Software Track of ICPP22</b> (https://icpp22.gitlabpages.inria.fr/), which will be held in Bordeaux, France, August 29th to Sept 1st, 2022.</em></p>
+<p>
+    02/April/2022 <br />
+    <em>
+      <b>Welcome to the group</b>: Haobo Zhang will be joining us for the summer of 2022 as a visiting student to work on online sentiment analysis.
+    </em>
+  <br />
+  </p>
 
-<p>06/Nov/2021 <br />
-<em>Our grant proposal titled <i>Online Sentiment Learning of Massive Data Streams</i> has been awarded (sole PI). Thanks the TL@SUTD Seed Project Evaluation Committee 2021!</em></p>
+<p>
+    25/02/2022 <br />
+    <em>
+      Shuhao Zhang is joining the program committee for <b>EDBT 2023</b> (http://edbticdt2023.cs.uoi.gr), which will be held in Ioannina, Greece, March 28 - March 31, 2023.
+    </em>
+  <br />
+  </p>
 
-<p>02/Sep/2021 <br />
-<em>Our grant proposal titled <i>Revisiting the Algorithms for Clustering Evolving Trajectory Streams</i> has been awarded (sole PI). Thanks the SUTD-ZJU (VP) Grant Evaluation Committee 2021!</em></p>
+<p>
+    18/Feb/2022 <br />
+    <em>
+      Congrats to Huilin Wu for sucessfully defence his master thesis at TU Berlin. Congrauts Huilin!
+    </em>
+  <br />
+  </p>
 
-<p>01/Sep/2021 <br />
-<em><b>Welcome to the group</b>: Xianzhi Zeng joins the group as a visiting student from University of Electronic Science and Technology of China (UESTC). Welcome Xianzhi!</em></p>
+<p>
+    2/12/2021 <br />
+    <em>
+      Shuhao Zhang is joining the program committee for <b>Machine Learning with HPC of SC22</b> (https://sc22.supercomputing.org), which will be held in Dallas, TX, USA, November 13-18, 2022.
+    </em>
+  <br />
+  </p>
 
-<p>11/July/2021 <br />
-<em><b>Welcome to the group</b>: Xin Wang joined us as a (remote) visitng student from Sichuan University (SCU). Welcome Xin!</em></p>
+<p>
+    19/11/2021 <br />
+    <em>
+      Shuhao Zhang is joining the program committee for <b>Software Track of ICPP22</b> (https://icpp22.gitlabpages.inria.fr/), which will be held in Bordeaux, France, August 29th to Sept 1st, 2022.
+    </em>
+  <br />
+  </p>
 
-<p>01/June/2021 <br />
-<em><b>Welcome to the group</b>: Yancan Mao joined us as a visitng PhD student from National University of Singapore (NUS) for the summer vacanccy of 2021. Welcome Yancan!</em></p>
+<p>
+    06/Nov/2021 <br />
+    <em>
+      Our grant proposal titled <i>Online Sentiment Learning of Massive Data Streams</i> has been awarded (sole PI). Thanks the TL@SUTD Seed Project Evaluation Committee 2021!
+    </em>
+  <br />
+  </p>
 
-<p>26/May/2021 <br />
-<em>Congrats to Aqif Hamid for sucessfully defence his master thesis at TU Berlin. Congrauts Aqif!</em></p>
+<p>
+    02/Sep/2021 <br />
+    <em>
+      Our grant proposal titled <i>Revisiting the Algorithms for Clustering Evolving Trajectory Streams</i> has been awarded (sole PI). Thanks the SUTD-ZJU (VP) Grant Evaluation Committee 2021!
+    </em>
+  <br />
+  </p>
 
-<p>01/April/2022 <br />
-<em><b>Welcome to the group</b>: Zhenyu Wu joined us as a visiting researcher to work on data stream mining. Welcome Zhenyu!</em></p>
+<p>
+    01/Sep/2021 <br />
+    <em>
+      <b>Welcome to the group</b>: Xianzhi Zeng joins the group as a visiting student from University of Electronic Science and Technology of China (UESTC). Welcome Xianzhi!
+    </em>
+  <br />
+  </p>
 
-<p>11/March/2021 <br />
-<em>The paper <i>Fine-Grained Multi-Query Stream Processing on Integrated Architectures</i> was accepted at the <b>IEEE Transactions on Parallel and Distributed Systems (TPDS)</b>! It is regarding a renewed design of stream processing engine on integrated CPU-GPU architectures, a significantly extended version of our previous work published at USNIX Annual Technical Conference (ATC) 2020.</em></p>
+<p>
+    11/July/2021 <br />
+    <em>
+      <b>Welcome to the group</b>: Xin Wang joined us as a (remote) visitng student from Sichuan University (SCU). Welcome Xin!
+    </em>
+  <br />
+  </p>
 
-<p>18/Feb/2021 <br />
-<em>Our proposal titled <i>Efficient Intra-Window Join on the Multicore IoT systems</i> has been awarded (sole PI) a SUTD Startup Grant!</em></p>
+<p>
+    01/June/2021 <br />
+    <em>
+      <b>Welcome to the group</b>: Yancan Mao joined us as a visitng PhD student from National University of Singapore (NUS) for the summer vacanccy of 2021. Welcome Yancan!
+    </em>
+  <br />
+  </p>
 
-<p>15/Jan/2021 <br />
-<em>Welcome to Singapore — <b> The IntelliStream research group is officially starting</b>!</em></p>
+<p>
+    26/May/2021 <br />
+    <em>
+      Congrats to Aqif Hamid for sucessfully defence his master thesis at TU Berlin. Congrauts Aqif!
+    </em>
+  <br />
+  </p>
 
-<p>05/Jan/2021 <br />
-<em>The paper <i>Parallelizing Intra-Window Join on Multicores: An Experimental Study</i> was accepted for presentation at the <b>ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD/PODS 2021)</b>!<a href="https://www.bifold.berlin/news-events/news/view/news-detail/tu-berlin-dfki-and-nus-paper-on-parallelizing-intra-window-join-on-multicores-was-accepted-at-sigmod-2021">(News)</a></em></p>
+<p>
+    01/April/2022 <br />
+    <em>
+      <b>Welcome to the group</b>: Zhenyu Wu joined us as a visiting researcher to work on data stream mining. Welcome Zhenyu!
+    </em>
+  <br />
+  </p>
+
+<p>
+    11/March/2021 <br />
+    <em>
+      The paper <i>Fine-Grained Multi-Query Stream Processing on Integrated Architectures</i> was accepted at the <b>IEEE Transactions on Parallel and Distributed Systems (TPDS)</b>! It is regarding a renewed design of stream processing engine on integrated CPU-GPU architectures, a significantly extended version of our previous work published at USNIX Annual Technical Conference (ATC) 2020.
+    </em>
+  <br />
+  </p>
+
+<p>
+    18/Feb/2021 <br />
+    <em>
+      Our proposal titled <i>Efficient Intra-Window Join on the Multicore IoT systems</i> has been awarded (sole PI) a SUTD Startup Grant!
+    </em>
+  <br />
+  </p>
+
+<p>
+    15/Jan/2021 <br />
+    <em>
+      Welcome to Singapore — <b> The IntelliStream research group is officially starting</b>!
+    </em>
+  <br />
+  </p>
+
+<p>
+    05/Jan/2021 <br />
+    <em>
+      The paper <i>Parallelizing Intra-Window Join on Multicores: An Experimental Study</i> was accepted for presentation at the <b>ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD/PODS 2021)</b>!<a href="https://www.bifold.berlin/news-events/news/view/news-detail/tu-berlin-dfki-and-nus-paper-on-parallelizing-intra-window-join-on-multicores-was-accepted-at-sigmod-2021">(News)</a>
+    </em>
+  <br />
+  </p>
 
 
   <script src="https://cdn.jsdelivr.net/npm/fuse.js/dist/fuse.min.js"></script>    

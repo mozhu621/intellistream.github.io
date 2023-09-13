@@ -1,7 +1,7 @@
 ---
-title: "IntelliStream Research Group - Research"
+title: "Research"
 layout: textlay
-excerpt: "IntelliStream Research Group - Research"
+excerpt: "Research"
 sitemap: false
 permalink: /research/
 ---

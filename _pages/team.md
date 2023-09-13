@@ -1,7 +1,7 @@
 ---
-title: "IntelliStream Research group - team"
+title: "Team"
 layout: gridlay
-excerpt: "IntelliStream Research group: Team members"
+excerpt: "Team members"
 sitemap: false
 permalink: /team/
 ---
@@ -96,7 +96,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-<i> There are **three** (and potentially **four** or even more due to the incoming large grant awards) full PhD scholarships available. If you are interested, please email early. If you have no prior research experience, you are advised to first join as a visiting student or RA.</i>
+*We are pleased to announce that we have identified a sufficient number of qualified candidates for our PhD program, commencing in September 2024. These selected applicants have been invited to participate in a visiting student program at our Lab this coming November. Upon successful completion of this program, they are expected to formally join our Lab as PhD students. We would like to express our gratitude to all who have shown interest in our program.* Please be advised that **we have ceased accepting new PhD applications for this intake cycle**, except in the event that any of the already-identified candidates decline our offer.
 
 ## Research Staffs
 {% assign number_printed = 0 %}
@@ -160,7 +160,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-<i> We have one open position available for postdoc/RA.</i>
+<i> We have one open position available for postdoc/RA. Interview is on-going.</i>
 
 ## Bachelor, Master and Visiting Students
 {% assign number_printed = 0 %}
@@ -224,7 +224,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-<i> We have a few positions available for visiting researcher/(stipend) student.</i>
+<i> We have a few positions available for visiting researcher/(stipend) student. Interview is on-going.</i>
 
 ## Frequent Collaborators
 {% assign number_printed = 0 %}

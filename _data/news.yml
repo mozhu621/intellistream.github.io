@@ -1,20 +1,28 @@
 - date: 13/Sep/2023
-  headline: "We are pleased to announce that we have identified a sufficient number of qualified candidates for our PhD program, commencing in September 2024. These selected applicants have been invited to participate in a visiting student program at our Lab this coming November. Upon successful completion of this program, they are expected to formally join our Lab as PhD students. We would like to express our gratitude to all who have shown interest in our program. Please be advised that we have ceased accepting new PhD applications for this intake cycle, except in the event that any of the already-identified candidates decline our offer. However, we continue to offer opportunities for Research Assistant and visiting student positions, for which the interview process is ongoing. Interested individuals are encouraged to reach out to us via email for additional information."
+  headline: "Update on PhD Applications for September 2024 Intake"
+  body: "We are pleased to announce that we have identified a sufficient number of qualified candidates for our PhD program, commencing in September 2024. These selected applicants have been invited to participate in a visiting student program at our Lab this coming November. Upon successful completion of this program, they are expected to formally join our Lab as PhD students. We would like to express our gratitude to all who have shown interest in our program. Please be advised that we have ceased accepting new PhD applications for this intake cycle, except in the event that any of the already-identified candidates decline our offer. However, we continue to offer opportunities for Research Assistant and visiting student positions, for which the interview process is ongoing. Interested individuals are encouraged to reach out to us via email for additional information."
 
 - date: 12/Sep/2023
-  headline: "We have a new preprint out, <a href='http://arxiv.org/abs/2309.04799'>Benne: A Modular and Self-Optimizing Algorithm for Data Stream Clustering</a>"
+  headline: "We are pleased to announce the formation of Special Interest Groups (SIGs) of presentations within our Research Group."
+  body: "Presentation schedules will be updated periodically and can be accessed at <a href='https://intellistream.github.io/meetings/'>Intellistream Meetings</a>."
+
+- date: 12/Sep/2023
+  headline: "<a href='http://arxiv.org/abs/2309.04799'>[Preprint]</a> We have a new preprint out, Benne: A Modular and Self-Optimizing Algorithm for Data Stream Clustering."
 
 - date: 2/Sep/2023
-  headline: "Our <a href='https://intellistream.github.io/downloads/papers/VLDBJ_TSP_survey.pdf'>preprint</a> about a survey of transactional stream processing is accepted to VLDB Journal! TL;DR: Transactional stream processing (TSP) strives to create a cohesive model that merges the advantages of both transactional and stream-oriented guarantees. This survey intends to introduce TSP and present our perspective on its future progression. Our primary goals are twofold: to provide insights into the diverse TSP requirements and methodologies, and to inspire the design and development of groundbreaking TSP systems."
+  headline: "Our survey of transactional stream processing is accepted to VLDB Journal!" 
+  body: "<a href='https://intellistream.github.io/downloads/papers/VLDBJ_TSP_survey.pdf'>[Preprint]</a> TL;DR: Transactional stream processing (TSP) strives to create a cohesive model that merges the advantages of both transactional and stream-oriented guarantees. This survey intends to introduce TSP and present our perspective on its future progression. Our primary goals are twofold: to provide insights into the diverse TSP requirements and methodologies, and to inspire the design and development of groundbreaking TSP systems."
 
 - date: 15/Aug/2023
   headline: "Shuhao Zhang will join School of Computer Science and Engineering (SCSE) at Nanyang Technological University (NTU) as an assistant professor in November 2023."
 
 - date: 18/July/2023
-  headline: "Our preprint on a vision for <i> ``Harnessing Scalable Transactional Stream Processing (TSP) for Managing Large Language Models (LLMs)''</i> is now available <a href='https://arxiv.org/abs/2307.08225'>online</a>. If you have questions, comments, or suggestions, feel free to write an email to me: shuhao_zhang AT sutd.edu.sg. We also welcome criticism, collaboration opprotutnities, and others."
+  headline: "Our preprint on a vision for <i> ``Harnessing Scalable Transactional Stream Processing (TSP) for Managing Large Language Models (LLMs)''</i> is now available online." 
+  body: "<a href='https://arxiv.org/abs/2307.08225'>[Preprint]</a> If you have questions, comments, or suggestions, feel free to write an email to me: shuhao_zhang AT sutd.edu.sg. We also welcome criticism, collaboration opprotutnities, and others."
 
 - date: 27/June/2023
-  headline: "We built a <a href='https://github.com/intellistream/Sesame/tree/python'>Python API</a> of our sesame project, which aims at building a scalable stream mining library on modern hardware. Currently, it contains several representative real-world stream clustering algorithms and several synthetic algorithms. We welcome your contributions, if you are interested to contribute to the project, please fork and submit a PR. If you have questions, feel free to log an issue or write an email to shuhao_zhang AT sutd.edu.sg."
+  headline: "We built a Python API of our sesame project, which aims at building a scalable stream mining library on modern hardware." 
+  body: "<a href='https://github.com/intellistream/Sesame/tree/python'>[Link to Code]</a> Currently, it contains several representative real-world stream clustering algorithms and several synthetic algorithms. We welcome your contributions, if you are interested to contribute to the project, please fork and submit a PR. If you have questions, feel free to log an issue or write an email to shuhao_zhang AT sutd.edu.sg."
   
 - date: 25/June/2023
   headline: "We have a new preprint out on the <a href='https://arxiv.org/abs/2306.10228'>CStream: Parallel Data Stream Compression on Multicore Edge Device</a>"

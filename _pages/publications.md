@@ -1,7 +1,7 @@
 ---
-title: "IntelliStream Research Group - Publications"
+title: "Publications"
 layout: gridlay
-excerpt: "IntelliStream Research Group -- Publications."
+excerpt: "Publications."
 sitemap: false
 permalink: /publications/
 ---

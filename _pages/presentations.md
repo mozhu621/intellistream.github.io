@@ -1,9 +1,9 @@
 ---
-title: "IntelliStream Research Group - Meetings"
+title: "Presentations"
 layout: textlay
-excerpt: "IntelliStream Research Group - Meetings"
+excerpt: "Presentations"
 sitemap: false
-permalink: /meetings/
+permalink: /presentations/
 ---
 
 # Meetings and Presentations

@@ -1,12 +1,40 @@
-
 <div class="well">
-<h4>News</h4>
+  <h4>News</h4>
 
-{% for article in site.data.news limit:6 %}
-{{ article.date }}
-<p>{{ article.headline }}</p>
-{% endfor %}
+    <style>
+      .clickable-headline {
+        cursor: pointer;
+        text-decoration: underline;
+      }
+      .clickable-headline:hover {
+        color: blue;
+      }
+    </style>
 
-<h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
+  <script>
+    function toggleVisibility(id) {
+      var x = document.getElementById(id);
+      if (x.style.display === "none") {
+        x.style.display = "block";
+      } else {
+        x.style.display = "none";
+      }
+    }
+  </script>
 
-    </div>
+  {% for article in site.data.news limit:6 %}
+    <p>
+      {{ article.date }} <br>
+      <em {% if article.body %}class="clickable-headline" onclick="toggleVisibility('{{ article.headline | slugify }}')"{% endif %}>
+        {{ article.headline }}
+      </em>
+      {% if article.body %}
+        <span id="{{ article.headline | slugify }}" style="display:none;">
+          <br>{{ article.body }}
+        </span>
+      {% endif %}
+    </p>
+  {% endfor %}
+
+  <h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
+</div>
