@@ -49,24 +49,38 @@
         <div id="textid" class="col-sm-12">
   <h1 id="meetings-and-presentations">Meetings and Presentations</h1>
 
+<ul>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">sig-sys</code> for <strong>Systems Research</strong>: This group is tailored for individuals whose research or scholarly interests predominantly align with fields such as Database Systems, Operating Systems, Networking, Computer Architecture, Mobile Computing, High-Performance Computing, or Human-Computer Interaction.</p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">sig-ml</code> for <strong>Machine Learning and Related Fields</strong>: This group is intended for members with a focus on Machine Learning, Data Mining, Deep Learning, Computer Vision, Natural Language Processing, Algorithms, or Theoretical Computer Science.</p>
+  </li>
+</ul>
+
+<p>Each SIG is committed to presenting at least one paper per week, leading to a minimum of two paper presentations within the group as a whole each week.</p>
+
+<p>For active participation, please join the corresponding <a href="https://join.slack.com/t/intellistream/shared_invite/zt-2339uj090-8ci_aqHKva5jFInd2MpZsQ">Slack channels</a>.</p>
+
+<hr />
+
 <script>
   // Embed the JSON data using Liquid for all categories
-  const databases_presentations = [{"presenter":"Xianzhi Zeng","paper":"Milvus: A Purpose-Built Vector Data Management System","date":"2023-09-08","day":"Friday","time":"4PM (Singapore Time)","link":"","categories":["Databases","Machine Learning"]}];
-  const machine_learning_presentations = [];
-  const transactional_stream_processing_presentations = [];
+  const system_presentations = [{"presenter":"Xianzhi Zeng","paper":"Milvus: A Purpose-Built Vector Data Management System (SIGMOD'21)","date":"2023-09-15","day":"Friday","time":"3-4PM (Singapore Time)","slides":"/downloads/talks/Paper/xxx.pdf","link":"https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09","categories":["System","Machine Learning"]},{"presenter":"Zhonghao Yang","paper":"Dirigo: Self-scaling Stateful Actors For Serverless Real-time Data Processing","date":"2023-09-22","day":"Friday","time":"3-4PM (Singapore Time)","slides":"/downloads/talks/Paper/xxx.pdf","link":"https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09","categories":["System","Distributed Stream Processing"]}];
+  const machine_learning_presentations = [{"presenter":"Yuhao Wu","paper":"Does Continual Learning Equally Forget All Parameters? (ICML'23)","date":"2023-09-15","day":"Friday","time":"4-5PM (Singapore Time)","slides":"/downloads/talks/Paper/xxx.pdf","link":"https://us06web.zoom.us/j/89308337072?pwd=Q3N4bDd2RU9DMi9lcmZNSUhvU3ZRQT09","categories":["Machine Learning","Continual Learning"]}];
 </script>
 
-<h2 id="databases">Databases</h2>
+<h2 id="systems-dbosnetarchmobihpchci">Systems (DB/OS/Net/Arch/Mobi/HPC/HCI)</h2>
 
 <div class="presentation-section">
-  <div id="databases_next" class="next-presentation"></div>
-  <p><button onclick="toggleVisibility('databases_past')">📅 Show/Hide Past Presentations</button></p>
-  <div id="databases_past" style="display:none"></div>
-  <p><button onclick="toggleVisibility('databases_future')">📅 Show/Hide Future Presentations</button></p>
-  <div id="databases_future" style="display:none"></div>
+  <div id="system_next" class="next-presentation"></div>
+  <p><button onclick="toggleVisibility('system_past')">📅 Show/Hide Past Presentations</button></p>
+  <div id="system_past" style="display:none"></div>
+  <p><button onclick="toggleVisibility('system_future')">📅 Show/Hide Future Presentations</button></p>
+  <div id="system_future" style="display:none"></div>
 </div>
 
-<h2 id="machine-learning">Machine Learning</h2>
+<h2 id="machine-learning-mldmdlcvnlpalgotheory">Machine Learning (ML/DM/DL/CV/NLP/Algo/Theory)</h2>
 
 <div class="presentation-section">
   <div id="machine_learning_next" class="next-presentation"></div>
@@ -74,16 +88,6 @@
   <div id="machine_learning_past" style="display:none"></div>
   <p><button onclick="toggleVisibility('machine_learning_future')">📅 Show/Hide Future Presentations</button></p>
   <div id="machine_learning_future" style="display:none"></div>
-</div>
-
-<h2 id="transactional-stream-processing">Transactional Stream Processing</h2>
-
-<div class="presentation-section">
-  <div id="transactional_stream_processing_next" class="next-presentation"></div>
-  <p><button onclick="toggleVisibility('transactional_stream_processing_past')">📅 Show/Hide Past Presentations</button></p>
-  <div id="transactional_stream_processing_past" style="display:none"></div>
-  <p><button onclick="toggleVisibility('transactional_stream_processing_future')">📅 Show/Hide Future Presentations</button></p>
-  <div id="transactional_stream_processing_future" style="display:none"></div>
 </div>
 
 <h4 id="search-presentations">Search Presentations</h4>
