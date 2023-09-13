@@ -8,5 +8,15 @@
     "slides": "/downloads/talks/Paper/xxx.pdf",
     "link": "https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09",
     "categories": ["System", "Machine Learning"]
+  },
+  {
+    "presenter": "Zhonghao Yang",
+    "paper": "Dirigo: Self-scaling Stateful Actors For Serverless Real-time Data Processing",
+    "date": "2023-09-22",
+    "day": "Friday",
+    "time": "3-4PM (Singapore Time)",
+    "slides": "/downloads/talks/Paper/xxx.pdf",
+    "link": "https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09",
+    "categories": ["System", "Distributed Stream Processing"]
   }
 ]
