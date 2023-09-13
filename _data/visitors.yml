@@ -8,7 +8,7 @@
 
 - name: <a href='https://yancanmao.github.io/'>Yancan Mao</a>
   photo: user.png
-  info: Visiting PhD Student (Onsite&Remote)
+  info: Visiting PhD Student (Onsite & Remote)
   email:
   number_educ: 2
   education1: B.Sc. in Computer Science, University of Electronic Science and Technology of China
@@ -20,3 +20,10 @@
   email:
   number_educ: 1
   education1: PhD. in Computer Science, Huazhong University of Science and Technology expected completion in 2025
+  
+- name: <a href='github.com/Kailian-Jacy'>Zian Xu</a>
+  photo: user.png
+  info: Visiting Student (Onsite & Remote)
+  email:
+  number_educ: 1
+  education1: B.Sc. in Information Systems, Zhejiang University expected completion in 2024
