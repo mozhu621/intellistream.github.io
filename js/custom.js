@@ -9,10 +9,11 @@ function toggleVisibility(section) {
 }
 
 // Function to generate presentation HTML
-function generatePresentationHTML(presentation) {
+function generatePresentationHTML(presentation, isPast) {
+  const action = isPast ? "presented" : "will present";
   return `
     <div>
-      <h3>${presentation.presenter} will present paper titled: ${presentation.paper}</h3>
+      <h3>${presentation.presenter} ${action} a paper titled: ${presentation.paper}</h3>
       <p>Categories: ${presentation.categories.join(', ')}</p>        
       <p>Date: ${presentation.date}</p>
       <p>Time: ${presentation.time}</p>
@@ -23,19 +24,37 @@ function generatePresentationHTML(presentation) {
 }
 
 // Function to display presentations
-function displayPresentations(presentations, elementId) {
+function displayPresentations(presentations, elementId, isPast) {
   const element = document.getElementById(elementId);
-  element.innerHTML = presentations.map(generatePresentationHTML).join('');
+  element.innerHTML = ''; // Clear existing content    
+  presentations.forEach(presentation => {
+    element.innerHTML += generatePresentationHTML(presentation, isPast);
+  });
 }
 
 // Function to display the immediate next presentation
 function displayNextPresentation(presentation, elementId) {
   const element = document.getElementById(elementId);
-  if (presentation) {
-    element.innerHTML = generatePresentationHTML(presentation);
-  } else {
-    element.innerHTML = "No presentation scheduled";
+  if (!element) {
+    console.error(`Element with id ${elementId} not found.`);
+    return;
   }
+
+  const currentDate = new Date();
+  currentDate.setHours(0, 0, 0, 0); // Set time to midnight
+  const nextWeekDate = new Date(currentDate);
+  nextWeekDate.setDate(currentDate.getDate() + 7); // 7 days from today
+  nextWeekDate.setHours(0, 0, 0, 0); // Set time to midnight
+
+  if (presentation) {
+    const presentationDate = new Date(presentation.date);
+    presentationDate.setHours(0, 0, 0, 0); // Set time to midnight
+    if (presentationDate >= currentDate && presentationDate <= nextWeekDate) {
+      element.innerHTML = generatePresentationHTML(presentation, false);
+      return;
+    }
+  }
+  element.innerHTML = "No presentation scheduled";
 }
 
 // Function to sort and categorize presentations
@@ -48,9 +67,9 @@ function sortAndCategorizePresentations(presentations) {
 const categories = ['system', 'machine_learning'];
 categories.forEach(category => {
   const sortedPresentations = sortAndCategorizePresentations(window[`${category}_presentations`]);
-  displayPresentations(sortedPresentations.past, `${category}_past`);
+  displayPresentations(sortedPresentations.past, `${category}_past`, true);
   displayNextPresentation(sortedPresentations.next, `${category}_next`);
-  displayPresentations(sortedPresentations.future, `${category}_future`);
+  displayPresentations(sortedPresentations.future, `${category}_future`, false);
 });
 
 // Additional functionalities like search can be added here
