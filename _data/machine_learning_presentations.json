@@ -8,5 +8,15 @@
     "slides": "/downloads/talks/Paper/xxx.pdf",
     "link": "https://us06web.zoom.us/j/89308337072?pwd=Q3N4bDd2RU9DMi9lcmZNSUhvU3ZRQT09",
     "categories": ["Machine Learning", "Continual Learning"]
+  },
+  {
+    "presenter": "Tongjun Shi",
+    "paper": "Dataset Quantization (ArXiv; Bytedance & NUS)",
+    "date": "2023-09-22",
+    "day": "Friday",
+    "time": "4-5PM (Singapore Time)",
+    "slides": "/downloads/talks/Paper/xxx.pdf",
+    "link": "https://us06web.zoom.us/j/89308337072?pwd=Q3N4bDd2RU9DMi9lcmZNSUhvU3ZRQT09",
+    "categories": ["Machine Learning", "Dataset Distillation"]
   }
 ]
