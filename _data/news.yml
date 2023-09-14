@@ -4,7 +4,7 @@
 
 - date: 12/Sep/2023
   headline: "We are pleased to announce the formation of Special Interest Groups (SIGs) of presentations within our Research Group."
-  body: "Presentation schedules will be updated periodically and can be accessed at <a href='https://intellistream.github.io/meetings/'>Intellistream Meetings</a>."
+  body: "Presentation schedules will be updated periodically and can be accessed at <a href='https://intellistream.github.io/presentations/'>Intellistream Meetings</a>."
 
 - date: 12/Sep/2023
   headline: "<a href='http://arxiv.org/abs/2309.04799'>[Preprint]</a> We have a new preprint out, Benne: A Modular and Self-Optimizing Algorithm for Data Stream Clustering."
