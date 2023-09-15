@@ -31,10 +31,11 @@
           <div>
             <h3>${presentation.presenter} will present paper titled: ${presentation.paper}</h3>
             <p>Categories: ${presentation.categories.join(', ')}</p>        
-            <p>Date: ${presentation.date}</p>
+            <p>Date: ${presentation.date} (${presentation.day})</p>            
             <p>Time: ${presentation.time}</p>
             <p>Link: <a href="${presentation.link}" target="_blank">Join Zoom Meeting</a></p>
             <p>Slides: <a href="${presentation.slides}" target="_blank">Download Slides</a></p>
+            <p>Notes: ${presentation.notes}</p>
           </div>
         `;
         element.innerHTML += presentationDiv;
@@ -65,10 +66,11 @@
           <div>
             <h3>${presentation.presenter} will present paper titled: ${presentation.paper}</h3>
             <p>Categories: ${presentation.categories.join(', ')}</p>        
-            <p>Date: ${presentation.date}</p>
+            <p>Date: ${presentation.date} (${presentation.day})</p>            
             <p>Time: ${presentation.time}</p>
             <p>Link: <a href="${presentation.link}" target="_blank">Join Zoom Meeting</a></p>
             <p>Slides: <a href="${presentation.slides}" target="_blank">Download Slides</a></p>
+            <p>Notes: ${presentation.notes}</p>
           </div>
         `;
           element.innerHTML = presentationDiv;
