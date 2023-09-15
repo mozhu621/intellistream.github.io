@@ -35,6 +35,7 @@
             <p>Time: ${presentation.time}</p>
             <p>Link: <a href="${presentation.link}" target="_blank">Join Zoom Meeting</a></p>
             <p>Slides: <a href="${presentation.slides}" target="_blank">Download Slides</a></p>
+            <p>Notes: ${presentation.notes}</p>
           </div>
         `;
         element.innerHTML += presentationDiv;
@@ -69,6 +70,7 @@
             <p>Time: ${presentation.time}</p>
             <p>Link: <a href="${presentation.link}" target="_blank">Join Zoom Meeting</a></p>
             <p>Slides: <a href="${presentation.slides}" target="_blank">Download Slides</a></p>
+            <p>Notes: ${presentation.notes}</p>
           </div>
         `;
           element.innerHTML = presentationDiv;

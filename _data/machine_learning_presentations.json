@@ -1,5 +1,27 @@
 [
   {
+    "presenter": "Shuhao Zhang",
+    "paper": "Data Stream Clustering: An In-depth Empirical Study",
+    "date": "2023-09-16",
+    "day": "Saturday",
+    "time": "4-5PM (Singapore Time)",
+    "slides": "/downloads/talks/Paper/xxx.pdf",
+    "link": "",
+    "notes": "Online Presentation at Huazhong University of Science and Techonology. ZOOM MEETING ID: 402 098 8801PASSWORD: 103709",
+    "categories": ["Data Mining"]
+  },
+  {
+    "presenter": "Shuhao Zhang",
+    "paper": "Data Stream Clustering: An In-depth Empirical Study",
+    "date": "2023-09-20",
+    "day": "Friday",
+    "time": "10-11AM (Singapore Time)",
+    "slides": "/downloads/talks/Paper/xxx.pdf",
+    "link": "",
+    "notes": "Onsite Presentation at Renmin University of China.",
+    "categories": ["Data Mining"]
+  },     
+  {
     "presenter": "Yuhao Wu",
     "paper": "Does Continual Learning Equally Forget All Parameters? (ICML'23)",
     "date": "2023-09-22",
@@ -7,6 +29,7 @@
     "time": "4-5PM (Singapore Time)",
     "slides": "/downloads/talks/Paper/xxx.pdf",
     "link": "https://us06web.zoom.us/j/89308337072?pwd=Q3N4bDd2RU9DMi9lcmZNSUhvU3ZRQT09",
+    "notes": "",  
     "categories": ["Machine Learning", "Continual Learning"]
   },
   {
@@ -17,6 +40,7 @@
     "time": "4-5PM (Singapore Time)",
     "slides": "/downloads/talks/Paper/xxx.pdf",
     "link": "https://us06web.zoom.us/j/89308337072?pwd=Q3N4bDd2RU9DMi9lcmZNSUhvU3ZRQT09",
+    "notes": "",  
     "categories": ["Machine Learning", "Dataset Distillation"]
   }
 ]

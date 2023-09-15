@@ -7,6 +7,7 @@
     "time": "3-4PM (Singapore Time)",
     "slides": "/downloads/talks/Paper/xxx.pdf",
     "link": "https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09",
+    "notes": "",
     "categories": ["System", "Machine Learning"]
   },
   {
@@ -17,6 +18,7 @@
     "time": "3-4PM (Singapore Time)",
     "slides": "/downloads/talks/Paper/xxx.pdf",
     "link": "https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09",
+    "notes": "",      
     "categories": ["System", "Distributed Stream Processing"]
   }
 ]
