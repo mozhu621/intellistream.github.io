@@ -27,7 +27,7 @@
     "date": "2023-09-22",
     "day": "Friday",
     "time": "4-5PM (Singapore Time)",
-    "slides": "/downloads/talks/Paper/xxx.pdf",
+    "slides": "/downloads/talks/Paper/Does_continual_learning_equally_forget_all_parameters.pdf",
     "link": "https://us06web.zoom.us/j/89308337072?pwd=Q3N4bDd2RU9DMi9lcmZNSUhvU3ZRQT09",
     "notes": "",  
     "categories": ["Machine Learning", "Continual Learning"]
@@ -35,7 +35,7 @@
   {
     "presenter": "Tongjun Shi",
     "paper": "Dataset Quantization (ArXiv; Bytedance & NUS)",
-    "date": "2023-09-29",
+    "date": "2023-10-06",
     "day": "Friday",
     "time": "4-5PM (Singapore Time)",
     "slides": "/downloads/talks/Paper/xxx.pdf",
