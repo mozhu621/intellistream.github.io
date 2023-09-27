@@ -81,15 +81,15 @@ by 5G, IoT, etc. The group has the following current research interests:
   }
 </script>
 
-- <span onclick="toggleVisibility('ancillaryTopics')" style="cursor: pointer; color: blue; text-decoration: underline;">Ancillary topics:</span>
-  <div id="ancillaryTopics" style="display:none;">
+<span onclick="toggleVisibility('ancillaryTopics')" style="cursor: pointer; color: blue; text-decoration: underline;">Ancillary topics</span>
+<div id="ancillaryTopics" style="display:none;">
 	- [MQO in CEP] ([ICDE'17](https://doi.org/10.1109/ICDE.2017.166)) 
 	- [CompressDB] ([ICDE'23](https://intellistream.github.io/downloads/papers/CompressStreamDB.pdf))
 	- [Parking Prediction] ([IJCAI'20](https://www.ijcai.org/proceedings/2020/610), [TKDE'21](https://ieeexplore.ieee.org/document/9392279), [VLDBJ'22](https://dl.acm.org/doi/abs/10.1007/s00778-021-00722-0)) 
 	- [APU Systems] ([VLDB'13](https://dl.acm.org/doi/10.14778/2536274.2536319), [VLDB'14](https://dl.acm.org/doi/10.14778/2735496.2735497), [MASCOTS'15](https://ieeexplore.ieee.org/document/7330177), [TPDS'17](https://ieeexplore.ieee.org/document/7501903))
 	- [FPGA Systems] ([TPDS'16](https://ieeexplore.ieee.org/document/7425227)) 
 	- [Cloud Resource Mgmt] ([SC'16](https://ieeexplore.ieee.org/document/7877153))
-  </div>
+</div>
 
 ---
 
