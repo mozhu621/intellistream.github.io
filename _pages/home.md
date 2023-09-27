@@ -70,7 +70,18 @@ by 5G, IoT, etc. The group has the following current research interests:
 	- This is the place that we have <b> exploring actively </b>
 	- Join us in this place if you love to <i> explore the intersection between data management and data science </i> and are <b>good</b> in C++/Python programming and Machine Learning/Data Mining
 
-- <span onclick="toggleVisibility('ancillaryTopics')" style="cursor: pointer; color: blue; text-decoration: underline;">Other Ancillary topics</span>
+<script>
+  function toggleVisibility(id) {
+    var x = document.getElementById(id);
+    if (x.style.display === "none") {
+      x.style.display = "block";
+    } else {
+      x.style.display = "none";
+    }
+  }
+</script>
+
+- <span onclick="toggleVisibility('ancillaryTopics')" style="cursor: pointer; color: blue; text-decoration: underline;">Ancillary topics:</span>
   <div id="ancillaryTopics" style="display:none;">
 	- [MQO in CEP] ([ICDE'17](https://doi.org/10.1109/ICDE.2017.166)) 
 	- [CompressDB] ([ICDE'23](https://intellistream.github.io/downloads/papers/CompressStreamDB.pdf))
