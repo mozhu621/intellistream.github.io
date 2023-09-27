@@ -58,15 +58,15 @@ We are a young and dynamic research group. From a high-level point of view, our 
 We are a <b> system </b> research group. From a high-level point of view, our research goal is to optimize and utilize distributed and parallel stream processing technology to better support existing and emerging big data applications. This is important to improve performance and reduce resource consumption, especially for the network connected world
 by 5G, IoT, etc. The group has the following current research interests:
 
-- Hardware-conscious stream processing algorithms/systems ([ICDE'17](https://doi.org/10.1109/ICDE.2017.119), [SIGMOD Rec'20](https://dl.acm.org/doi/10.1145/3385658.3385662), [SIGMOD'21](https://intellistream.github.io/downloads/papers/rdm044-zhangA.pdf), [USENIX ATC'20](https://dl.acm.org/doi/abs/10.5555/3489146.3489189), [TPDS'21](https://doi.org/10.1109/TPDS.2021.3066407), [ICDE'23](https://intellistream.github.io/downloads/papers/CStream_CR.pdf), [DEBS'23](https://intellistream.github.io/downloads/papers/Zeng-2023-CStream-DEBS_CR.pdf), [ICDE'23](https://intellistream.github.io/downloads/papers/Zhang-2023-OIJ-OpenMLDB_CR.pdf)) 
+- Hardware-conscious stream processing algorithms/systems ([ICDE'17](https://doi.org/10.1109/ICDE.2017.119), [SIGMOD Rec'20](https://dl.acm.org/doi/10.1145/3385658.3385662), [SIGMOD'21](https://intellistream.github.io/downloads/papers/rdm044-zhangA.pdf), [USENIX ATC'20](https://dl.acm.org/doi/abs/10.5555/3489146.3489189), [TPDS'21](https://doi.org/10.1109/TPDS.2021.3066407), [ICDE'23](https://intellistream.github.io/downloads/papers/CStream_CR.pdf), [DEBS'23](https://intellistream.github.io/downloads/papers/Zeng-2023-CStream-DEBS_CR.pdf), [ICDE'23](https://intellistream.github.io/downloads/papers/Zhang-2023-OIJ-OpenMLDB_CR.pdf), [arxiv'23](https://arxiv.org/pdf/2306.10228.pdf)) 
 	- This is the place that we are <b> traditionally strong at </b>
 	- Join us in this place if you love <i> design for computer-architecture-aware algorithm optimizations </i> and are <b>very strong</b> in C/C++ programming/CUDA/OpenCL
 
-- Transactional stream processing frameworks and its applications ([ICDE'20](https://doi.org/10.1109/ICDE48307.2020.00136), [SIGMOD'23](https://intellistream.github.io/downloads/papers/MorphStream_CR.pdf), [VLDBJ'23](https://arxiv.org/abs/2208.09827))
+- Transactional stream processing frameworks and its applications ([ICDE'20](https://doi.org/10.1109/ICDE48307.2020.00136), [SIGMOD'23](https://intellistream.github.io/downloads/papers/MorphStream_CR.pdf), [VLDBJ'23](https://arxiv.org/abs/2208.09827), [arxiv'23](https://arxiv.org/pdf/2307.10732.pdf), [arxiv'23](https://arxiv.org/pdf/2307.08225.pdf), [arxiv'23](https://arxiv.org/pdf/2307.12749.pdf))
 	- This is the place that we are <b> exploring actively </b>
-	- Join us in this place if you love <i> (large-scale, 100K+ LoC) novel database system design </i> and are <b>very good</b> in Java/C++ programming 
+	- Join us in this place if you love <i> (large-scale, 100K+ LoC) novel database system design </i> and are <b>very good</b> in Java/C++ programming
 
-- High Performance online machine learning and data stream mining algorithms/systems ([BigMM'19](https://dl.acm.org/doi/abs/10.5555/3489146.3489189), [SIGMOD'23](https://intellistream.github.io/downloads/papers/Sesame_CR.pdf)) ([Arxiv](https://arxiv.org/abs/2203.12368))
+- High Performance online machine learning and data stream mining algorithms/systems ([BigMM'19](https://dl.acm.org/doi/abs/10.5555/3489146.3489189), [SIGMOD'23](https://intellistream.github.io/downloads/papers/Sesame_CR.pdf), [arxiv'22](https://arxiv.org/abs/2203.12368), [arxiv'23](https://arxiv.org/abs/2309.04799))
 	- This is the place that we have <b> exploring actively </b>
 	- Join us in this place if you love to <i> explore the intersection between data management and data science </i> and are <b>good</b> in C++/Python programming and Machine Learning/Data Mining
 
