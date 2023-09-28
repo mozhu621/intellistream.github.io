@@ -13,7 +13,7 @@ by 5G, IoT, etc. The group has the following current research interests:
 	- This is the place that we are <b> traditionally strong at </b>
 	- Join us in this place if you love <i> design for computer-architecture-aware algorithm optimizations </i> and are <b>very strong</b> in C/C++ programming/CUDA/OpenCL
 
-- <b>[Transactional Stream Processing]</b> Transactional stream processing frameworks and its applications ([ICDE'20](https://doi.org/10.1109/ICDE48307.2020.00136), [SIGMOD'23](https://intellistream.github.io/downloads/papers/MorphStream_CR.pdf), [VLDBJ'23](https://doi.org/10.1007/s00778-023-00814-z), [arxiv'23](https://arxiv.org/pdf/2307.10732.pdf), [arxiv'23](https://arxiv.org/pdf/2307.08225.pdf), [arxiv'23](https://arxiv.org/pdf/2307.12749.pdf))
+- <b>[Transactional Stream Processing]</b> Transactional stream processing frameworks and its applications ([ICDE'20](https://doi.org/10.1109/ICDE48307.2020.00136), [SIGMOD'23](https://intellistream.github.io/downloads/papers/MorphStream_CR.pdf), [VLDBJ'23](https://rdcu.be/dncBQ), [arxiv'23](https://arxiv.org/pdf/2307.10732.pdf), [arxiv'23](https://arxiv.org/pdf/2307.08225.pdf), [arxiv'23](https://arxiv.org/pdf/2307.12749.pdf))
 	- This is the place that we are <b> exploring actively </b>
 	- Join us in this place if you love <i> (large-scale, 100K+ LoC) novel database system design </i> and are <b>very good</b> in Java/C++ programming
 
