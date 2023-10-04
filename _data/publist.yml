@@ -1,11 +1,11 @@
 - title: "A Survey on Transactional Stream Processing"
-  image: xx.png
+  image: TSP_Survey.png
   description: 
   authors: Shuhao Zhang, Juan Soto, Volker Markl
   link:
-    url: https://arxiv.org/abs/2208.09827
-    display: The International Journal on Very Large Data Bases Journal (VLDBJ)
-  highlight: 0
+    url: https://link.springer.com/article/10.1007/s00778-023-00814-z
+    display: The International Journal on Very Large Data Bases Journal (VLDBJ) (2023)
+  highlight: 1
   news2: 
   
 - title: "Data Stream Clustering: An In-depth Empirical Study"
