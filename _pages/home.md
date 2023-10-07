@@ -93,13 +93,9 @@ by 5G, IoT, etc. The group has the following current research interests:
 
 ---
 
-We are grateful for generous fundings from National Research Foundation, Singapore and Infocomm Media Development Authority under its Future Communications Research & Development Programme, Ministry of Education (MOE) of Singapore, Temasek Labs@SUTD, SUTD-ZJU IDEA office, and NTU SRG.
+We are grateful for generous fundings from Ministry of Education (MOE) of Singapore, and NTU SRG.
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/FCP.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/IMDA.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NRF.jpeg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/moe.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SUTD.png" style="width: 110px">  
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NTU.png" style="width: 110px">  
 </figure>
