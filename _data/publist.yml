@@ -1,6 +1,6 @@
 - title: "A Survey on Transactional Stream Processing"
   image: TSP_Survey.png
-  description: 
+  description: Transactional stream processing (TSP) strives to create a cohesive model that merges the advantages of both transactional and stream-oriented guarantees. This survey intends to introduce TSP and present our perspective on its future progression. Our primary goals are twofold: to provide insights into the diverse TSP requirements and methodologies, and to inspire the design and development of groundbreaking TSP systems.
   authors: Shuhao Zhang, Juan Soto, Volker Markl
   link:
     url: https://link.springer.com/article/10.1007/s00778-023-00814-z
