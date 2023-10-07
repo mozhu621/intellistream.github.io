@@ -96,8 +96,6 @@ permalink: /team/
 </div>
 {% endif %}
 
-*We are pleased to announce that we have identified a sufficient number of qualified candidates for our PhD program, commencing in September 2024. These selected applicants have been invited to participate in a visiting student program at our Lab this coming November. Upon successful completion of this program, they are expected to formally join our Lab as PhD students. We would like to express our gratitude to all who have shown interest in our program.* Please be advised that **we have ceased accepting new PhD applications for this intake cycle**, except in the event that any of the already-identified candidates decline our offer.
-
 ## Research Staffs
 {% assign number_printed = 0 %}
 {% for member in site.data.staffs %}
