@@ -11,14 +11,17 @@ by 5G, IoT, etc. The group has the following current research interests:
 
 - <b>[Hardware-conscious Optimization]</b> Hardware-conscious stream processing algorithms/systems ([ICDE'17](https://doi.org/10.1109/ICDE.2017.119), [SIGMOD Rec'20](https://dl.acm.org/doi/10.1145/3385658.3385662), [SIGMOD'21](https://intellistream.github.io/downloads/papers/rdm044-zhangA.pdf), [USENIX ATC'20](https://dl.acm.org/doi/abs/10.5555/3489146.3489189), [TPDS'21](https://doi.org/10.1109/TPDS.2021.3066407), [ICDE'23](https://intellistream.github.io/downloads/papers/CStream_CR.pdf), [DEBS'23](https://intellistream.github.io/downloads/papers/Zeng-2023-CStream-DEBS_CR.pdf), [ICDE'23](https://intellistream.github.io/downloads/papers/Zhang-2023-OIJ-OpenMLDB_CR.pdf), [arxiv'23](https://arxiv.org/pdf/2306.10228.pdf)) 
 	- This is the place that we are <b> traditionally strong at </b>
+	- In particular, we are recently looking at the topic of "hardware-conscious streaming machine learning algorithms"
 	- Join us in this place if you love <i> design for computer-architecture-aware algorithm optimizations </i> and are <b>very strong</b> in C/C++ programming/CUDA/OpenCL
 
 - <b>[Transactional Stream Processing]</b> Transactional stream processing frameworks and its applications ([ICDE'20](https://doi.org/10.1109/ICDE48307.2020.00136), [SIGMOD'23](https://intellistream.github.io/downloads/papers/MorphStream_CR.pdf), [VLDBJ'23](https://rdcu.be/dncBQ), [arxiv'23](https://arxiv.org/pdf/2307.10732.pdf), [arxiv'23](https://arxiv.org/pdf/2307.08225.pdf), [arxiv'23](https://arxiv.org/pdf/2307.12749.pdf))
 	- This is the place that we are <b> exploring actively </b>
+	- In particular, we are recently looking at the topic of "state management in NFV Platforms"
 	- Join us in this place if you love <i> (large-scale, 100K+ LoC) novel database system design </i> and are <b>very good</b> in Java/C++ programming
 
 - <b>[Data-Centric AI]</b> High performance online machine learning, data stream mining, data stream preprocessing algorithms/systems ([BigMM'19](https://dl.acm.org/doi/abs/10.5555/3489146.3489189), [SIGMOD'23](https://intellistream.github.io/downloads/papers/Sesame_CR.pdf), [arxiv'22](https://arxiv.org/abs/2203.12368), [arxiv'23](https://arxiv.org/abs/2309.04799))
 	- This is the place that we have <b> exploring actively </b>
+	- In particular, we are recently looking at the topic of "data management for retrieval-based large language models"
 	- Join us in this place if you love to <i> explore the intersection between data management and data science </i> and are <b>good</b> in C++/Python programming and Machine Learning/Data Mining
 
 <script>
@@ -90,7 +93,7 @@ by 5G, IoT, etc. The group has the following current research interests:
 
 ---
 
-We are grateful for generous fundings from National Research Foundation, Singapore and Infocomm Media Development Authority under its Future Communications Research & Development Programme, Ministry of Education (MOE) of Singapore, Temasek Labs@SUTD, SUTD-ZJU IDEA office, and SUTD Kickstarter Initiative (SKI) office.
+We are grateful for generous fundings from National Research Foundation, Singapore and Infocomm Media Development Authority under its Future Communications Research & Development Programme, Ministry of Education (MOE) of Singapore, Temasek Labs@SUTD, SUTD-ZJU IDEA office, and NTU SRG.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/FCP.png" style="width: 110px">
@@ -98,4 +101,5 @@ We are grateful for generous fundings from National Research Foundation, Singapo
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NRF.jpeg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/moe.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SUTD.png" style="width: 110px">  
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NTU.png" style="width: 110px">  
 </figure>
