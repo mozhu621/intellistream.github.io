@@ -90,12 +90,3 @@ by 5G, IoT, etc. The group has the following current research interests:
     <span class="sr-only">Next</span>
   </a>
 </div>
-
----
-
-We are grateful for generous fundings from Ministry of Education (MOE) of Singapore, and NTU SRG.
-
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/moe.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NTU.png" style="width: 110px">  
-</figure>
