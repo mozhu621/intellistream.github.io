@@ -158,8 +158,6 @@ permalink: /team/
 </div>
 {% endif %}
 
-<i> We have one open position available for postdoc/RA. Interview is on-going.</i>
-
 ## Bachelor, Master and Visiting Students
 {% assign number_printed = 0 %}
 {% for member in site.data.visitors %}
@@ -221,8 +219,6 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
-<i> We have a few positions available for visiting researcher/(stipend) student. Interview is on-going.</i>
 
 ## Frequent Collaborators
 {% assign number_printed = 0 %}
