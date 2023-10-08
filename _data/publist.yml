@@ -1,3 +1,13 @@
+- title: "SentiStream: A Co-Training Framework for Adaptive Online Sentiment Analysis in Evolving Data Streams"
+  image: SentiStream.png
+  description: Online sentiment analysis has emerged as a crucial component in numerous data-driven applications, including social media monitoring, customer feedback analysis, and online reputation management. Despite their importance, current methodologies falter in effectively managing the continuously evolving nature of data streams, largely due to their reliance on substantial, pre-existing labelled datasets. This paper presents sentistream, a novel co-training framework specifically designed for efficient sentiment analysis within dynamic data streams. Comprising unsupervised, semi-supervised, and stream merge modules, sentistream guarantees constant adaptability to evolving data landscapes. This research delves into the continuous adaptation of language models for online sentiment analysis, focusing on real-world applications. Experimental evaluations using data streams derived from three benchmark sentiment analysis datasets confirm that our proposed methodology surpasses existing approaches in terms of both accuracy and computational efficiency.
+  authors: Yuhao Wu*, Karthick Sharma*, Chun Wei Seah, Shuhao Zhang 
+  link:
+    url: https://openreview.net/forum?id=dRlYuG3bj7
+    display: EMNLP (2023, long paper, main track)
+  highlight: 1
+  news2: 
+  
 - title: "A Survey on Transactional Stream Processing"
   image: TSP_Survey.png
   description: Transactional stream processing (TSP) strives to create a cohesive model that merges the advantages of both transactional and stream-oriented guarantees. This survey intends to introduce TSP and present our perspective on its future progression. Our primary goals are twofold: to provide insights into the diverse TSP requirements and methodologies, and to inspire the design and development of groundbreaking TSP systems.
@@ -125,7 +135,7 @@
   link:
     url: https://doi.org/10.1109/ICDE48307.2020.00136
     display: IEEE 36th International Conference on Data Engineering (ICDE) (2020)
-  highlight: 1
+  highlight: 0
   news2:
   
 - title: "NebulaStream: Complex Analytics Beyond the Cloud"

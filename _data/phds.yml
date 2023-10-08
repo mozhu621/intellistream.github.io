@@ -1,20 +1,20 @@
 - name: <a href='https://tonyskyzeng.github.io/'>Xianzhi Zeng</a>
   photo: xianzhi.jpg
-  info: Data Stream Management - Edge-Centric; Since started Sep 2022 (2021-2022 as visiting student) - Published 2x ICDE, 1x DEBS; Submitted 1x TKDE, 1x SIGMOD, 1x SIGMOD Rec.
+  info: [Hardware-conscious Optimization] (Co-Sup with Prof.Wenchao Jiang); Since started Sep 2022 (2021-2022 as visiting student) - Published 2x ICDE, 1x DEBS; Submitted 1x TKDE, 1x SIGMOD, 1x SIGMOD Rec.
   email: xianzhi_xianzhi@mymail.sutd.edu.sg
   number_educ: 1
   education1: B.Sc. in Computer Science, University of Electronic Science and Technology of China (2021)
 
 - name: Zhonghao Yang
   photo: zhonghao.jpg
-  info: Data Stream Management - NetSystem-Centric (Co-Sup with Prof.Binbin Chen); Since started in Jan 2023 - Submitted 1x HotNets, 1x SIGMOD Rec.
+  info: [Transactional Stream Processing] (Co-Sup with Prof.Binbin Chen); Since started in Jan 2023 - Submitted 1x HotNets, 1x SIGMOD Rec.
   email: zhonghao_yang@mymail.sutd.edu.sg
   number_educ: 1
   education1: B.Sc. in Computer Science, Singapore University of Technology and Design (2022)
 
 - name: Yuhao Wu
   photo: yuhao.jpg
-  info: Data-Centric Machine Learning - NLP-Centric; Since started in Sep 2023 (2022-2023 as visiting student) - Submitted 1x EMNLP, 1x SIGMOD Rec.
+  info: [Data (Stream)-Centric AI] (Co-Sup with Prof.Wei Lu); Since started in Sep 2023 (2022-2023 as visiting student) - Published 1x EMNLP; Submitted 1x SIGMOD Rec.
   email: yuhao_wu@mymail.sutd.edu.sg
   number_educ: 1
   education1: B.Sc. in Computer Science, Huazhong Agricultural University (2022)
