@@ -45,13 +45,13 @@
   },
   {
     "presenter": "Yuhao Wu",
-    "paper": "In-Context Retrieval-Augmented Language Models (TACL)",
+    "paper": "In-Context Retrieval-Augmented Language Models (TACL'23)",
     "date": "2023-10-13",
     "day": "Friday",
-    "time": "3:30 - 4:30 PM (Singapore Time)",
+    "time": "3:30-4:30PM (Singapore Time)",
     "slides": "/downloads/talks/Paper/Does_continual_learning_equally_forget_all_parameters.pdf",
     "link": "https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09",
     "notes": "",  
-    "categories": ["Machine Learning", "Continual Learning"]
-  },
+    "categories": ["Machine Learning", "Retrieval Models"]
+  }
 ]
