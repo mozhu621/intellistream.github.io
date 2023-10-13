@@ -42,5 +42,16 @@
     "link": "https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09",
     "notes": "",
     "categories": ["Survey Paper", "Database System", "AI"]
+  },
+  {
+    "presenter": "Xianzhi Zeng",
+    "paper": "Online Product Quantization (TKDE'18)",
+    "date": "2023-10-27",
+    "day": "Friday",
+    "time": "3PM-3:30PM (Singapore Time)",
+    "slides": "/downloads/talks/Paper/xxx.pdf",
+    "link": "https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09",
+    "notes": "",
+    "categories": ["Online Indexing Model", "Product Quantization", "Nearest Neighbour Search"]
   }
 ]
