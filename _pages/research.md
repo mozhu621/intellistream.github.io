@@ -11,7 +11,7 @@ permalink: /research/
 	**Database Management** • **Networking Systems** • **Machine Learning** • **Data Mining** 
 	
 <p align="center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/research/Vision.png" style="width: 100%" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research/Vision.png" style="width: 50%" />
 </p>
 
 > [Our recommended reading list](https://intellistream.github.io/StreamProcessing_ReadingList/)
