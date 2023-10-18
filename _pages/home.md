@@ -19,7 +19,7 @@ by 5G, IoT, etc. The group has the following current research interests:
 	- In particular, we are recently looking at the topic of "state management in NFV Platforms"
 	- Join us in this place if you love <i> (large-scale, 100K+ LoC) novel database system design </i> and are <b>very good</b> in Java/C++ programming
 
-- <b>[Data (Stream)-Centric AI]</b> High performance online machine learning, data stream mining, data stream preprocessing algorithms/systems ([BigMM'19](https://dl.acm.org/doi/abs/10.5555/3489146.3489189), [SIGMOD'23](https://intellistream.github.io/downloads/papers/Sesame_CR.pdf), [EMNLP'23](https://openreview.net/forum?id=dRlYuG3bj7), [arxiv'22](https://arxiv.org/abs/2203.12368), [arxiv'23](https://arxiv.org/abs/2309.04799))
+- <b>[Data (Stream)-Centric AI]</b> High performance online machine learning, data stream mining, data stream preprocessing algorithms/systems ([BigMM'19](https://dl.acm.org/doi/abs/10.5555/3489146.3489189), [SIGMOD'23](https://dl.acm.org/doi/abs/10.1145/3589307), [EMNLP'23](https://intellistream.github.io/downloads/papers/sentistream_EMNLP.pdf), [arxiv'22](https://arxiv.org/abs/2203.12368), [arxiv'23](https://arxiv.org/abs/2309.04799))
 	- This is the place that we are <b> exploring actively </b>
 	- In particular, we are recently looking at the topic of "data management for retrieval-based large language models"
 	- Join us in this place if you love to <i> explore the intersection between data management and data science </i> and are <b>good</b> in C++/Python programming and Machine Learning/Data Mining
