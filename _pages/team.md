@@ -158,7 +158,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Bachelor, Master and Visiting Students
+## Undergraduate Visiting Students
 {% assign number_printed = 0 %}
 {% for member in site.data.visitors %}
 

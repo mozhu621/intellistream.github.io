@@ -1,27 +1,4 @@
-- name: Ruopeng Geng
-  photo: ruopeng.jpg
-  info: Visiting PhD Student
-  email:
-  number_educ: 2
-  education1: B.Sc. in Computer Science, Zhejiang University
-  education2: PhD. in Computer Science, Zhejiang University expected completion in 2024
-
-- name: <a href='https://yancanmao.github.io/'>Yancan Mao</a>
-  photo: user.png
-  info: Visiting PhD Student (Onsite & Remote)
-  email:
-  number_educ: 2
-  education1: B.Sc. in Computer Science, University of Electronic Science and Technology of China
-  education2: PhD. in Computer Science, National University of Singapore expected completion in 2025
-
-- name: Jianjun Zhao
-  photo: user.png
-  info: Visiting PhD Student (Remote)
-  email:
-  number_educ: 1
-  education1: PhD. in Computer Science, Huazhong University of Science and Technology expected completion in 2025
-  
-- name: <a href='github.com/Kailian-Jacy'>Zian Xu</a>
+ - name: <a href='github.com/Kailian-Jacy'>Zian Xu</a>
   photo: user.png
   info: Visiting Student (Onsite & Remote)
   email:
