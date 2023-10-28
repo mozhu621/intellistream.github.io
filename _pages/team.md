@@ -13,7 +13,7 @@ permalink: /team/
 <div>
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/me3.jpg" class="img-responsive" width="10%" style="float: left" />
   <h4><a href='https://shuhaozhangtony.github.io/'>Shuhao Zhang</a></h4>  
-  <i>Assistant Professor, Singapore University of Technology and Design Jan 2021 - <br>email: [shuhao_zhang@sutd.edu.sg](mailto:shuhao_zhang@sutd.edu.sg)<br>
+  <i>Assistant Professor, Nanyang Technological University Nov 2023 - <br>email: [shuhao.zhang@ntu.edu.sg](mailto:shuhao.zhang@ntu.edu.sg)<br>
     A full CV is available [here]({{ site.url }}{{ site.baseurl }}/downloads/cv.pdf). </i>
   <ul style="overflow: hidden">
   <li> BSc Computer Engineering, Nanyang Technological University </li>
@@ -230,27 +230,45 @@ permalink: /team/
     </ol>
 
     <!-- Items -->
-    <div class="carousel-inner" markdown="0">
-
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/outreach/TeamBBQ2023Nov4.jpg" alt="Slide 1" style="height: 400px; width: 100%; object-fit: contain;" />
+<div class="carousel-inner" markdown="0">
+    <div class="item active">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/outreach/TeamBBQ2023Nov4.jpg" alt="Slide 1" style="height: 400px; width: 100%; object-fit: contain;" />
+        <div class="carousel-caption">
+            <p>Team BBQ at East Coast (2023 November)</p>
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/outreach/TeamBBQ2023Nov3.jpg" alt="Slide 2" style="height: 400px; width: 100%; object-fit: contain;" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/outreach/TeamBBQ2023Nov2.jpg" alt="Slide 3" style="height: 400px; width: 100%; object-fit: contain;" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/outreach/TeamBBQ2023Nov1.jpg" alt="Slide 4" style="height: 400px; width: 100%; object-fit: contain;" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/outreach/Xianzhi_ICDE2023.jpg" alt="Slide 5" style="height: 400px; width: 100%; object-fit: contain;" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/outreach/Shuhao_RUC2023.jpg" alt="Slide 6" style="height: 400px; width: 100%; object-fit: contain;" />
-        </div>		
     </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/outreach/TeamBBQ2023Nov3.jpg" alt="Slide 2" style="height: 400px; width: 100%; object-fit: contain;" />
+        <div class="carousel-caption">
+            <p>Team BBQ at East Coast (2023 November)</p>
+        </div>
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/outreach/TeamBBQ2023Nov2.jpg" alt="Slide 3" style="height: 400px; width: 100%; object-fit: contain;" />
+        <div class="carousel-caption">
+            <p>Team BBQ at East Coast (2023 November)</p>
+        </div>
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/outreach/TeamBBQ2023Nov1.jpg" alt="Slide 4" style="height: 400px; width: 100%; object-fit: contain;" />
+        <div class="carousel-caption">
+            <p>Team BBQ at East Coast (2023 November)</p>
+        </div>
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/outreach/Xianzhi_ICDE2023.jpg" alt="Slide 5" style="height: 400px; width: 100%; object-fit: contain;" />
+        <div class="carousel-caption">
+            <p>Xianzhi Zeng presenting at ICDE 2023 USA</p>
+        </div>
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/outreach/Shuhao_RUC2023.jpg" alt="Slide 6" style="height: 400px; width: 100%; object-fit: contain;" />
+        <div class="carousel-caption">
+            <p>Shuhao Zhang presenting at Renmin University of China, Sep 2023</p>
+        </div>
+    </div>		
+</div>
+
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
@@ -272,7 +290,7 @@ permalink: /team/
   }
 </script>
 
-<h2 onclick="toggleVisibility('frequent-collaborators')">Frequent Collaborators</h2>
+<h2 onclick="toggleVisibility('frequent-collaborators')" style="text-decoration: underline; cursor: pointer;">Collaborators in Last 3 Years</h2>
 <div id="frequent-collaborators" style="display:none;">
 {% assign number_printed = 0 %}
 {% for member in site.data.collaborators %}
@@ -304,7 +322,7 @@ permalink: /team/
 {% endif %}
 </div>
 
-<h2 onclick="toggleVisibility('former-members')">Former Members</h2>
+<h2 onclick="toggleVisibility('former-members')" style="text-decoration: underline; cursor: pointer;">Former Members</h2>
 <div id="former-members" style="display:none;">
 
 ### Staffs and PhD students
