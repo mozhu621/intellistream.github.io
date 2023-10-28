@@ -5,6 +5,7 @@ excerpt: "IntelliStream Research Group"
 sitemap: false
 permalink: /
 ---
+ <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/team.jpg" width="50%" style="float: center" />
 
 From a high-level point of view, our research goal is to optimize and utilize distributed and parallel (stream) processing technology to better support existing and emerging big data applications. This is important to improve performance and reduce resource consumption, especially for the network connected world
 by 5G, IoT, etc. The group has the following current research interests:
