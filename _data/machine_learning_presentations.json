@@ -53,5 +53,17 @@
     "link": "https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09",
     "notes": "",  
     "categories": ["Machine Learning", "Retrieval Models"]
-  }
+  },
+  {
+    "presenter": "Tongjun Shi",
+    "paper": "Precise Zero-Shot Dense Retrieval without Relevance Labels（ACL’23)",
+    "date": "2023-11-03",
+    "day": "Friday",
+    "time": "3:30PM-4PM (Singapore Time)",
+    "slides": "/downloads/talks/Paper/DQ.pptx",
+    "link": "https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09",
+    "notes": "",  
+    "categories": ["Machine Learning", "Retrieval Models"]
+  },
+  
 ]
