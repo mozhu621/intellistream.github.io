@@ -3,7 +3,7 @@
   description: Online sentiment analysis has emerged as a crucial component in numerous data-driven applications, including social media monitoring, customer feedback analysis, and online reputation management. This paper presents sentistream, a novel co-training framework specifically designed for efficient sentiment analysis within dynamic data streams.
   authors: Yuhao Wu*, Karthick Sharma*, Chun Wei Seah, Shuhao Zhang 
   link:
-    url: https://openreview.net/forum?id=dRlYuG3bj7
+    url: https://intellistream.github.io/downloads/papers/sentistream_EMNLP.pdf
     display: EMNLP (2023, long paper, main track)
   highlight: 1
   news2: 

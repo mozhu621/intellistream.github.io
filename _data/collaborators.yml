@@ -1,39 +1,51 @@
-- name: Assoc Prof. Binbin Chen 
-  info: Co-PI (SUTD)
-  email: 
-
-- name: Assoc Prof. Wei Lu
-  info: Co-PI (SUTD)
-  email: 
-  
-- name: Prof. Volker Markl 
-  info: Frequent co-author (TU Berlin)
+- name: <a href="https://www.tu.berlin/en/dima/about-us/prof-dr-volker-markl">Prof. Volker Markl</a>
+  info: Postdoc Advisor (TU Berlin)
   email:
 
+- name: <a href="https://www.comp.nus.edu.sg/~hebs/">Prof. Bingsheng He</a>
+  info: PhD Advisor (NUS)
+  email:
+  
 - name: Juan Soto
-  info: Frequent co-author (TU Berlin)
+  info: co-author (TU Berlin)
   email: 
   
 - name: Prof. Haikun Liu
-  info: Frequent co-author (HUST)
+  info: co-author (Huazhong University of Science and Technology)
   email: 
 
 - name: Prof. Xuanhua Shi
-  info: Frequent co-author (HUST)
+  info: co-author (Huazhong University of Science and Technology)
   email: 
 
-- name: Prof. Li Lu
-  info: Frequent co-author (Sichuan University)
+- name: <a href="https://mypage.zju.edu.cn/en/zhangdx">Prof. Dongxiang Zhang</a>
+  info: co-author (Zhejiang University)
   email:
-  
-- name: Assoc Prof. Feng Zhang
-  info: Frequent co-author (RUC)
+   
+- name: <a href="https://fengzhangcs.github.io/">Prof. Feng Zhang</a>
+  info: co-author (Renmin University of China)
   email: 
 
 - name: Dr. Mian Lu
-  info: Frequent co-author (Director at 4Paradigm)
+  info: co-author (Director at 4Paradigm)
   email: 
 
 - name: Dr. Hao Zhang
-  info: Frequent co-author (Senior System Architect at 4Paradigm)
+  info: co-author (Senior System Architect at 4Paradigm)
   email: 
+
+- name: Prof. Li Lu
+  info: co-author (Sichuan University)
+  email:
+ 
+- name: <a href="https://istd.sutd.edu.sg/people/faculty/binbin-chen/">Assoc Prof. Binbin Chen</a> 
+  info: Co-PI (SUTD)
+  email: 
+
+- name: <a href="https://statnlp.com/people/luwei/">Assoc Prof. Wei Lu</a> 
+  info: Co-PI (SUTD)
+  email: 
+
+- name: <a href="https://yannicnoller.github.io/">Asst Prof. Yannic Noller</a> 
+  info: Co-PI (SUTD)
+  email:
