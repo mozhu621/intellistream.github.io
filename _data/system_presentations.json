@@ -53,5 +53,16 @@
     "link": "https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09",
     "notes": "",
     "categories": ["Online Indexing Model", "Product Quantization", "Nearest Neighbour Search"]
+  },
+  {
+    "presenter": "Zhonghao Yang",
+    "paper": "Transaction Scheduling: From Conflicts to Runtime Conflicts (SIGMOD'23)",
+    "date": "2023-11-10",
+    "day": "Friday",
+    "time": "3PM-3:30PM (Singapore Time)",
+    "slides": "",
+    "link": "https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09",
+    "notes": "",
+    "categories": ["Online Transaction Processing System", "Transaction Scheduling", "Multicore Optimization"]
   }
 ]
