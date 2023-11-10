@@ -12,8 +12,6 @@ permalink: /presentations/
 
 - `sig-ml` for **Machine Learning and Related Fields**: This group is intended for members with a focus on Machine Learning, Data Mining, Deep Learning, Computer Vision, Natural Language Processing, Algorithms, or Theoretical Computer Science.
 
-For active participation, please join the corresponding [Slack channels](https://join.slack.com/t/intellistream/shared_invite/zt-2339uj090-8ci_aqHKva5jFInd2MpZsQ).
-
 ---
 
 <script>
