@@ -60,7 +60,7 @@
     "date": "2023-11-10",
     "day": "Friday",
     "time": "3PM-3:30PM (Singapore Time)",
-    "slides": "",
+    "slides": "/downloads/talks/Paper/TxnScheduling.pptx",
     "link": "https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09",
     "notes": "",
     "categories": ["Online Transaction Processing System", "Transaction Scheduling", "Multicore Optimization"]
