@@ -7,8 +7,7 @@ permalink: /
 ---
  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/team.jpg" width="50%" style="float: center" />
 
-From a high-level point of view, our research goal is to optimize and utilize distributed and parallel (stream) processing technology to better support existing and emerging big data applications. This is important to improve performance and reduce resource consumption, especially for the network connected world
-by 5G, IoT, etc. The group has the following current research interests:
+From a high-level point of view, our research goal is to optimize and utilize distributed and parallel (stream) processing technology to better support existing and emerging big data applications. This is important to improve performance and reduce resource consumption, especially for the network connected world by 5G, IoT, etc. The group has the following current research interests:
 
 - <b>[Hardware-Conscious Data (Stream) Processing]</b> Multicore NUMA, GPU accelerated stream query processing, AMP-aware data stream compression, etc. ([ICDE'17](https://doi.org/10.1109/ICDE.2017.119), [SIGMOD'19](https://dl.acm.org/doi/10.1145/3299869.3300067), [SIGMOD Rec'20](https://dl.acm.org/doi/10.1145/3385658.3385662), [USENIX ATC'20](https://dl.acm.org/doi/abs/10.5555/3489146.3489189), [TPDS'21](https://doi.org/10.1109/TPDS.2021.3066407), [SIGMOD'21](https://dl.acm.org/doi/10.1145/3448016.3452793), [ICDE'23<sup>a</sup>](https://ieeexplore.ieee.org/document/10184565), [ICDE'23<sup>b</sup>](https://ieeexplore.ieee.org/document/10184703), [ICDE'23<sup>c</sup>](https://ieeexplore.ieee.org/document/10184828), [DEBS'23](https://dl.acm.org/doi/abs/10.1145/3583678.3596885), [arxiv'23](https://arxiv.org/pdf/2306.10228.pdf)) 
 	- This is the place that we are <b> traditionally strong at </b>

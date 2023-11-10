@@ -39,3 +39,19 @@
   email:
   number_educ: 1
   education1: B.Sc. in Computer Science, Huazhong University of Science and Technology (2022)
+
+- name: Ruopeng Geng
+  photo: ruopeng.jpg
+  info: Visiting PhD Student
+  email: ruopeng_geng@sutd.edu.sg
+  number_educ: 2
+  education1: B.Sc. in Computer Science, Zhejiang University
+  education2: PhD. in Computer Science, Zhejiang University
+
+- name: <a href='https://yancanmao.github.io/'>Yancan Mao</a>
+  photo: user.png
+  info: Visiting PhD Student (Remote)
+  email: maoyancan@u.nus.edu
+  number_educ: 2
+  education1: B.Sc. in Computer Science, University of Electronic Science and Technology of China
+  education2: PhD. in Computer Science, National University of Singapore
