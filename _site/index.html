@@ -84,9 +84,57 @@
 
     <div class="container-fluid">
       <div class="row">
-          <div id="homeid" class="col-sm-8">
-        <h1>Welcome to the IntelliStream Research Group</h1>
-	<p>We are a young and dynamic research group. From a high-level point of view, our research goal is to optimize and utilize distributed and parallel stream processing technology to better support existing and emerging big data applications. This is important to improve performance and reduce resource consumption, especially for the network connected world by 5G, IoT, etc. Our work spanning around database management, networking systems, machine learning, and data mining.</p>
+          <div id="homeid" class="col-sm-8">       
+	<p><img src="http://localhost:4000/images/teampic/team.jpg" width="50%" style="float: center" /></p>
+
+<p>From a high-level point of view, our research goal is to optimize and utilize distributed and parallel (stream) processing technology to better support existing and emerging big data applications. This is important to improve performance and reduce resource consumption, especially for the network connected world by 5G, IoT, etc. The group has the following current research interests:</p>
+
+<ul>
+  <li><b>[Hardware-Conscious Data (Stream) Processing]</b> Multicore NUMA, GPU accelerated stream query processing, AMP-aware data stream compression, etc. (<a href="https://doi.org/10.1109/ICDE.2017.119">ICDE’17</a>, <a href="https://dl.acm.org/doi/10.1145/3299869.3300067">SIGMOD’19</a>, <a href="https://dl.acm.org/doi/10.1145/3385658.3385662">SIGMOD Rec’20</a>, <a href="https://dl.acm.org/doi/abs/10.5555/3489146.3489189">USENIX ATC’20</a>, <a href="https://doi.org/10.1109/TPDS.2021.3066407">TPDS’21</a>, <a href="https://dl.acm.org/doi/10.1145/3448016.3452793">SIGMOD’21</a>, <a href="https://ieeexplore.ieee.org/document/10184565">ICDE’23<sup>a</sup></a>, <a href="https://ieeexplore.ieee.org/document/10184703">ICDE’23<sup>b</sup></a>, <a href="https://ieeexplore.ieee.org/document/10184828">ICDE’23<sup>c</sup></a>, <a href="https://dl.acm.org/doi/abs/10.1145/3583678.3596885">DEBS’23</a>, <a href="https://arxiv.org/pdf/2306.10228.pdf">arxiv’23</a>)
+    <ul>
+      <li>This is the place that we are <b> traditionally strong at </b></li>
+      <li>In particular, we are recently looking at the topic of “hardware-conscious streaming machine learning algorithms”</li>
+      <li>Join us in this place if you love <i> design for computer-architecture-aware algorithm optimizations </i> and are <b>very strong</b> in C/C++ programming/CUDA/OpenCL</li>
+    </ul>
+  </li>
+  <li><b>[Transactional Stream Processing]</b> Transactional stream processing frameworks and its applications in LLM, NFV etc. (<a href="https://doi.org/10.1109/ICDE48307.2020.00136">ICDE’20</a>, <a href="https://intellistream.github.io/downloads/papers/MorphStream_CR.pdf">SIGMOD’23</a>, <a href="https://rdcu.be/dncBQ">VLDBJ’23</a>, <a href="https://arxiv.org/pdf/2307.10732.pdf">arxiv’23<sup>a</sup></a>, <a href="https://arxiv.org/pdf/2307.08225.pdf">arxiv’23<sup>b</sup></a>, <a href="https://arxiv.org/pdf/2307.12749.pdf">arxiv’23<sup>c</sup></a>)
+    <ul>
+      <li>This is the place that we are <b> exploring actively </b></li>
+      <li>In particular, we are recently looking at the topic of “state management in NFV Platforms”</li>
+      <li>Join us in this place if you love <i> (large-scale, 100K+ LoC) novel database system design </i> and are <b>very good</b> in Java/C++ programming</li>
+    </ul>
+  </li>
+  <li><b>[Data (Stream)-Centric AI]</b> High performance online machine learning, data stream mining, data stream preprocessing algorithms/systems (<a href="https://dl.acm.org/doi/abs/10.5555/3489146.3489189">BigMM’19</a>, <a href="https://dl.acm.org/doi/abs/10.1145/3589307">SIGMOD’23</a>, <a href="https://intellistream.github.io/downloads/papers/sentistream_EMNLP.pdf">EMNLP’23</a>, <a href="https://arxiv.org/abs/2203.12368">arxiv’22</a>, <a href="https://arxiv.org/abs/2309.04799">arxiv’23</a>)
+    <ul>
+      <li>This is the place that we are <b> exploring actively </b></li>
+      <li>In particular, we are recently looking at the topic of “data management for retrieval-based large language models”</li>
+      <li>Join us in this place if you love to <i> explore the intersection between data management and data science </i> and are <b>good</b> in C++/Python programming and Machine Learning/Data Mining</li>
+    </ul>
+  </li>
+</ul>
+
+<script>
+  function toggleVisibility(id) {
+    var x = document.getElementById(id);
+    if (x.style.display === "none") {
+      x.style.display = "block";
+    } else {
+      x.style.display = "none";
+    }
+  }
+</script>
+
+<p><span onclick="toggleVisibility('ancillaryTopics')" style="cursor: pointer; color: blue; text-decoration: underline;">Ancillary topics</span></p>
+<div id="ancillaryTopics" style="display:none;">
+  <ul>
+    <li><a href="https://doi.org/10.1109/ICDE.2017.166">MQO in CEP</a> (ICDE'17)</li>
+    <li><a href="https://intellistream.github.io/downloads/papers/CompressStreamDB.pdf">CompressDB</a> (ICDE'23)</li>
+    <li><a href="https://www.ijcai.org/proceedings/2020/610">Parking Prediction</a> (IJCAI'20, TKDE'21, VLDBJ'22)</li>
+    <li><a href="https://dl.acm.org/doi/10.14778/2536274.2536319">APU Systems</a> (VLDB'13, VLDB'14, MASCOTS'15, TPDS'17)</li>
+    <li><a href="https://ieeexplore.ieee.org/document/7425227">FPGA Systems</a> (TPDS'16)</li>
+    <li><a href="https://ieeexplore.ieee.org/document/7877153">Cloud Resource Mgmt</a> (SC'16)</li>
+  </ul>
+</div>
 
 <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover">
     <!-- Menu -->
@@ -132,16 +180,6 @@
   </a>
 </div>
 
-<p>We are grateful for generous fundings from National Research Foundation, Singapore and Infocomm Media Development Authority under its Future Communications Research &amp; Development Programme, Ministry of Education (MOE) of Singapore, Temasek Labs@SUTD, SUTD-ZJU IDEA office, and SUTD Kickstarter Initiative (SKI) office.</p>
-
-<figure class="fourth">
-  <p><img src="http://localhost:4000/images/logopic/FCP.png" style="width: 110px" />
-  <img src="http://localhost:4000/images/logopic/IMDA.png" style="width: 110px" />
-  <img src="http://localhost:4000/images/logopic/NRF.jpeg" style="width: 110px" />
-  <img src="http://localhost:4000/images/logopic/moe.jpg" style="width: 110px" />
-  <img src="http://localhost:4000/images/logopic/SUTD.png" style="width: 110px" /></p>
-</figure>
-
   </div>
   <div id="newsid" class="col-sm-4" >
 	<div class="well">
@@ -168,6 +206,14 @@
     }
   </script>
 
+  
+    <p>
+      8/Oct/2023 <br>
+      <em >
+        Our paper <i>SentiStream: A Co-Training Framework for Adaptive Online Sentiment Analysis in Evolving Data Streams</i> is accepted to EMNLP 2023 (Long Paper, Main Track)!
+      </em>
+      
+    </p>
   
     <p>
       14/Sep/2023 <br>
@@ -221,14 +267,6 @@
       
     </p>
   
-    <p>
-      15/Aug/2023 <br>
-      <em >
-        Shuhao Zhang will join School of Computer Science and Engineering (SCSE) at Nanyang Technological University (NTU) as an assistant professor in November 2023.
-      </em>
-      
-    </p>
-  
 
   <h4><a href="http://localhost:4000/allnews.html">... see all News</a></h4>
 </div>
@@ -244,19 +282,19 @@
 	  <div class="row">
 		<div class="col-sm-4">
 			
-		  <p>&copy IntelliStream Research Group. Adapted from Allan Lab. This site is made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="http://localhost:4000/aboutwebsite.html">copy and  modify it for your own research group.</a> Icons made by <a href="https://www.flaticon.com/authors/dave-gandy" title="Dave Gandy">Dave Gandy</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com.</a></p>
+		  <p>&copy IntelliStream Research Group. </p>
 
-              <p>We are part of the <a href="https://istd.sutd.edu.sg/">ISTD Pillar</a> at <a href="https://sutd.edu.sg/">the Singapore University of Technology and Design</a>.</p>
+              <!-- <p>We are part of the <a href="https://istd.sutd.edu.sg/">ISTD Pillar</a> at <a href="https://sutd.edu.sg/">the Singapore University of Technology and Design</a>.</p> -->
                     
 		</div>
-		<div class="col-sm-4">	
+<!-- 		<div class="col-sm-4">	
 		 <p> Fundings: <br />
 		- Two Research Grants (FCP-SUTD-RG-2022-005, FCP-SUTD-RG-2022-006) from National Research Foundation, Singapore and Infocomm Media Development Authority under its Future Communications Research & Development Programme <br /> 
 		- One MOE Tier 2 Grant (MOE-T2EP20122-0010) from Ministry of Education (MOE) of Singapore <br />
 		- Multiple Research Grants from Temasek Labs@SUTD, SUTD-ZJU IDEA office and SUTD Kickstarter Initiative (SKI) office. </p>
-		</div>
+		</div> -->
 		
-		<div class="col-sm-4">
+<!-- 		<div class="col-sm-4">
 		  Contact:<br />
 		  ISTD Pillar, SUTD<br />
 		  8 Somapah Rd, <br />
@@ -266,7 +304,7 @@
 			 <a href="https://twitter.com/shuhao_tony"><img src="http://localhost:4000/images/footer/twitter.png" style="width: 20px" ></a>
 			<a href="https://github.com/intellistream/"> <img src="http://localhost:4000/images/footer/github.png" style="width: 20px" ></a>
 			<a href="https://scholar.google.com/citations?user=Xwn7lCEAAAAJ"> <img src="http://localhost:4000/images/footer/scholar.png" style="width: 20px" ></a></br>
-		</div>
+		</div> -->
 	  </div>
 	</div>
   </div>

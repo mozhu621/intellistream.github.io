@@ -91,26 +91,12 @@
         <div id="textid" class="col-sm-12">
   <h1 id="meetings-and-presentations">Meetings and Presentations</h1>
 
-<ul>
-  <li>
-    <p><code class="language-plaintext highlighter-rouge">sig-sys</code> for <strong>Systems Research</strong>: This group is tailored for individuals whose research or scholarly interests predominantly align with fields such as Database Systems, Operating Systems, Networking, Computer Architecture, Mobile Computing, High-Performance Computing, or Human-Computer Interaction.</p>
-  </li>
-  <li>
-    <p><code class="language-plaintext highlighter-rouge">sig-ml</code> for <strong>Machine Learning and Related Fields</strong>: This group is intended for members with a focus on Machine Learning, Data Mining, Deep Learning, Computer Vision, Natural Language Processing, Algorithms, or Theoretical Computer Science.</p>
-  </li>
-</ul>
-
-<p>For active participation, please join the corresponding <a href="https://join.slack.com/t/intellistream/shared_invite/zt-2339uj090-8ci_aqHKva5jFInd2MpZsQ">Slack channels</a>.</p>
-
 <hr />
 
 <script>
   // Embed the JSON data using Liquid for all categories
-  const system_presentations = [{"presenter":"Xianzhi Zeng","paper":"Milvus: A Purpose-Built Vector Data Management System (SIGMOD'21)","date":"2023-09-15","day":"Friday","time":"3-4PM (Singapore Time)","slides":"/downloads/talks/Paper/xxx.pdf","link":"https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09","notes":"","categories":["System","Machine Learning"]},{"presenter":"Zhonghao Yang","paper":"Dirigo: Self-scaling Stateful Actors For Serverless Real-time Data Processing","date":"2023-09-22","day":"Friday","time":"3-4PM (Singapore Time)","slides":"/downloads/talks/Paper/xxx.pdf","link":"https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09","notes":"","categories":["System","Distributed Stream Processing"]}];
-  const machine_learning_presentations = [{"presenter":"Shuhao Zhang","paper":"Data Stream Clustering: An In-depth Empirical Study","date":"2023-09-16","day":"Saturday","time":"4-5PM (Singapore Time)","slides":"/downloads/talks/Paper/xxx.pdf","link":"","notes":"Online Presentation at Huazhong University of Science and Techonology. ZOOM MEETING ID: 402 098 8801 PASSWORD: 103709","categories":["Data Mining"]},{"presenter":"Shuhao Zhang","paper":"Data Stream Clustering: An In-depth Empirical Study","date":"2023-09-20","day":"Friday","time":"10-11AM (Singapore Time)","slides":"/downloads/talks/Paper/xxx.pdf","link":"","notes":"Onsite Presentation at Renmin University of China.","categories":["Data Mining"]},{"presenter":"Yuhao Wu","paper":"Does Continual Learning Equally Forget All Parameters? (ICML'23)","date":"2023-09-22","day":"Friday","time":"4-5PM (Singapore Time)","slides":"/downloads/talks/Paper/xxx.pdf","link":"https://us06web.zoom.us/j/89308337072?pwd=Q3N4bDd2RU9DMi9lcmZNSUhvU3ZRQT09","notes":"","categories":["Machine Learning","Continual Learning"]},{"presenter":"Tongjun Shi","paper":"Dataset Quantization (ArXiv; Bytedance & NUS)","date":"2023-09-29","day":"Friday","time":"4-5PM (Singapore Time)","slides":"/downloads/talks/Paper/xxx.pdf","link":"https://us06web.zoom.us/j/89308337072?pwd=Q3N4bDd2RU9DMi9lcmZNSUhvU3ZRQT09","notes":"","categories":["Machine Learning","Dataset Distillation"]}];
+  const presentations = [{"presenter":"Xianzhi Zeng","paper":"Milvus: A Purpose-Built Vector Data Management System (SIGMOD'21)","date":"2023-09-15","day":"Friday","time":"3-4PM (Singapore Time)","slides":"/downloads/talks/Paper/Milvus.pdf","link":"https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09","notes":"","categories":["System","Machine Learning"]},{"presenter":"Zhonghao Yang","paper":"Dirigo: Self-scaling Stateful Actors For Serverless Real-time Data Processing","date":"2023-09-22","day":"Friday","time":"3-4PM (Singapore Time)","slides":"/downloads/talks/Paper/Dirigo_slides.pdf","link":"https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09","notes":"","categories":["System","Distributed Stream Processing"]},{"presenter":"Ruopeng Geng","paper":"LemonNFV: Consolidating Heterogeneous Network Functions at Line Speed","date":"2023-10-06","day":"Friday","time":"3-4PM (Singapore Time)","slides":"/downloads/talks/Paper/LemonNFV.pdf","link":"https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09","notes":"","categories":["System","Network Function Virtualization"]},{"presenter":"Haolan He","paper":"Database Meets Artificial Intelligence: A Survey","date":"2023-10-20","day":"Friday","time":"3PM-3:30PM (Singapore Time)","slides":"/downloads/talks/Paper/Database_Meets_Artificial_Intelligence_A_Survey.pptx","link":"https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09","notes":"","categories":["Survey Paper","Database System","AI"]},{"presenter":"Xianzhi Zeng","paper":"Online Product Quantization (TKDE'18)","date":"2023-11-03","day":"Friday","time":"3PM-3:30PM (Singapore Time)","slides":"/downloads/talks/Paper/Online_PQ_TKDE.pptx","link":"https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09","notes":"","categories":["Online Indexing Model","Product Quantization","Nearest Neighbour Search"]},{"presenter":"Zhonghao Yang","paper":"Transaction Scheduling: From Conflicts to Runtime Conflicts (SIGMOD'23)","date":"2023-11-10","day":"Friday","time":"3PM-3:30PM (Singapore Time)","slides":"","link":"https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09","notes":"","categories":["Online Transaction Processing System","Transaction Scheduling","Multicore Optimization"]},{"presenter":"Shuhao Zhang","paper":"Data Stream Clustering: An In-depth Empirical Study","date":"2023-09-16","day":"Saturday","time":"4PM-5PM (Singapore Time)","slides":"/downloads/talks/Paper/Sesame_RUC23.pdf","link":"","notes":"Online Presentation at Huazhong University of Science and Techonology. ZOOM MEETING ID: 402 098 8801 PASSWORD: 103709","categories":["Data Mining"]},{"presenter":"Shuhao Zhang","paper":"Data Stream Clustering: An In-depth Empirical Study","date":"2023-09-20","day":"Friday","time":"10AM-11AM (Singapore Time)","slides":"/downloads/talks/Paper/Sesame_RUC23.pdf","link":"","notes":"Onsite Presentation at Renmin University of China.","categories":["Data Mining"]},{"presenter":"Yuhao Wu","paper":"Does Continual Learning Equally Forget All Parameters? (ICML'23)","date":"2023-09-22","day":"Friday","time":"4PM-5PM (Singapore Time)","slides":"/downloads/talks/Paper/Does_continual_learning_equally_forget_all_parameters.pdf","link":"https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09","notes":"","categories":["Machine Learning","Continual Learning"]},{"presenter":"Tongjun Shi","paper":"Dataset Quantization (ArXiv; Bytedance & NUS)","date":"2023-10-06","day":"Friday","time":"4PM-5PM (Singapore Time)","slides":"/downloads/talks/Paper/DQ.pptx","link":"https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09","notes":"","categories":["Machine Learning","Dataset Distillation"]},{"presenter":"Yuhao Wu","paper":"In-Context Retrieval-Augmented Language Models (TACL'23)","date":"2023-10-20","day":"Friday","time":"3:30PM-4PM (Singapore Time)","slides":"/downloads/talks/Paper/Does_continual_learning_equally_forget_all_parameters.pdf","link":"https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09","notes":"","categories":["Machine Learning","Retrieval Models"]},{"presenter":"Tongjun Shi","paper":"Precise Zero-Shot Dense Retrieval without Relevance Labels（ACL’23)","date":"2023-11-03","day":"Friday","time":"3:30PM-4PM (Singapore Time)","slides":"/downloads/talks/Paper/DQ.pptx","link":"https://us06web.zoom.us/j/84605260433?pwd=UmV0YlRMU21uUytQSUxkZzZXNHh3dz09","notes":"","categories":["Machine Learning","Retrieval Models"]}];
 </script>
-
-<h2 id="systems-dbosnetarchmobihpchci">Systems (DB/OS/Net/Arch/Mobi/HPC/HCI)</h2>
 
 <div class="presentation-section">
   <div id="system_next" class="next-presentation"></div>
@@ -118,16 +104,6 @@
   <div id="system_past" style="display:none"></div>
   <p><button onclick="toggleVisibility('system_future')">📅 Show/Hide Future Presentations</button></p>
   <div id="system_future" style="display:none"></div>
-</div>
-
-<h2 id="machine-learning-mldmdlcvnlpalgotheory">Machine Learning (ML/DM/DL/CV/NLP/Algo/Theory)</h2>
-
-<div class="presentation-section">
-  <div id="machine_learning_next" class="next-presentation"></div>
-  <p><button onclick="toggleVisibility('machine_learning_past')">📅 Show/Hide Past Presentations</button></p>
-  <div id="machine_learning_past" style="display:none"></div>
-  <p><button onclick="toggleVisibility('machine_learning_future')">📅 Show/Hide Future Presentations</button></p>
-  <div id="machine_learning_future" style="display:none"></div>
 </div>
 
 <h4 id="search-presentations">Search Presentations</h4>
@@ -150,19 +126,19 @@
 	  <div class="row">
 		<div class="col-sm-4">
 			
-		  <p>&copy IntelliStream Research Group. Adapted from Allan Lab. This site is made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="http://localhost:4000/aboutwebsite.html">copy and  modify it for your own research group.</a> Icons made by <a href="https://www.flaticon.com/authors/dave-gandy" title="Dave Gandy">Dave Gandy</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com.</a></p>
+		  <p>&copy IntelliStream Research Group. </p>
 
-              <p>We are part of the <a href="https://istd.sutd.edu.sg/">ISTD Pillar</a> at <a href="https://sutd.edu.sg/">the Singapore University of Technology and Design</a>.</p>
+              <!-- <p>We are part of the <a href="https://istd.sutd.edu.sg/">ISTD Pillar</a> at <a href="https://sutd.edu.sg/">the Singapore University of Technology and Design</a>.</p> -->
                     
 		</div>
-		<div class="col-sm-4">	
+<!-- 		<div class="col-sm-4">	
 		 <p> Fundings: <br />
 		- Two Research Grants (FCP-SUTD-RG-2022-005, FCP-SUTD-RG-2022-006) from National Research Foundation, Singapore and Infocomm Media Development Authority under its Future Communications Research & Development Programme <br /> 
 		- One MOE Tier 2 Grant (MOE-T2EP20122-0010) from Ministry of Education (MOE) of Singapore <br />
 		- Multiple Research Grants from Temasek Labs@SUTD, SUTD-ZJU IDEA office and SUTD Kickstarter Initiative (SKI) office. </p>
-		</div>
+		</div> -->
 		
-		<div class="col-sm-4">
+<!-- 		<div class="col-sm-4">
 		  Contact:<br />
 		  ISTD Pillar, SUTD<br />
 		  8 Somapah Rd, <br />
@@ -172,7 +148,7 @@
 			 <a href="https://twitter.com/shuhao_tony"><img src="http://localhost:4000/images/footer/twitter.png" style="width: 20px" ></a>
 			<a href="https://github.com/intellistream/"> <img src="http://localhost:4000/images/footer/github.png" style="width: 20px" ></a>
 			<a href="https://scholar.google.com/citations?user=Xwn7lCEAAAAJ"> <img src="http://localhost:4000/images/footer/scholar.png" style="width: 20px" ></a></br>
-		</div>
+		</div> -->
 	  </div>
 	</div>
   </div>

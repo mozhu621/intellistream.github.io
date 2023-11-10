@@ -82,8 +82,7 @@
 
 
   // Sort and categorize presentations for each category
-  const system = sortAndCategorizePresentations(system_presentations);
-  const machine_learning = sortAndCategorizePresentations(machine_learning_presentations);
+  const system = sortAndCategorizePresentations(presentations);
 
   // Display past, next, and future presentations for each category
   displayPresentations(system.past, 'system_past');
