@@ -24,30 +24,33 @@ From a high-level point of view, our research goal is to optimize and utilize di
 		- [Profiling of Streaming System on Multicore (ICDE'17)](https://doi.org/10.1109/ICDE.2017.119)
 	- <i>Early Work</i>:
 		- <a href="https://dl.acm.org/doi/10.14778/2536274.2536319">APU Systems</a> (VLDB'13, VLDB'14, MASCOTS'15, TPDS'17)
-    	- <a href="https://ieeexplore.ieee.org/document/7425227">FPGA Systems</a> (TPDS'16)
-	- Notes: This is the place that we are <b>traditionally strong at</b>. Join us in this place if you love <i> design for computer-architecture-aware algorithm optimizations </i> and are <b>very strong</b> in C/C++ programming/CUDA/OpenCL
+		- <a href="https://ieeexplore.ieee.org/document/7425227">FPGA Systems</a> (TPDS'16)
+
+> 	Notes: This is the place that we are <b>traditionally strong at</b>. Join us in this place if you love <i> design for computer-architecture-aware algorithm optimizations </i> and are <b>very strong</b> in C/C++ programming/CUDA/OpenCL
 
 - <b>[Transactional Stream Processing]</b> Transactional stream processing (TSP) frameworks and its applications in LLM, NFV etc. 
 	- <i>TSP System</i>: 
-		- [Towards Scalable TSP on Multicores (ICDE'20)](https://doi.org/10.1109/ICDE48307.2020.00136)
 		- [Scalable TSP on Multicores (SIGMOD'23)](https://intellistream.github.io/downloads/papers/MorphStream_CR.pdf) 
 		- [Survey on TSP (VLDBJ'23)](https://rdcu.be/dncBQ) 
 		- [More Scalable TSP on Multicores (arxiv'23<sup>c</sup>)](https://arxiv.org/pdf/2307.12749.pdf)
+		- [Towards Scalable TSP on Multicores (ICDE'20)](https://doi.org/10.1109/ICDE48307.2020.00136)
 	- <i>Its Applications</i>: 
 		- [TSP for Network Function virtualization (NFV) (arxiv'23<sup>a</sup>)](https://arxiv.org/pdf/2307.10732.pdf) 
 		- [TSP for Large Language Model (LLM) (arxiv'23<sup>b</sup>)](https://arxiv.org/pdf/2307.08225.pdf)
-	- Notes: This is the place that we are <b>exploring actively</b>. Join us in this place if you love <i> (large-scale, 100K+ LoC) novel database system design </i> and are <b>very good</b> in Java/C++ programming
+
+>	Notes: This is the place that we are <b>exploring actively</b>. Join us in this place if you love <i> (large-scale, 100K+ LoC) novel database system design </i> and are <b>very good</b> in Java/C++ programming
 
 - <b>[Data (Stream)-Centric AI]</b> High performance online machine learning, data stream mining, data stream preprocessing algorithms/systems 
 	- <i>Data Stream Mining</i>: 
-		- [Progressive Trajectory Exploration (BigMM'19)](https://dl.acm.org/doi/abs/10.5555/3489146.3489189) 
 		- [In-Depth Study of Data Stream Clustering (SIGMOD'23)](https://dl.acm.org/doi/abs/10.1145/3589307) 
 		- [Self-Optimizing Data Stream Clustering (arxiv'23<sup>a</sup>)](https://arxiv.org/abs/2309.04799)
+		- [Progressive Trajectory Exploration (BigMM'19)](https://dl.acm.org/doi/abs/10.5555/3489146.3489189) 
 	- <i>Online Machine Learning</i>: 
-		- [Scalable Polarity Labelling (arxiv'22)](https://arxiv.org/abs/2203.12368) 
 		- [Co-Training-based Online Sentiment Analysis (EMNLP'23, <i>Main</i>)](https://intellistream.github.io/downloads/papers/sentistream_EMNLP.pdf) 
 		- [Online Continual Knowledge Learning (arxiv'23<sup>b</sup>)](https://intellistream.github.io/downloads/papers/preprints/OCKL.pdf)
-	- Notes: This is the place that we are <b>exploring actively</b>. Join us in this place if you love to <i> explore the intersection between data management and data science </i> and are <b>good</b> in C++/Python programming and Machine Learning/Data Mining
+		- [Scalable Polarity Labelling (arxiv'22)](https://arxiv.org/abs/2203.12368)
+
+>	Notes: This is the place that we are <b>exploring actively</b>. Join us in this place if you love to <i> explore the intersection between data management and data science </i> and are <b>good</b> in C++/Python programming and Machine Learning/Data Mining
 
 <script>
   function toggleVisibility(id) {
