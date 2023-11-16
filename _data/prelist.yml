@@ -1,3 +1,13 @@
+- title: "Online Continual Knowledge Learning for Language Models"
+  image: xx.png
+  description: 
+  authors: Yuhao Wu, Tongjun Shi, Karthick Sharma, Chun Wei Seah, Shuhao Zhang
+  link:
+    url: https://intellistream.github.io/downloads/papers/preprints/OCKL.pdf
+    display: arxiv
+  highlight: 0
+  news2: 
+  
 - title: "A Modular and Self-Optimizing Algorithm for Data Stream Clustering"
   image: xx.png
   description: 
